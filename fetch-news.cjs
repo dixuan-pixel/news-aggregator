@@ -63,7 +63,8 @@ async function fetchText(url) {
 
 function stripHtml(html) {
   let t = String(html || '')
-    .replace(/<[^>]*>/g, ' ')
+    .replace(/&lt;[^&]*&gt;/g, ' ')     // 先去掉实体编码的 HTML 标签（如 &lt;a href="..."&gt;）
+    .replace(/<[^>]*>/g, ' ')          // 再去掉原始 HTML 标签
     .replace(/&nbsp;/g, ' ')
     .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
@@ -72,8 +73,8 @@ function stripHtml(html) {
     .replace(/&#39;|&apos;/g, "'")
     .replace(/\s+/g, ' ')
     .trim();
-  // 去掉纯 URL 或只剩空字符串的摘要（Google News 常有只有链接的情况）
-  if (!t || t.length <= 8 || /^https?:\/\//.test(t)) return '';
+  // 去掉只剩空字符串或纯 URL 的摘要（Google News 常有只有链接的情况）
+  if (!t || /^https?:\/\//.test(t)) return '';
   return t;
 }
 
@@ -132,7 +133,7 @@ function parseItems(xml) {
     const finalTitle = sourceClean && titleClean.endsWith(' - ' + sourceClean)
       ? titleClean.slice(0, titleClean.length - sourceClean.length - 3).trim()
       : titleClean;
-    return { title: finalTitle, link: stripHtml(link), pubDate: stripHtml(pubDate), description: stripHtml(description).slice(0, 200), source: sourceClean };
+    return { title: finalTitle, link: link.trim(), pubDate: stripHtml(pubDate), description: stripHtml(description).slice(0, 200), source: sourceClean };
   }).filter(i => i.title && i.title.length > 3 && i.link);
 }
 
