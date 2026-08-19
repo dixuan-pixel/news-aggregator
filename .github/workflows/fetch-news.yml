@@ -1,0 +1,68 @@
+name: 定时抓取新闻并部署
+
+on:
+  schedule:
+    # 每小时第 20 分钟运行（UTC 时间，避开整点高峰）
+    - cron: '20 * * * *'
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 运行抓取脚本（生成 news.json）
+        run: node fetch-news.cjs
+
+      - name: 提交 news.json（保留数据历史）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet news.json; then
+            echo "news.json 无变化，跳过提交"
+          else
+            git add news.json
+            git commit -m "chore: 更新新闻数据 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "已提交并推送新闻数据"
+          fi
+
+      - name: 配置 GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: 准备站点目录（仅发布页面与数据）
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp news.json _site/
+          ls -la _site/
+
+      - name: 上传站点产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
