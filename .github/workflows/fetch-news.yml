@@ -50,6 +50,8 @@ jobs:
       - name: 配置 GitHub Pages
         id: pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true # 自动启用 Pages（新仓库首次部署必需）
 
       - name: 准备站点目录（仅发布页面与数据）
         run: |
