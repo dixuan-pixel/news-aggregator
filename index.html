@@ -449,10 +449,17 @@ function updateLastUpdated() {
 }
 
 // ===== Render =====
+const CAT_ORDER = ['国内要闻','科技前沿','经济金融','国际局势','争议新闻','健康养生'];
+
 function renderNews() {
   const grid = document.getElementById('newsGrid');
 
-  let filtered = [...allNews].sort((a, b) => (b._ts || 0) - (a._ts || 0));
+  // 排序：先按固定分类分组（国内→科技→经济→国际→争议→健康），块内按时间倒序
+  let filtered = [...allNews].sort((a, b) => {
+    const oa = CAT_ORDER.indexOf(a.cat || ''), ob = CAT_ORDER.indexOf(b.cat || '');
+    const dc = (oa === -1 ? 99 : oa) - (ob === -1 ? 99 : ob);
+    return dc !== 0 ? dc : ((b._ts || 0) - (a._ts || 0));
+  });
 
   if (currentCategory !== 'all') {
     filtered = filtered.filter(n => n.cat === currentCategory);
@@ -545,7 +552,8 @@ async function loadNewsData() {
     const res = await fetch('news.json?t=' + Date.now());
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const data = await res.json();
-    if (!Array.isArray(data) || data.length < 10) throw new Error('数据异常');
+    // 只要有数据就展示（不再要求至少 10 条，宁可少也不留旧数据）
+    if (!Array.isArray(data) || data.length < 1) throw new Error('数据异常');
     allNews = data;
     isOnlineData = true;
     // 从最近一条新闻时间推算数据更新时间

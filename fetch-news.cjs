@@ -46,7 +46,6 @@ const TIMEOUT_MS = 15000;
 const MAX_ITEMS_PER_CATEGORY = 12;
 const OUTPUT_PER_CATEGORY = 10;
 const FRESH_WINDOW_HOURS = 48;
-const MIN_TOTAL = 30; // 少于30条不覆盖已有数据
 
 // ===== 工具函数 =====
 function timeoutSignal(ms) {
@@ -171,6 +170,23 @@ async function fetchFeed(url) {
   return parseItems(xml);
 }
 
+// 标题规范化：小写 + 去空格/标点/零宽字符，用于去重比较
+function normTitle(t) {
+  return String(t || '').toLowerCase().replace(/[\s\p{P}\uFEFF\u200B\u200C\u200D“”‘’«»]/gu, '');
+}
+
+// 保守去重：完全相等，或长串包含短串且长度差不超过 12 个字符（覆盖
+// Google News 的「- 来源」后缀与标题截断变体）。不用相似度阈值，
+// 避免误杀「XX国际局势第1/2/3…部分」这类仅序号不同的系列新闻。
+function titleSimilar(a, b) {
+  const na = normTitle(a), nb = normTitle(b);
+  if (!na || !nb) return false;
+  if (na === nb) return true;
+  if (na.length > nb.length && na.includes(nb)) return na.length - nb.length <= 12;
+  if (nb.length > na.length && nb.includes(na)) return nb.length - na.length <= 12;
+  return false;
+}
+
 // ===== 主流程 =====
 async function main() {
   console.log('[fetch-news] 开始抓取 ' + new Date().toISOString());
@@ -193,14 +209,12 @@ async function main() {
       if (all.length >= MAX_ITEMS_PER_CATEGORY) break;
     }
 
-    // 去重
-    const seen = new Set();
-    const unique = all.filter(i => {
-      const key = i.title.slice(0, 50);
-      if (seen.has(key)) return false;
-      seen.add(key);
-      return true;
-    });
+    // 去重（相似标题合并，保留靠前的一条）
+    const unique = [];
+    for (const i of all) {
+      if (unique.some(u => titleSimilar(u.title, i.title))) continue;
+      unique.push(i);
+    }
 
     // 排序：新鲜优先，其次时间倒序
     unique.sort((a, b) => {
@@ -235,12 +249,7 @@ async function main() {
 
   console.log(`[fetch-news] 抓取完成：${totalFetched} 条，失败分类：${failedCats.join('、') || '无'}`);
 
-  if (totalFetched < MIN_TOTAL) {
-    console.error(`[fetch-news] 不足 ${MIN_TOTAL} 条（${totalFetched}），保留现有 news.json`);
-    process.exit(1);
-  }
-
-  // 写文件（带换行符，方便 git diff）
+  // 写文件（带换行符，方便 git diff）。不设最低条数门槛：抓多少写多少，宁可少也不留旧数据。
   const outPath = path.join(__dirname, 'news.json');
   fs.writeFileSync(outPath, JSON.stringify(results, null, 2) + '\n', 'utf8');
   console.log(`[fetch-news] 已写入 ${outPath}（${results.length} 条）`);
