@@ -62,7 +62,7 @@ async function fetchText(url) {
 }
 
 function stripHtml(html) {
-  return String(html || '')
+  let t = String(html || '')
     .replace(/<[^>]*>/g, ' ')
     .replace(/&nbsp;/g, ' ')
     .replace(/&amp;/g, '&')
@@ -72,6 +72,9 @@ function stripHtml(html) {
     .replace(/&#39;|&apos;/g, "'")
     .replace(/\s+/g, ' ')
     .trim();
+  // 去掉纯 URL 或只剩空字符串的摘要（Google News 常有只有链接的情况）
+  if (!t || t.length <= 8 || /^https?:\/\//.test(t)) return '';
+  return t;
 }
 
 function escapeXml(str) {
