@@ -81,6 +81,8 @@ function stripHtml(html) {
     .replace(/&#39;|&apos;/g, "'")
     .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
     .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    // 某些 RSS 把 iframe 等标签实体编码；解码后必须再清理一遍。
+    .replace(/<[^>]*>/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
   // 去掉只剩空字符串或纯 URL 的摘要（Google News 常有只有链接的情况）

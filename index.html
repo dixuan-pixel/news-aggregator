@@ -457,6 +457,12 @@ function updateLastUpdated() {
 // ===== Render =====
 const CAT_ORDER = ['国内要闻','科技前沿','经济金融','国际局势','争议新闻','健康养生'];
 
+function escapeHtml(value) {
+  return String(value ?? '').replace(/[&<>"']/g, ch => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  })[ch]);
+}
+
 function renderNews() {
   const grid = document.getElementById('newsGrid');
 
@@ -501,16 +507,17 @@ function renderNews() {
   grid.innerHTML = filtered.map((n, i) => {
     const timeDisplay = n._ts ? timeAgo(n._ts) : (n.time || '');
     const freshnessClass = n._isFresh === false ? ' stale' : '';
+    const url = /^https?:\/\//i.test(n.url || '') ? n.url : '#';
     return `
-    <div class="news-card${freshnessClass}" style="animation-delay:${i * 0.03}s" onclick="window.open('${n.url || '#'}','_blank')">
+    <div class="news-card${freshnessClass}" style="animation-delay:${i * 0.03}s" data-url="${escapeHtml(url)}" onclick="window.open(this.dataset.url,'_blank','noopener')">
       <div class="card-top">
-        <span class="cat-badge ${n.cat}">${n.cat}</span>
-        <span class="card-time">${timeDisplay}</span>
+        <span class="cat-badge ${escapeHtml(n.cat)}">${escapeHtml(n.cat)}</span>
+        <span class="card-time">${escapeHtml(timeDisplay)}</span>
       </div>
-      <div class="card-title">${n.title}</div>
-      <div class="card-summary">${n.summary || '暂无摘要'}</div>
+      <div class="card-title">${escapeHtml(n.title)}</div>
+      <div class="card-summary">${escapeHtml(n.summary || '暂无摘要')}</div>
       <div class="card-bottom">
-        <span class="card-source">${n.source}</span>
+        <span class="card-source">${escapeHtml(n.source)}</span>
         <span class="card-link">阅读全文 →</span>
       </div>
     </div>
