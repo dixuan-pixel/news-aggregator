@@ -261,6 +261,16 @@
   },
   {
     "cat": "经济金融",
+    "title": "“单次发货近万台” 国产机器人全球爆单",
+    "summary": "生产线满负荷运转",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680979.shtml",
+    "time": "2026-08-20",
+    "_ts": 1787206637000,
+    "_isFresh": true
+  },
+  {
+    "cat": "经济金融",
     "title": "闽宁协作三十载：山海牵手育金鸡 双向赋能促共富",
     "summary": "点击查看新闻详情",
     "source": "中国新闻网",
@@ -287,16 +297,6 @@
     "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680942.shtml",
     "time": "2026-08-20",
     "_ts": 1787204971000,
-    "_isFresh": true
-  },
-  {
-    "cat": "经济金融",
-    "title": "中国LPR连续15个月不变 “多锚并行”料提升LPR报价效率",
-    "summary": "中新社北京8月20日电 (记者 庞无忌)中国人民银行授权全国银行间同业拆借中心20日公布最新一期贷款市场报价利率(LPR)：1年期LPR为3.0%，5年期以上LPR为3.5%。两个期限品种的LPR均已连续15个月“按兵不动”。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680938.shtml",
-    "time": "2026-08-20",
-    "_ts": 1787204462000,
     "_isFresh": true
   },
   {
@@ -441,22 +441,52 @@
   },
   {
     "cat": "争议新闻",
-    "title": "青岛警方通报“女子在公园被男子辱骂”：违法行为人已到案",
-    "summary": "中新网8月20日电 据“崂山公安”微信公众号消息，青岛市公安局崂山分局8月20日发布警情通报：近日，网传一名女子在我区海之恋公园被一名男子辱骂视频引发关注。对此，我局高度重视，已立案开展全面调查，违法行为人已到案。下一步，将根据调查取证情况依法处理，及时向社会公布。",
+    "title": "“最美医生”陆金根：半世纪悬壶行医，79岁的他还在坐诊",
+    "summary": "龙华医院终身教授陆金根当选“最美医生”，为上海获此荣誉的首位中医",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680790.shtml",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680976.shtml",
     "time": "2026-08-20",
-    "_ts": 1787194552000,
+    "_ts": 1787206509000,
     "_isFresh": true
   },
   {
     "cat": "争议新闻",
-    "title": "线上心理咨询行业问题调查：7天速成拿证 “包治抑郁”成引流话术",
-    "summary": "7天速成拿证 “包治抑郁”成引流话术——线上心理咨询行业问题调查",
+    "title": "中国科学院海洋研究所联合海外机构在南极研究方面取得重要进展",
+    "summary": "中新网青岛8月20日电 (记者 胡耀杰)中国科学院海洋研究所20日发布消息称，该所联合美国加州大学圣巴巴拉分校等机构，在南极冰盖近期质量变化的气候驱动机制研究方面取得重要进展。研究发现，2021年至2023年热带暖池持续增暖激发向南极传播的罗斯贝波列，形成东南极南北向偶极环流，重组水汽输送并增强区域降雪，从而暂时减缓南",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680838.shtml",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680962.shtml",
     "time": "2026-08-20",
-    "_ts": 1787194198000,
+    "_ts": 1787206503000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "福建邵武农技专家深耕田野37年 助海内外民众增收",
+    "summary": "中新网南平8月20日电(邓贤龙)在福建南平邵武市沿山镇竹荪种植大棚内，农业技术推广研究员陈克华常年扎根田间，指导农户管护种植、优化栽培技术，被当地村民亲切称作“蘑菇教授”。三十七载深耕基层农技一线，他潜心食用菌技术研发与推广，带动地方特色产业提质增效、群众稳定增收，十余年间多次远赴海外开展农技援助，以闽北农业技术助力多",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680963.shtml",
+    "time": "2026-08-20",
+    "_ts": 1787206425000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "深耕海南自贸港的“哈罗故事”",
+    "summary": "点击查看新闻详情",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680971.shtml",
+    "time": "2026-08-20",
+    "_ts": 1787206247000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "南海热带低压登陆海南岛 强降水天气维持",
+    "summary": "中新网海口8月20日电 (记者 王子谦)记者20日上午从海南省气象台了解到，南海热带低压当天5时40分在文昌市龙楼镇登陆，受其影响，20日～23日海南岛仍有强降水天气过程。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680954.shtml",
+    "time": "2026-08-20",
+    "_ts": 1787206126000,
     "_isFresh": true
   },
   {
@@ -467,36 +497,6 @@
     "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680960.shtml",
     "time": "2026-08-20",
     "_ts": 1787205233000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "“照亮0-3”，公益力量触达儿童早期发展“最后一公里”",
-    "summary": "点击查看新闻详情",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680941.shtml",
-    "time": "2026-08-20",
-    "_ts": 1787204775000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "当医师节遇上七夕，一起听听三对医生夫妻的故事",
-    "summary": "医生夫妻的浪漫 是“并肩战斗”在病房",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680951.shtml",
-    "time": "2026-08-20",
-    "_ts": 1787204190000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "“不管怎样我都要把你治好”：他们一分一厘拼凑着未来",
-    "summary": "为攒手术费，脊柱畸形的她夜市摆摊做美甲，男友一天送十四小时外卖",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680940.shtml",
-    "time": "2026-08-20",
-    "_ts": 1787203768000,
     "_isFresh": true
   },
   {
@@ -511,19 +511,9 @@
   },
   {
     "cat": "健康养生",
-    "title": "穿越周期，定义未来 | 2026年度医疗健康行业CEO评选启动",
-    "summary": "点击查看新闻详情",
-    "source": "Jiemian.com",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hSUQxamJORXdZUXFJZXhxUlhyNllyT2RGU1RPWnNUMHE0blNPa1J3MlRYMUNtc2pBX3BqU200Q0czQ0FXNnhRc1Nsc1J4MFVRb0JRU3BHVF8?oc=5",
-    "time": "2026-08-20",
-    "_ts": 1787198665000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
     "title": "全民医保“十五五”规划发布未来5年全面建成多层次医疗保障体系（民生一线）",
     "summary": "点击查看新闻详情",
-    "source": "中国日报网",
+    "source": "cn.chinadaily.com.cn",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94NnN6Z3VLRnJpbDdxYThXdE5fcktIZi04NUNwcHFtV2FFVkxTc2VoeDJLZDRTUGVCU3hSWENBZFBrcTJHalUtd2dGZnpSS3ZtdW5FSW1YNWVaemFVYVZfN284Ri1YeE9jT0EwVmRFWlNMSGVkdThoSFJCc1k?oc=5",
     "time": "2026-08-20",
     "_ts": 1787193240000,
@@ -563,7 +553,7 @@
     "cat": "健康养生",
     "title": "海思科镇痛新药获批，布局偏头痛赛道",
     "summary": "点击查看新闻详情",
-    "source": "21财经",
+    "source": "21jingji.com",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFFwQmQ1SExzcnhRZDI5N1V6NVJvV294OUtIWWJFUGJadjFPeGJhSjA1Y1plVVRrZlZfN3hiLWNyd050X2tJcXNVdmhOVmI5cXNmN3NwcGdpeDlfYVVuelpTYzVPX3ZyVF9QYUdFZVJGZUhkOENsNkZIV0szdWRiVzA1TGZRMU92NVlobg?oc=5",
     "time": "2026-08-19",
     "_ts": 1787108580000,
@@ -573,8 +563,8 @@
     "cat": "健康养生",
     "title": "mRNA领域首次突破：Moderna默沙东新型癌症疫苗可防止黑色素瘤复发",
     "summary": "点击查看新闻详情",
-    "source": "finance.sina.com.cn",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeTZOVmRRWFpjeS1TVU1RMXhuSjRkYTJSc1I4aVF1Ty0tSEItX0RKdF9XV0V4Z3FCQ0p6aEJBOTcyeDlzdDBuWDR2Qk1QWThaNGx4NV81QzJWcHJBRnhnVnQwRDlvUlh5VGlGVk8wdjA2TlU0LXRRU043TEhuWWpOZ25XMXpiWlk?oc=5",
+    "source": "新浪网",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNXVGYkV0cHRuSnpobklaQ01hcU92NVdmWGhBeGNjZWhZUkNoXzVjRjNPdXhRT3VNUUwxb29TaDFYTjNWZ2ZtT2x3Mi1nOGlYU2lkZUpicFc3SHkyWXo0WnJhRS1OaU5tZUE0UFdJbTVnMG9wWW5xVjVTWXZnNy1vQ2txUVNhcEVVZXhaS1RfVjVrMm5UOU1EUUxqUm5Xc1l6SXVORnFsOXo2S1laWGFscjR1Um1QekdxY04tbFYzbGpHdXR3NTN3NVRyZW14RHEyZklhLXptV0Q1aHF0aHc?oc=5",
     "time": "2026-08-19",
     "_ts": 1787141220000,
     "_isFresh": true
