@@ -101,6 +101,26 @@
   },
   {
     "cat": "科技前沿",
+    "title": "Mercury：AMD 客户端 CPU 份额首次突破 30%，英特尔优势进一步缩小",
+    "summary": "IT之家 8 月 21 日消息，Mercury Research 当地时间 8 月 20 日发布的最新数据显示，AMD 在 2026 年第二季度首次占据超过 30% 的 x86 客户端 CPU 出货份额（30.3%），相比两年前 21.1% 的份额明显提升，进一步缩小了与英特尔（69.7%）之间的市场差距。 与 202",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/992/881.htm",
+    "time": "2026-08-21",
+    "_ts": 1787325950000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "美银分析师：特努斯出任苹果 CEO 或推行更大规模收购，拓展公司业务阵容",
+    "summary": "IT之家 8 月 21 日消息，蒂姆 · 库克的苹果 CEO 任期即将结束，约翰 · 特努斯将于 9 月 1 日接替他的工作。美国银行分析师 Wamsi Mohan 认为，特努斯以后可能会让苹果变得加大胆、风险偏好更高。 苹果的 CEO 交接工作差不多已经完成。到目前为止，苹果一直强调特努斯将延续此前战略。而 Wams",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/992/878.htm",
+    "time": "2026-08-21",
+    "_ts": 1787325295000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
     "title": "九州风神推出 CC350 4F 机箱：预装 4 把 120mm 风扇、兼容 240mm 水冷，179 元",
     "summary": "IT之家 8 月 21 日消息，九州风神现已在京东上架 CC350 4F 风道机箱，定价为 179 元。 该机箱尺寸为 363x208x395mm，支持 Mini-ITX、Micro-ATX、ATX 主板。机箱整体造型简洁，正面采用格栅设计，顶部提供 1 个 USB-A 3.0、2 个 USB-A 2.0、1 个 3.",
     "source": "IT之家",
@@ -177,26 +197,6 @@
     "url": "https://www.ithome.com/0/992/844.htm",
     "time": "2026-08-21",
     "_ts": 1787314856000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "国产 NAND 龙头长江存储冲刺科创板：IPO 审核状态变更为已受理，拟融资 330 亿元",
-    "summary": "IT之家 8 月 21 日消息，上海证券交易所网站显示，长江存储控股股份有限公司（IT之家下称“长江存储”）首次公开发行股票并在科创板上市的 IPO 审核状态已变更为“已受理”。 公司拟融资金额为 330 亿元，保荐机构为中信证券和中信建投 。 此前 8 月 19 日，长江存储 IPO 辅导状态刚由证监会官网公示变更为",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/992/843.htm",
-    "time": "2026-08-21",
-    "_ts": 1787314486000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "AGM 推出 PAD P3 Compact 三防小平板：8.68 英寸屏幕，联发科 Helio G99 芯片",
-    "summary": "IT之家 8 月 21 日消息，AGM 现已推出 PAD P3 Compact 三防小平板，新机专为户外工作场景设计，采用小屏设计，定价 279.99 美元 （IT之家注：现汇率约合 1,887 元人民币） 。 据介绍， 这款平板搭载一块 8.68 英寸屏幕 ，分辨率为 800*1340，支持 120Hz 高刷，最高亮",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/992/833.htm",
-    "time": "2026-08-21",
-    "_ts": 1787311342000,
     "_isFresh": true
   },
   {
@@ -291,12 +291,12 @@
   },
   {
     "cat": "经济金融",
-    "title": "海南洋浦港审批便利化新举措提升国际船舶进口岸效率",
-    "summary": "中新网海南洋浦8月21日电 (贾兴宇)海南洋浦港正在高标准建设西部陆海新通道国际航运枢纽，集装箱吞吐量快速增长。洋浦海事局21日介绍，近日推出针对国际航行集装箱船舶进口岸审批便利化新举措，实现“一次信息留存、多次便利申报”。",
+    "title": "美国政府紧急下场救市难解美债危局",
+    "summary": "美国的债务问题，已经到了连自己人都捂不住的地步了。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682115.shtml",
+    "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682122.shtml",
     "time": "2026-08-21",
-    "_ts": 1787321189000,
+    "_ts": 1787326511000,
     "_isFresh": true
   },
   {
@@ -493,10 +493,10 @@
     "cat": "争议新闻",
     "title": "贵州茅台召开半年度业绩说明会，回应业绩、库存、国际化等热点话题",
     "summary": "点击查看新闻详情",
-    "source": "证券时报",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8waWV0S1RiaWFfcnNJNDdLb29reUl3d0ZZVnU4VGM1QjhHbDBXZzZqZVl0YXByeHAtekI5WkVfQllVV2haLXBYN2ttdDV6UFkyR1hVRUl5X3JHbkxT?oc=5",
+    "source": "东方财富",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EckpBajVaYlJEOFJua2E1Q2RBYmtxbGx0empUWUJkTVJBOGg1YkxOb1ZkNTNQa25Qc1AyRWlDeDY0WHQwQzhyYlRJUWFEUnNkbGVXcTRUWEctNGl5MXI0SQ?oc=5",
     "time": "2026-08-21",
-    "_ts": 1787305200000,
+    "_ts": 1787309775000,
     "_isFresh": true
   },
   {
@@ -523,10 +523,10 @@
     "cat": "健康养生",
     "title": "又一款“成都造”1类新药获批上市！为罕见病PNH患者治疗带来新选择",
     "summary": "点击查看新闻详情",
-    "source": "凤凰网",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Zd2xlanItV3p5Y3JlcUV1WTVoU1VrM1ZPdWVBMlptMjhaajB5em4yVlJ4bzA4YVUtbzlCWWs1Zll4aVhaWG5WMA?oc=5",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14RFB4M3FpLVpXTTFNbWV2WE1lZnJHQU9nMEhER0g1YS1HZUt2MVlXcUE0cHhYbWQ3VG1pRmNqdmlNZ041MnZTMlN2cHlYVk1IVzktOTZlYkhsR21RdjllNnpMVW9KVTdFMjRvSFNJZFZhQWFJMEczWkFpSG5RcFU?oc=5",
     "time": "2026-08-21",
-    "_ts": 1787306218000,
+    "_ts": 1787306160000,
     "_isFresh": true
   },
   {
