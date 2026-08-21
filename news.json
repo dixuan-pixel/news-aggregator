@@ -291,12 +291,22 @@
   },
   {
     "cat": "经济金融",
-    "title": "美国政府紧急下场救市难解美债危局",
-    "summary": "美国的债务问题，已经到了连自己人都捂不住的地步了。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682122.shtml",
+    "title": "继SK海力士推出回购方案后，三星计划最高向股东返还800亿美元",
+    "summary": "点击查看新闻详情",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVNodGJTbkFUQUpkNGs2SXBCblNFcUFoYndvdnlvc01XcFhvQU4zRHVESTZ6RVRMbkVHRzRnVnFhVnFvZmpxZllEc1BhR2dfc09XZGRIcDFHT3VWZDJqRmFYX042R1ZDV2M5MWJHNjVpOFhOMy1PWXhQem5nLXVSVTNVMHdLcG8?oc=5",
     "time": "2026-08-21",
-    "_ts": 1787326511000,
+    "_ts": 1787308440000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "美议员促FDA收紧中国临床数据规范 3宗死亡案例引发安全疑虑",
+    "summary": "美国国会两名共和党众议员本周五致函美国食品暨药物管理局（FDA）代理局长凯尔・迪亚曼塔斯（Kyle Diamantas），要求收紧中国临床试验数据，在美国药物开发及审批中的使用规定。",
+    "source": "REUTERS/Shannon Stapleton/File Photo",
+    "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260821-%E7%BE%8E%E8%AE%AE%E5%91%98%E4%BF%83fda%E6%94%B6%E7%B4%A7%E4%B8%AD%E5%9B%BD%E4%B8%B4%E5%BA%8A%E6%95%B0%E6%8D%AE%E8%A7%84%E8%8C%83-3%E5%AE%97%E6%AD%BB%E4%BA%A1%E6%A1%88%E4%BE%8B%E5%BC%95%E5%8F%91%E5%AE%89%E5%85%A8%E7%96%91%E8%99%91",
+    "time": "2026-08-21",
+    "_ts": 1787334611000,
     "_isFresh": true
   },
   {
@@ -387,16 +397,6 @@
     "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681815.shtml",
     "time": "2026-08-21",
     "_ts": 1787301088000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "调查：菲律宾第二季度自评贫困和饥饿率上升",
-    "summary": "中新社马尼拉8月21日电 (记者 周璟)菲律宾OCTA研究机构最新调查显示，2026年第二季度，菲律宾自评贫困率和饥饿发生率均有所上升。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681738.shtml",
-    "time": "2026-08-21",
-    "_ts": 1787299126000,
     "_isFresh": true
   },
   {
@@ -493,7 +493,7 @@
     "cat": "争议新闻",
     "title": "董事长陈华业绩会首秀，茅台回应二季度业绩下行等热点话题！i茅台累计注册用户9690万；社会库存健康，过往价格体系远离真实需求",
     "summary": "点击查看新闻详情",
-    "source": "搜狐网",
+    "source": "Sohu",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SM0ZaQS1mT29WOENraU5qcXRsY29LVWc3ak04aGNWNEZFQnk1RUdSQm1nd1piemtJUF9BX0d5X3lTbmFNWVAxVTVPeFpNU1lpZE5IN1VR?oc=5",
     "time": "2026-08-21",
     "_ts": 1787316070000,
@@ -561,6 +561,16 @@
   },
   {
     "cat": "健康养生",
+    "title": "恒瑞医药1类新药富马酸立康可泮胶囊获批上市",
+    "summary": "点击查看新闻详情",
+    "source": "观点网",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sMkhUZFB2alN3ZEpOVzE4bVdHQmh3cTlGWWFqcnlMeE45b0Jna251ZHp1djFtU3FXTFhXQld2RHRCZ1hSLUZHcVAtNlhPcjlVNWxUeThxNHIzWU1MZTA3U09B?oc=5",
+    "time": "2026-08-20",
+    "_ts": 1787268502000,
+    "_isFresh": true
+  },
+  {
+    "cat": "健康养生",
     "title": "国家卫健委发布会丨介绍时令节气与健康_上直播_澎湃新闻-The Paper",
     "summary": "点击查看新闻详情",
     "source": "thepaper.cn",
@@ -587,16 +597,6 @@
     "url": "https://www.chinanews.com.cn/jk/2026/08-21/10681853.shtml",
     "time": "2026-08-21",
     "_ts": 1787305607000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "国家卫生健康委：接种流感疫苗是预防流感最经济有效的手段",
-    "summary": "中新网8月21日电 国家卫生健康委21日举行新闻发布会，会上，中国疾病预防控制中心研究员王富珍表示，接种流感疫苗是预防流感最经济有效的手段。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/jk/2026/08-21/10681782.shtml",
-    "time": "2026-08-21",
-    "_ts": 1787302844000,
     "_isFresh": true
   }
 ]
