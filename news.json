@@ -31,6 +31,16 @@
   },
   {
     "cat": "国内要闻",
+    "title": "福建启动防台风四级应急响应 平潭所有客渡船停航",
+    "summary": "中新社福州8月22日电 (记者 张金川 张丽君)受今年第20号台风“简拉维”影响，福建省防汛抗旱指挥部22日15时启动防台风四级应急响应。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682475.shtml",
+    "time": "2026-08-22",
+    "_ts": 1787406002000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
     "title": "第四届两岸关系庐州论坛在合肥举行",
     "summary": "中新社合肥8月22日电 (记者 张俊)第四届两岸关系庐州论坛22日在安徽省合肥市举行。来自两岸的70余名专家学者参会，围绕两岸产业合作、文化交流等议题展开研讨。",
     "source": "中国新闻网",
@@ -90,13 +100,43 @@
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "山洪灾害气象预警：广西西南部部分地区发生山洪灾害可能性大",
-    "summary": "中国天气网讯 水利部和中国气象局8月22日18时联合发布红色山洪灾害气象预警：",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682393.shtml",
+    "cat": "科技前沿",
+    "title": "HMD T21 2nd 平板海外上市：10.36 英寸 2K 面板、搭紫光展锐 T7225 处理器",
+    "summary": "IT之家 8 月 22 日消息，HMD T21 2nd 平板现已在尼泊尔市场上市，目前暂时仅提供 4GB RAM + 128GB 存储空间版本，定价为 24499 尼泊尔卢比（IT之家注：约 1,076.10 元人民币）。8GB RAM + 256GB 存储空间版本将于 9 月上市。 该机拥有 IP52 认证，正面配备",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/993/103.htm",
     "time": "2026-08-22",
-    "_ts": 1787395783000,
+    "_ts": 1787406117000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "乔思伯推出 C6 MAX 机箱：风扇位可兼作硬盘位、侧透设计，229 元",
+    "summary": "IT之家 8 月 22 日消息，乔思伯现已在京东上架 C6 MAX 机箱，定价为 229 元。 京东 乔思伯 C6 MAX 机箱 229 元 直达链接 该机箱采用侧透设计，整体尺寸为 202x349x295mm，四面带有大面积 Mesh 网孔，顶部带有提手，机箱 I/O 位于正面，提供 1 个 USB-A 5Gbps、",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/993/102.htm",
+    "time": "2026-08-22",
+    "_ts": 1787405838000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "当贝推出 RX10 投影仪：0.33\" DMD 显示芯片、1200CVIA 流明，5499 元",
+    "summary": "IT之家 8 月 22 日消息，当贝现已在京东上架 RX10 投影仪，该产品主打灵动云台设计，采用 0.33\" DMD 显示芯片，提供 1200CVIA 流明， 定价为 5499 元 。 外观方面，该机采用一体式灵动云台，支持上下 225° 的俯仰角度调节，无需额外垫高即可自由改变投射位置。同时支持 AI 实时校正与全",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/993/101.htm",
+    "time": "2026-08-22",
+    "_ts": 1787404967000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "微软 Exchange 邮箱新增 50GB 空间，Business 用户陆续获得",
+    "summary": "IT之家 8 月 22 日消息，当地时间 8 月 19 日，微软宣布将为符合条件的用户增加 50GB 邮箱存储空间，使 Exchange Online 主邮箱容量上限从原来的 50GB 提高至 100GB。 此次变动适用于 Microsoft 365 Business Basic、Business Standard 和",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/993/099.htm",
+    "time": "2026-08-22",
+    "_ts": 1787404399000,
     "_isFresh": true
   },
   {
@@ -157,46 +197,6 @@
     "url": "https://www.ithome.com/0/993/045.htm",
     "time": "2026-08-22",
     "_ts": 1787390725000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "微软发布 Windows 备份 PowerShell 脚本，IT 管理员可直接删除备份数据",
-    "summary": "IT之家 8 月 22 日消息，微软当地时间 8 月 19 日发布了 PowerShell 的 WindowsBackupAdmin 脚本模块（版本 1.0.0），为 IT 管理员提供了一套管理 Windows 设置备份数据的 PowerShell 工具。 此前管理员需自行调用 Microsoft Graph API ",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/993/043.htm",
-    "time": "2026-08-22",
-    "_ts": 1787389930000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "蓝狐 Aura A1 手机将于 8 月 29 日发布：4.7 英寸 90Hz 面板、提供粉白黑三色可选",
-    "summary": "IT之家 8 月 22 日消息，蓝狐 BLUEFOX 宣布将于 8 月 29 日 14:30 开启 Aura A1 手机发布会，该机将于 15:30 在京东开启预售。 官方还同步放出了该机的外观视频，综合此前预热，该机提供粉白黑三种配色，尺寸预计为 117x54.6mm，正面搭载一块 4.7 英寸 1600x720 分",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/993/042.htm",
-    "time": "2026-08-22",
-    "_ts": 1787389620000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "街电自带线带屏“三合一充电新品”8 月 28 日上市：支持 67W 输出，赠一年共享移动电源免费使用权益",
-    "summary": "IT之家 8 月 22 日消息，街电宣布将于 8 月 28 日推出一款自带线带屏“三合一充电新品”，该产品整合了充电器功能和移动电源功能，同时号称还赠送给消费者“一年共享充电宝免费使用权益”。 参考官方预热，该产品支持 67W 输出，正面配备一块彩屏，支持显示输出功率、电量信息等参数。背面匹配可折叠插脚。同时将官方目前",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/993/036.htm",
-    "time": "2026-08-22",
-    "_ts": 1787389231000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "英伟达否认年底前推出中国特供 AI 芯片：路线图中无此产品",
-    "summary": "IT之家 8 月 22 日消息，The Information 昨日报道称英伟达计划在年底前向中国客户小批量出货一款定制 AI 芯片，英伟达随后予以明确否认。 英伟达发言人表示：“The Information 关于英伟达 LPU 的报道不实。我们目前在中国市场没有 LPU 销售，产品路线图中也没有针对中国市场的 LP",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/993/033.htm",
-    "time": "2026-08-22",
-    "_ts": 1787388925000,
     "_isFresh": true
   },
   {
@@ -341,6 +341,16 @@
   },
   {
     "cat": "国际局势",
+    "title": "中东局势冲击国际油价 本地汽油价格再上调",
+    "summary": "点击查看新闻详情",
+    "source": "华人头条",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3VIUmJhb055YW9NdDNXV003TDJxb3RXR1k5Ukh2amVQSG1aOUpUaWFkLUVaYUd2RTRwRC1vSU9KbHpaTG9KblQxWDJBWTVOVkVaUXBRaThqOE9MWGw1VDltd0EyLURETjhVUnpDUDB5QkE2SkFyQ3A0SERRaEI4OWhwUFY0M3hI?oc=5",
+    "time": "2026-08-22",
+    "_ts": 1787399742000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
     "title": "市场观望中东局势进展 WTI价格突破85美元",
     "summary": "点击查看新闻详情",
     "source": "CME Group",
@@ -381,22 +391,12 @@
   },
   {
     "cat": "国际局势",
-    "title": "伊朗再批美对伊新制裁：比针对单个国家的“经济战”严重得多",
-    "summary": "中新社北京8月22日电 综合消息：伊朗外交部22日再次谴责美国对伊朗实施新经济制裁称，其性质比针对单个国家持续进行的非法“经济战”严重得多，将导致“可怕后果”。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682309.shtml",
+    "title": "美国封锁措施见效，消息人士称伊朗原油对中国买家报价减少、价格上涨",
+    "summary": "路透社周五（8月21日）的一篇深度报道披露，消息人士表示，由于美国实施的封锁措施导致伊朗原油运输量下降，本周面向中国买家的伊朗原油报价明显减少，价格则大幅上涨。",
+    "source": "AP - Hemmat Khahi",
+    "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260822-%E7%BE%8E%E5%9B%BD%E5%B0%81%E9%94%81%E6%8E%AA%E6%96%BD%E8%A7%81%E6%95%88%EF%BC%8C%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%8E%9F%E6%B2%B9%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%B9%B0%E5%AE%B6%E6%8A%A5%E4%BB%B7%E5%87%8F%E5%B0%91-%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8",
     "time": "2026-08-22",
-    "_ts": 1787390498000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "引用中国《论语》谈“信”，高市早苗却陷“信任”危机",
-    "summary": "中新网8月22日电 近日，日本首相高市早苗频繁在社交媒体平台X上发长文，为她面临的质疑辩解。21日，她在一则帖文中引用《论语》中的“民无信不立”，强调获得国民信赖的重要性，并试图就其团队制作所谓“抹黑视频”等问题作出“澄清”。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682335.shtml",
-    "time": "2026-08-22",
-    "_ts": 1787387997000,
+    "_ts": 1787404211000,
     "_isFresh": true
   },
   {
@@ -407,6 +407,16 @@
     "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682431.shtml",
     "time": "2026-08-22",
     "_ts": 1787399551000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "山洪灾害气象预警：广西西南部部分地区发生山洪灾害可能性大",
+    "summary": "中国天气网讯 水利部和中国气象局8月22日18时联合发布红色山洪灾害气象预警：",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682393.shtml",
+    "time": "2026-08-22",
+    "_ts": 1787395783000,
     "_isFresh": true
   },
   {
@@ -490,23 +500,13 @@
     "_isFresh": true
   },
   {
-    "cat": "争议新闻",
-    "title": "闽北千年大碗茶邀客寻味古村",
-    "summary": "中新网南平8月22日电 (记者 张丽君)农舍院前烟火袅袅，粗瓷大碗一字排开，本地清明野茶氤氲出热气……8月22日，福建省南平市顺昌县桂溪村村民吴水娣摆上“顺昌桂溪大碗茶宴”(简称“大碗茶宴”)，招待八方来客。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682428.shtml",
-    "time": "2026-08-22",
-    "_ts": 1787399395000,
-    "_isFresh": true
-  },
-  {
     "cat": "健康养生",
     "title": "国家卫健委发布会：白血病不再是不治之症",
     "summary": "点击查看新闻详情",
-    "source": "搜狐网",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcndpd1pVcHhhcEpqV1dQTHBsaXlKOFFackVaZXA2LV9IRlQxcGxDVEhjaVNCcENBNl9jWmp0UVRNTVh6MGlkSFhySkI0bUI4eFAtMHNNbVlBMzdXSkxCc2R4Tk9PaTdoMWR5WkVQLTd2T3ZkeVNQaEVLYjAtMjlwWkZQZjlaS2NL?oc=5",
+    "source": "手机新浪网",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSWhYd3hvcThKbjZubTRZa2RRR0xBbnh0UXQtMHdyVGhYZTdnd3JIdWVyNG1uUzVUSncteTZUbUR6V0l0SmdpdV9Yd3ZnZ3ZYTmdnWnVHUG0yN2I5S0dHaFkwTGtPY2RnMExxX0l6bURSa3ZiaUVQMTdvT0RJYU9kMGstSS1IQmxvYTQwWGFCUGtPc192?oc=5",
     "time": "2026-08-22",
-    "_ts": 1787400016000,
+    "_ts": 1787404341000,
     "_isFresh": true
   },
   {
@@ -571,16 +571,6 @@
   },
   {
     "cat": "健康养生",
-    "title": "黑龙江省卫健委召开“时令节气与深化公立医院改革与高质量发展”主题新闻发布会",
-    "summary": "点击查看新闻详情",
-    "source": "搜狐网",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGJHNm1YSnU3Z1lGM1V5cXduc2tFeEVEWGpqbFdxN0pOc25fd3FROUhrSGtISUVWUzBMSndzOU5VZU8tWVhjdTZpZzBoWlpHdXpEd3V0YlZqX1U2X0hyNnMyLWlVX25IR3FodjRvRTJ5Z2ZMRlk0MzFlT2VPU0tkYVI1X2dPb1B0?oc=5",
-    "time": "2026-08-21",
-    "_ts": 1787300683000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
     "title": "产学研创新成果落地！瑞普生物必威安泰牛羊三价口蹄疫疫苗上市发布会顺利举办",
     "summary": "点击查看新闻详情",
     "source": "中宏网",
@@ -597,6 +587,16 @@
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYXp2TDdVdnVWaFlpU0pBSmVIaHdjS21kbUtTcWZacDR1OFlYSXd2Q05NSVZGUVIyYlA4eFo4VmVWU2ViTkRKc2Q0cWh3MFRaNENZeWlTQm0za184dkQ0V1Z4NWFFcnIycFhxTy1NNE9Ka0xuZmRURjBXYUd6RmxtbHEzYw?oc=5",
     "time": "2026-08-21",
     "_ts": 1787279520000,
+    "_isFresh": true
+  },
+  {
+    "cat": "健康养生",
+    "title": "养鹦鹉也有“医保”了！亚宠展现场众安保险发布三款宠物险新品",
+    "summary": "点击查看新闻详情",
+    "source": "上观新闻",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZnp1R0QtSUh4b1ZWN3QzenBkTTYxYnhlMThhQy1PLUVmTXNCT2VLUG15Si1FcENsY1RlbV93S2FzdkZFVjVyNDFQRWlHa3VZTldrTjNTS19kZw?oc=5",
+    "time": "2026-08-21",
+    "_ts": 1787278560000,
     "_isFresh": true
   }
 ]
