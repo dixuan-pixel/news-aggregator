@@ -1,12 +1,42 @@
 [
   {
     "cat": "国内要闻",
+    "title": "广西发布洪水蓝色预警",
+    "summary": "中新网南宁8月22日电(陈秋霞 周也茹)广西壮族自治区水文中心22日提供的信息显示，8月22日6时，明江支流派连河宁明县寨安乡河段超警1.50米。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682187.shtml",
+    "time": "2026-08-22",
+    "_ts": 1787363061000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
     "title": "中国考古机构首次赴南美洲开展联合考古",
     "summary": "北京时间8月22日，中国社会科学院考古研究所与秘鲁相关机构，在秘鲁苏佩，正式签署考古合作协议，将联合开展卡拉尔文明考古研究。",
     "source": "中国新闻网",
     "url": "https://www.chinanews.com.cn/gn/2026/08-22/10682145.shtml",
     "time": "2026-08-21",
     "_ts": 1787352752000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
+    "title": "台湾台南市发生大火 多人受伤",
+    "summary": "总台记者获悉，台湾台南市安南区22日凌晨1时许发生火灾，当地消防单位出动20多个分队前往救灾，在灭火过程中现场多次发生剧烈爆炸。有消息称，现场有多辆消防车、救护车被烧毁，至少有3名消防员、11位居民受伤。(总台记者 赵凯 黄惠馨)",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682169.shtml",
+    "time": "2026-08-22",
+    "_ts": 1787359861000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
+    "title": "台风“沙德尔”加强为台风级 将向西北方向移动强度逐渐增强",
+    "summary": "中国天气网讯 据中央气象台消息，今年第18号台风“沙德尔”已于昨天夜间加强为台风级，其中心今天(22日)早晨5点钟位于距离美国关岛东北方向约555公里的西北太平洋洋面上，就是北纬17.7度，东经147.5度，中心附近最大风力12级(35米/秒)，中心最低气压为970百帕，七级风圈半径350-420公里，十级风圈半径80",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682163.shtml",
+    "time": "2026-08-22",
+    "_ts": 1787359277000,
     "_isFresh": true
   },
   {
@@ -21,12 +51,32 @@
   },
   {
     "cat": "国内要闻",
+    "title": "中国人民银行、国家市场监督管理总局发布公告",
+    "summary": "点击查看新闻详情",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYmN6WXZmVWIxUlNER1ZtVWRWTXM1ZEdBV1BsZmF4bVp0RzNPekI3dHFKOWxhWTh6M1d4ZWVtRjA1OW15c28yZF9JMnNSMmowajZoTlFvSmJMTDJReUp4a29TUzVyUGkzSG5YZ29TV3FwNGZJZ2VRLVp5MXQxM3c1emdXWlUya0tNQmhiS180dkdKbXBBZkJjeHVPSm5oRDVS?oc=5",
+    "time": "2026-08-22",
+    "_ts": 1787360359000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
     "title": "两部门针对海南广西广东启动防汛防台风四级应急响应",
     "summary": "中新网8月21日电 据应急管理部微信公众号消息，北部湾热带低压已于21日下午加强为今年第19号台风(热带风暴级)，预计21日夜间至23日白天，该台风将在北部湾海面回旋少动，强度缓慢加强，最强可达强热带风暴级。受其和西南季风共同影响，未来三天，海南、广西南部、广东沿海地区将有大到暴雨，局地大暴雨。中央气象台8月21日18",
     "source": "中国新闻网",
     "url": "https://www.chinanews.com.cn/gn/2026/08-21/10682080.shtml",
     "time": "2026-08-21",
     "_ts": 1787318616000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
+    "title": "《中国百年历史人口报告》发布：低生育率能够被解决",
+    "summary": "点击查看新闻详情",
+    "source": "Jiemian.com",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yUU9nUDRFMUttWDlmSWtkWEFmTHJQWTh5aEVCbWJOWmx5SEJ5OXNRNXI4SmpsQ0YyOVVmdUM5THowZDB1R0ZsYzRLM3UyYnlHbjkwWUxDRGk?oc=5",
+    "time": "2026-08-22",
+    "_ts": 1787358330000,
     "_isFresh": true
   },
   {
@@ -50,53 +100,73 @@
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "《促进网信企业高质量发展行动计划（2026-2030年）》发布",
-    "summary": "中新网8月21日电 据“网信中国”微信公众号消息，近日，中央网络安全和信息化委员会印发《促进网信企业高质量发展行动计划(2026-2030年)》(以下简称《行动计划》)，深入贯彻党中央关于网络强国建设和“十五五”时期网信工作有关部署，促进网信企业高质量发展。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/08-21/10682002.shtml",
-    "time": "2026-08-21",
-    "_ts": 1787314036000,
+    "cat": "科技前沿",
+    "title": "特斯拉官网更新：监督版 FSD 支持地区不再包含中国",
+    "summary": "IT之家 8 月 22 日消息， 特斯拉官网 更新了 FSD 监督版全球可用地区清单。名单中包含了 12 个国家或地区， 而 中国不在此次公示的可用范围内。 据IT之家此前报道，今年 5 月，特斯拉官方在 X 发文，当时 提到监督版 FSD 支持的国家与地区中包含中国 。 相关阅读： 《 特斯拉在北京、上海等 9 座城",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/992/918.htm",
+    "time": "2026-08-22",
+    "_ts": 1787363124000,
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "南海热带低压持续影响琼桂粤等省份 多部门会商部署防范应对工作",
-    "summary": "中新网8月21日电 据应急管理部网站消息，8月21日，国家防办、应急管理部组织中国气象局、水利部、自然资源部、工业和信息化部、住房城乡建设部、交通运输部等部门以及黑龙江、江苏、福建、广东、广西、海南等重点省份联合会商，研判南海热带低压及强降雨发展态势和黑龙江干流、太湖流域防洪形势，部署防汛防台风工作。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681992.shtml",
-    "time": "2026-08-21",
-    "_ts": 1787313238000,
+    "cat": "科技前沿",
+    "title": "极星 Polestar 4 SUV 无伪装实车曝光：新增后窗、方正尾门设计",
+    "summary": "IT之家 8 月 22 日消息，汽车媒体 CarScoops 昨日（8 月 21 日）发布博文，分享了一组在韩国抓拍的图片， 展示了正在运输状态下的极星 Polestar 4 SUV， 官方此前宣布 9 月 2 日海外发布 。 IT之家附上相关图片如下： 外观方面，根据曝光的图片，相比较现有极星 Polestar 4 ",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/992/916.htm",
+    "time": "2026-08-22",
+    "_ts": 1787362768000,
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "山东临沂一处独立平房院落发生爆炸 致1人死亡2人失联",
-    "summary": "8月21日，山东省临沂市沂河新区联合工作组发布情况通报：",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-21/10682117.shtml",
-    "time": "2026-08-21",
-    "_ts": 1787320987000,
+    "cat": "科技前沿",
+    "title": "Rust 1.98 发布：打破代数运算性能瓶颈，编译器可重排更多运算",
+    "summary": "IT之家 8 月 22 日消息，科技媒体 Linuxiac 昨日（8 月 21 日）发布博文，报道称 Rust 团队更新推出 1.98 版本， 重点加入面向 f32 和 f64 浮点类型的“代数浮点”（algebraic floating-point）方法，同时加快整数格式化，并稳定多项标准库 API。 本次更新重点针",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/992/912.htm",
+    "time": "2026-08-22",
+    "_ts": 1787361156000,
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "“圆梦大湾区 融合创未来”海峡两岸青年主题交流营启动",
-    "summary": "中新社深圳8月21日电 (记者 索有为)“圆梦大湾区 融合创未来”海峡两岸青年主题交流营活动20日在深圳启动。来自两岸的120余名青年代表齐聚一堂，共同参与这场青春盛会。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681944.shtml",
-    "time": "2026-08-21",
-    "_ts": 1787310568000,
+    "cat": "科技前沿",
+    "title": "微软公布《漫威斗魂》等游戏不兼容 Win11 八月更新初步结果：RGB 灯效设备代码冲突",
+    "summary": "IT之家 8 月 22 日消息，科技媒体 NeoWin 昨日（8 月 21 日）发布博文，报道称微软更新支持文档，认为多款游戏不兼容 Windows 11 八月累积更新， 可能关联带 RGB（红绿蓝）灯效设备安装的驱动或组件。 IT之家此前报道， 微软目前已确认受影响游戏包括《ARC Raiders》《漫威斗魂》及《最",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/992/907.htm",
+    "time": "2026-08-22",
+    "_ts": 1787359315000,
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "广西大明山发现植物新种上林凤仙花",
-    "summary": "中新网南宁8月21日电 (许倩 覃昌谊 丛义艳)广西壮族自治区林业局21日介绍，近日，湖南师范大学、中国科学院武汉植物园科研团队在广西大明山国家级自然保护区发现一植物新种——上林凤仙花，相关成果已在国际植物分类学期刊上发表。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-21/10682086.shtml",
+    "cat": "科技前沿",
+    "title": "5G 商用网络实现十厘米级别定位精度，爱立信、联发科完成全球首例高精度户外定位端到端测试",
+    "summary": "IT之家 8 月 22 日消息，爱立信宣布，与联发科成功完成 全球首例 高精度户外定位端到端（e2e）测试。 IT之家获悉，双方利用符合 3GPP 标准的全球导航卫星系统（GNSS）实时动态（RTK）技术， 在 5G 商用网络上直接实现了十厘米级别的定位精度 。 传统 GNSS 的精度通常为几米。基于 3GPP 的实时",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/992/903.htm",
+    "time": "2026-08-22",
+    "_ts": 1787357678000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "华为鸿蒙 HarmonyOS 存量设备 API 占比数据更新，7.0.0 Beta2 达 4.65%",
+    "summary": "IT之家 8 月 22 日消息，华为开发者官网昨日更新了存量设备 API 版本使用数量参考。截至 2026 年 8 月 20 日，HarmonyOS 设备各 API 版本使用量占比如下（数据约 15 天进行一次更新，开发者可根据占比来为应用合理定义需要兼容的 API 版本）： HarmonyOS 版本 API 版本 设",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/992/900.htm",
+    "time": "2026-08-22",
+    "_ts": 1787356912000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "我国高比例生物质掺烧发电取得新突破，一台机组生态效益 = 植树 180 万棵",
+    "summary": "IT之家 8 月 22 日消息，据央视新闻报道，记者今天（22 日）从国家能源集团获悉，广东清远电厂 2 号机组成功实现 10% 能量比生物质掺烧 ，这是国内首例百万千瓦二次再热机组实现高比例生物质掺烧发电，填补了国内技术空白，为火电机组清洁低碳转型注入新动能。 据介绍，国家能源集团广东清远电厂，是国内唯一拥有 4 台",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/992/896.htm",
     "time": "2026-08-21",
-    "_ts": 1787319181000,
+    "_ts": 1787355853000,
     "_isFresh": true
   },
   {
@@ -111,92 +181,22 @@
   },
   {
     "cat": "科技前沿",
-    "title": "Mercury：AMD 客户端 CPU 份额首次突破 30%，英特尔优势进一步缩小",
-    "summary": "IT之家 8 月 21 日消息，Mercury Research 当地时间 8 月 20 日发布的最新数据显示，AMD 在 2026 年第二季度首次占据超过 30% 的 x86 客户端 CPU 出货份额（30.3%），相比两年前 21.1% 的份额明显提升，进一步缩小了与英特尔（69.7%）之间的市场差距。 与 202",
+    "title": "开源兼容层 Wine 11.16 发布：新增 VA-API 硬件解码，修复 Steam 无法启动等 35 个 Bug",
+    "summary": "IT之家 8 月 22 日消息，科技媒体 Linuxiac 昨日（8 月 21 日）发布博文，报道称开源兼容层 Wine 发布 11.16 更新， 新增支持 VA-API 硬件视频解码，并更新 Wine Mono 至 11.3，首次加入 ARM64 支持。 IT之家注：Wine 是一个允许在类 Unix 操作系统（如 ",
     "source": "IT之家",
-    "url": "https://www.ithome.com/0/992/881.htm",
-    "time": "2026-08-21",
-    "_ts": 1787325950000,
+    "url": "https://www.ithome.com/0/992/915.htm",
+    "time": "2026-08-22",
+    "_ts": 1787361737000,
     "_isFresh": true
   },
   {
     "cat": "科技前沿",
-    "title": "美银分析师：特努斯出任苹果 CEO 或推行更大规模收购，拓展公司业务阵容",
-    "summary": "IT之家 8 月 21 日消息，蒂姆 · 库克的苹果 CEO 任期即将结束，约翰 · 特努斯将于 9 月 1 日接替他的工作。美国银行分析师 Wamsi Mohan 认为，特努斯以后可能会让苹果变得加大胆、风险偏好更高。 苹果的 CEO 交接工作差不多已经完成。到目前为止，苹果一直强调特努斯将延续此前战略。而 Wams",
+    "title": "IT早报 0822：特斯拉、零跑、吉利等 9 大厂商因门把手隐患召回车辆；曝高通骁龙新款芯片命名为至尊 / 超级至尊版；1.48 万元“问界 M0.9”儿童车预售...",
+    "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 22 日星期六，今天的重要科技资讯有： 1. 因车内应急机械拉手不易识别和操作，特斯拉、零跑、吉利等 9 大厂商宣布召回 IT之家从国家市场监督管理总局获悉，因车内应急机械拉手不易识别和操作，特斯拉、零跑、吉利等 9 大厂商宣布召回车辆。>> 查看详情 2. 高通",
     "source": "IT之家",
-    "url": "https://www.ithome.com/0/992/878.htm",
+    "url": "https://www.ithome.com/0/992/899.htm",
     "time": "2026-08-21",
-    "_ts": 1787325295000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "九州风神推出 CC350 4F 机箱：预装 4 把 120mm 风扇、兼容 240mm 水冷，179 元",
-    "summary": "IT之家 8 月 21 日消息，九州风神现已在京东上架 CC350 4F 风道机箱，定价为 179 元。 该机箱尺寸为 363x208x395mm，支持 Mini-ITX、Micro-ATX、ATX 主板。机箱整体造型简洁，正面采用格栅设计，顶部提供 1 个 USB-A 3.0、2 个 USB-A 2.0、1 个 3.",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/992/873.htm",
-    "time": "2026-08-21",
-    "_ts": 1787323101000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "同程旅行完成对嘀嗒出行要约收购，持股 88.74% 保持后者独立运营",
-    "summary": "IT之家 8 月 21 日消息，同程旅行今日发布公告称，已完成对嘀嗒出行的要约收购。公告显示，同程旅行共收到有效接纳股份 910,755,954 股，占嘀嗒出行已发行总股本约 88.74%。 收购完成后，嘀嗒出行将保持品牌及运营独立。同程旅行表示，计划寻求保持嘀嗒出行港股上市地位不变。 此次收购始于 2026 年 6 ",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/992/872.htm",
-    "time": "2026-08-21",
-    "_ts": 1787322497000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "荣耀 Turbo 5G 手机海外发布，骁龙 6 Gen 4 芯片",
-    "summary": "IT之家 8 月 21 日消息，荣耀现已在欧亚地区推出 Turbo 5G 手机，新机定位中端， 搭载骁龙 6 Gen 4 芯片 。 据介绍， 这款手机配备一块 6.79 英寸的 AMOLED 屏幕 ，分辨率为 Full HD+，支持 120Hz 高刷。采用后置双摄影像方案，涵盖一颗 5000 万像素主摄和一颗 500 ",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/992/867.htm",
-    "time": "2026-08-21",
-    "_ts": 1787319879000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "上汽奥迪 E7X 先锋 quattro 热爱版上市，限时臻享价 30.98 万元",
-    "summary": "IT之家 8 月 21 日消息，在今日开幕的 2026 成都车展上，上汽奥迪 E7X 先锋 quattro 热爱版正式上市，官方限时臻享价为 30.98 万元，叠加 8 月限时礼遇后为 29.78 万元。新车定位中大型纯电轿跑 SUV，在配置层面进行了针对性调整。 新车外观延续奥迪 E7X 先锋 quattro 型的设",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/992/866.htm",
-    "time": "2026-08-21",
-    "_ts": 1787319811000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "2027 款别克新 GL8 陆上公务舱尊享版上市，限时价 24.49 万元",
-    "summary": "IT之家 8 月 21 日消息，在今日开幕的成都车展上，别克品牌宣布新 GL8 陆上公务舱焕新上市。新车仅提供“尊享版”一个版型，官方指导价为 24.99 万元，限时上市价为 24.49 万元。 官方同步推出“金石之约，只换不修”专属权益：购车 90 天内，非营运车辆用户可加 2999 元选购该权益，三年内若单次事故导",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/992/864.htm",
-    "time": "2026-08-21",
-    "_ts": 1787319411000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "开源鸿蒙 OpenHarmony 7.0 Release 发布，新增展锐 P7885 开发板支持",
-    "summary": "IT之家 8 月 21 日消息，开源鸿蒙（OpenHarmony）7.0 Release 版本的代码已经上传到 GitCode 仓库。 根据官方发行说明，该版本在 Beta1 的基础上进一步增强了应用开发能力，系统层面新增支持展锐 P7885 芯片开发板，应用框架与媒体领域亦迎来多项功能扩展。 系统方面，OpenHar",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/992/849.htm",
-    "time": "2026-08-21",
-    "_ts": 1787316952000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "单天线覆盖八个频段：华为宣布联合沙特 stc 完成全球首个 MB² 微波方案商用部署",
-    "summary": "IT之家 8 月 21 日消息，华为官方今日宣布，当地时间 8 月 21 日，沙特 stc 与华为在沙特阿拉伯利雅得完成全球首个多频多波束（MB²）微波解决方案的商用部署。该方案标志着全球微波回传技术正式进入多频、多方向的新阶段。 MB² 方案的核心在于其高度集成的天线设计。单个 MB² 天线可同时支持 13GHz、1",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/992/848.htm",
-    "time": "2026-08-21",
-    "_ts": 1787316408000,
+    "_ts": 1787356544000,
     "_isFresh": true
   },
   {
@@ -281,22 +281,32 @@
   },
   {
     "cat": "经济金融",
-    "title": "业界报告称中国信托行业呈加速增长态势",
-    "summary": "中新社上海8月21日电 (记者 姜煜)毕马威21日发布《2026年信托业报告》(下称“报告”)称，截至2025年末，中国信托行业资产规模达34.1万亿元(人民币，下同)，较2023年增长近50%，增速从2023年的12.23%跃升至2025年的25.81%，呈现加速增长态势。",
+    "title": "国企建功自贸港：“助力海南特色农产品拓展国际市场”",
+    "summary": "点击查看新闻详情",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682023.shtml",
-    "time": "2026-08-21",
-    "_ts": 1787316686000,
+    "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682188.shtml",
+    "time": "2026-08-22",
+    "_ts": 1787363045000,
     "_isFresh": true
   },
   {
     "cat": "经济金融",
-    "title": "继SK海力士推出回购方案后，三星计划最高向股东返还800亿美元",
-    "summary": "点击查看新闻详情",
-    "source": "新浪财经_金融信息服务商",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVNodGJTbkFUQUpkNGs2SXBCblNFcUFoYndvdnlvc01XcFhvQU4zRHVESTZ6RVRMbkVHRzRnVnFhVnFvZmpxZllEc1BhR2dfc09XZGRIcDFHT3VWZDJqRmFYX042R1ZDV2M5MWJHNjVpOFhOMy1PWXhQem5nLXVSVTNVMHdLcG8?oc=5",
-    "time": "2026-08-21",
-    "_ts": 1787308440000,
+    "title": "会抓豆腐、拥有电子皮肤 国产机器人感知能力加速迭代",
+    "summary": "2026世界机器人大会正在北京举办，就像我们人一样，手对于灵巧操作来说是最重要的，手也是在思考和干活之间最重要的桥梁。对于机器人来说也是这样。这个关键零部件应该怎么设计、怎么创新？记者在2026世界机器人大会上发现，参展商们也都是结合市场需求，展现自己的巧思。让我们跟随记者到展会现场去看一看。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682185.shtml",
+    "time": "2026-08-22",
+    "_ts": 1787362544000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "油气开采影响不绝 荷兰格罗宁根发生2.8级地震",
+    "summary": "中新网海牙8月22日电 荷兰当局21日通报，曾长年开采特大型气田的荷兰北部省份格罗宁根发生2.8级地震，目前无人员伤亡报告。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682159.shtml",
+    "time": "2026-08-22",
+    "_ts": 1787359737000,
     "_isFresh": true
   },
   {
@@ -390,13 +400,23 @@
     "_isFresh": true
   },
   {
-    "cat": "国际局势",
-    "title": "《中国国家课程泰国融合本土化发展报告》在曼谷发布",
-    "summary": "中新网曼谷8月21日电(记者 李映民)当地时间21日，泰国中国国际学校在曼谷校区孔子会堂举行2026年新学年开学典礼暨《中国国家课程泰国融合本土化发展报告》发布会。中泰两国教育主管部门代表、学术机构专家、侨团及商会领袖及学校师生家长等出席活动。",
+    "cat": "争议新闻",
+    "title": "山东临沂一处独立平房院落发生爆炸 致1人死亡2人失联",
+    "summary": "8月21日，山东省临沂市沂河新区联合工作组发布情况通报：",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681942.shtml",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-21/10682117.shtml",
     "time": "2026-08-21",
-    "_ts": 1787311757000,
+    "_ts": 1787320987000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "广西大明山发现植物新种上林凤仙花",
+    "summary": "中新网南宁8月21日电 (许倩 覃昌谊 丛义艳)广西壮族自治区林业局21日介绍，近日，湖南师范大学、中国科学院武汉植物园科研团队在广西大明山国家级自然保护区发现一植物新种——上林凤仙花，相关成果已在国际植物分类学期刊上发表。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-21/10682086.shtml",
+    "time": "2026-08-21",
+    "_ts": 1787319181000,
     "_isFresh": true
   },
   {
@@ -451,52 +471,32 @@
   },
   {
     "cat": "争议新闻",
-    "title": "中国团队研发多功能涂层 为脑机界面融合和通讯提供通用解决方案",
-    "summary": "中新网北京8月21日电 (记者 孙自法)记者8月21日从中国科学院理化技术研究所(理化所)获悉，中国科研团队最近在脑机接口领域的长效神经融合脑机界面研究上取得重要进展，研发出一款多功能阳离子交替肽电极界面涂层(OG)，基于该涂层改性的柔性神经电极，在动物模型中完成多项突破性验证，将为超长期服役、可无损更换的临床级脑机接",
+    "title": "@同学们，暑假余额不足！远离野河“夺命局”，平平安安迎接新学期",
+    "summary": "近日，有媒体报道，西安一河滩，2名大人带着3个孩子因刷到短视频专程来“打卡”玩水，不料河水突然暴涨，5人被困河滩，直到民警深夜救援才脱险。入夏以来，类似的野外水域遇险事件频频发生——那些看着清澈平静的野河、水库和池塘，水下环境复杂多变，安全隐患不容忽视。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681964.shtml",
-    "time": "2026-08-21",
-    "_ts": 1787312322000,
+    "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682190.shtml",
+    "time": "2026-08-22",
+    "_ts": 1787362979000,
     "_isFresh": true
   },
   {
     "cat": "争议新闻",
-    "title": "水生态环境持续向好 珠江流域3800多条河湖完成健康评价",
-    "summary": "8月21日，水利部珠江水利委员会在广州发布珠江水生态保护与修复最新成果。流域3800多条河湖完成健康评价，健康及以上等级河湖占比达85%，水生态环境持续向好。",
+    "title": "“绣花功夫”守护千年古城 绍兴仓桥直街探索提质焕新路径",
+    "summary": "拥有2500多年建城史的浙江绍兴，是一座名副其实“没有围墙的博物馆”。但在古城保护中，如何平衡历史风貌与现代生活？如何摒弃“大拆大建”，以“绣花功夫”留住乡愁？绍兴仓桥直街用20多年的探索，给出了一个关于“人”的答案。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681951.shtml",
-    "time": "2026-08-21",
-    "_ts": 1787310864000,
+    "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682189.shtml",
+    "time": "2026-08-22",
+    "_ts": 1787362817000,
     "_isFresh": true
   },
   {
     "cat": "争议新闻",
-    "title": "今年第18、19号台风同时活跃 会怎样影响我国？",
-    "summary": "目前，西太平洋上有多个热带系统正在活跃，其中北部湾热带低压在今天下午已经加强为今年第19号台风，同时，台湾东侧热带扰动活跃，这两个热带系统离我们较近，今年第18号台风“沙德尔”较远，但强度较强。台风“沙德尔”如何发展？会登陆我国吗？多个热带系统同时活跃，会怎样相互影响？",
+    "title": "南海开渔 解锁各地“山海好丰景”",
+    "summary": "把饭碗牢牢端在中国人手里，除了耕地，还要向森林、向江河湖海、向丰富的生物资源要食物，这就是大食物观。这不仅是为了解决资源有限条件下“吃得饱”的问题，也是为了满足中国人“吃得好、吃得健康”的需求。秋天，又是一个丰收季。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682132.shtml",
-    "time": "2026-08-21",
-    "_ts": 1787332085000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "茅台业绩会回应多个热点：业绩阶段性波动属正常，计划增加i茅台飞天投放时间段，社会渠道库存良性健康",
-    "summary": "点击查看新闻详情",
-    "source": "thepaper.cn",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05QUg1UEtUa3FzLWJWcFotdzVsdzFZYS1mQVNPYndXYVQ2R3FyVkc4bkpkbVF3cWlUcGdIcXE4dXpSMUFzNTBOYlpnekJGSVNSV3AtdGcycVBvakNUaDVjSQ?oc=5",
-    "time": "2026-08-21",
-    "_ts": 1787312940000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "贵州茅台召开半年度业绩说明会，回应业绩、库存、国际化等热点话题",
-    "summary": "点击查看新闻详情",
-    "source": "证券时报",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8waWV0S1RiaWFfcnNJNDdLb29reUl3d0ZZVnU4VGM1QjhHbDBXZzZqZVl0YXByeHAtekI5WkVfQllVV2haLXBYN2ttdDV6UFkyR1hVRUl5X3JHbkxT?oc=5",
-    "time": "2026-08-21",
-    "_ts": 1787305200000,
+    "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682184.shtml",
+    "time": "2026-08-22",
+    "_ts": 1787362378000,
     "_isFresh": true
   },
   {
@@ -533,7 +533,7 @@
     "cat": "健康养生",
     "title": "又一款“成都造”1类新药获批上市！为罕见病PNH患者治疗带来新选择",
     "summary": "点击查看新闻详情",
-    "source": "新浪财经_金融信息服务商",
+    "source": "新浪财经",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14RFB4M3FpLVpXTTFNbWV2WE1lZnJHQU9nMEhER0g1YS1HZUt2MVlXcUE0cHhYbWQ3VG1pRmNqdmlNZ041MnZTMlN2cHlYVk1IVzktOTZlYkhsR21RdjllNnpMVW9KVTdFMjRvSFNJZFZhQWFJMEczWkFpSG5RcFU?oc=5",
     "time": "2026-08-21",
     "_ts": 1787306160000,
@@ -551,12 +551,32 @@
   },
   {
     "cat": "健康养生",
+    "title": "养鹦鹉也有“医保”了！亚宠展现场众安保险发布三款宠物险新品",
+    "summary": "点击查看新闻详情",
+    "source": "上观新闻",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZnp1R0QtSUh4b1ZWN3QzenBkTTYxYnhlMThhQy1PLUVmTXNCT2VLUG15Si1FcENsY1RlbV93S2FzdkZFVjVyNDFQRWlHa3VZTldrTjNTS19kZw?oc=5",
+    "time": "2026-08-21",
+    "_ts": 1787278560000,
+    "_isFresh": true
+  },
+  {
+    "cat": "健康养生",
     "title": "华北制药金坦公司六价诺如病毒疫苗获临床试验批准",
     "summary": "点击查看新闻详情",
     "source": "观点网",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ya1Y2R3lidkwyRVQyVWJkSk5oMDlob0tzX3I2NXZiVUZSN3RDYXFNdnliVnhPQ0pPYkt0d2M1OTRqTkg0Z3M1dGU4VWlhUWt5S1ZHZUVaemhTd2NWY3FIUDl3?oc=5",
     "time": "2026-08-21",
     "_ts": 1787316598000,
+    "_isFresh": true
+  },
+  {
+    "cat": "健康养生",
+    "title": "未来五年，医保“民生清单”守护看病就医",
+    "summary": "报销向基层倾斜、生育津贴直接发个人、异地就医更便捷……",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682161.shtml",
+    "time": "2026-08-22",
+    "_ts": 1787359097000,
     "_isFresh": true
   },
   {
@@ -577,26 +597,6 @@
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YZ2xBVERlYnl5MzcwVnpHVVRXeng1eDVYVWF6X3lZdXhaVFVSSGN0TXluTjFKWERhLW5mSXBEa3BhTEFTb3E0N0RtQ0lSTDNBUUFQMEZhUjZfR2lpOUNQYw?oc=5",
     "time": "2026-08-21",
     "_ts": 1787286437000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "#其它# 医保“十五五”规划发布 明确多项保障目标 #十五五 #医保 #生育 #保险",
-    "summary": "点击查看新闻详情",
-    "source": "搜狐网",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiMWRKODhtTk1CMU95dExHeWcyRzBxMW91QlJxb25zalVuRF9KejZzb3l5aGpjc0owR1FLZldOc29HMzd4T1MtZlUtSzFRdi1mNXR6RU55eXZxRldhWXY5NXhRUzJEczBsY09N?oc=5",
-    "time": "2026-08-20",
-    "_ts": 1787251663000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "明确！没有接种HPV疫苗不影响入学",
-    "summary": "中新网8月21日电 国家卫生健康委8月21日举行新闻发布会，会上，中国疾病预防控制中心研究员王富珍介绍，去年，我国将HPV疫苗纳入了国家免疫规划，各地在积极推进疫苗接种工作。有些地方把HPV疫苗接种情况列为预防接种证查验内容，是为了帮助家长了解HPV疫苗的政策和相关知识，倡导及时接种、早做预防，是不会影响孩子入学的。如",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/jk/2026/08-21/10681854.shtml",
-    "time": "2026-08-21",
-    "_ts": 1787305935000,
     "_isFresh": true
   }
 ]
