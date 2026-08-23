@@ -141,6 +141,26 @@
   },
   {
     "cat": "科技前沿",
+    "title": "万兴科技全新推出AI画布工作台",
+    "summary": "点击查看新闻详情",
+    "source": "雷峰网",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rTEc1OC04U0d0M0dlMkJGeVlCRWY3cTRYb2Y4d0U3Q0hoaU9YeFF6U05YSU5aVHRSRjROUmNmMHFOZ0xGQXo3TVJsN1ZXX2VZRXZKXzdydnQ2ZUR1QU1FNll1bE5zbWVOOUVUcjMxRnVWZWpNbXRr?oc=5",
+    "time": "2026-08-23",
+    "_ts": 1787514360000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "突破高效能AI多芯片封装的瓶颈",
+    "summary": "点击查看新闻详情",
+    "source": "DIGITIMES",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdS0wUW5ueHVoTzRfUjFaRVVjUy13bG55SGQ0cndURUw2NVZudVVzajZseVliMjBwVjNYb1pKRldHMXVWMXFpTkk1ejV0alZsZm16dUdFbGU2MDNIdlFWVTRPeUMtVEZvbUktSXB2eDk1OXRBTTlRcVktMVc4UFlHZVYza0dWYjhRejVCTURUWER0LUplN09CMzNRZDJkZw?oc=5",
+    "time": "2026-08-23",
+    "_ts": 1787511780000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
     "title": "长城欧拉 5 运动款、欧拉 5 GT 亮相，8 月 28 日上市",
     "summary": "IT之家 8 月 23 日消息，长城欧拉 5 运动款和欧拉 5 GT 现已在 2026 成都车展亮相，新车将于 8 月 28 日正式上市。 IT之家了解到，欧拉 5 运动款基于欧拉 5 普通版打造，最大的亮点便是采用了双色车身设计，搭载专属前后包围和轮圈。 内饰方面，该车与普通版欧拉 5 没有太大变化，座椅和门内饰板加",
     "source": "IT之家",
@@ -177,26 +197,6 @@
     "url": "https://www.ithome.com/0/993/258.htm",
     "time": "2026-08-23",
     "_ts": 1787483930000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "因预约人数远超预期，《莱莎的炼金工房》衍生 AI 聊天游戏延期上线",
-    "summary": "IT之家 8 月 23 日消息，据日媒 4Gamers 报道，由光荣特库摩游戏授权、SpiralAI 开发的 AI 聊天游戏《RyzaChat:AI 与莱莎共同创造只属于你的盛夏梦幻故事》将延期上线。 据报道，本作原定 8 月 18 日上线， 但由于预约人数远超预期 ，官方决定加强服务器环境，以便玩家能够在稳定的环境中",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/993/257.htm",
-    "time": "2026-08-23",
-    "_ts": 1787482606000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "广汽埃安 N60 曜夜型格运动套装上市：价值 6666 元，限时购车免费送",
-    "summary": "IT之家 8 月 23 日消息，广汽埃安 N60 曜夜型格运动套装现已上市，价值 6666 元，8 月购车限时免费送。 据介绍，曜夜型格运动套装包含曜夜前唇、驭风后扰流、边锋侧裙、掠风尾翼；全套黑化风格，优化车身姿态。 据IT之家此前报道， 广汽埃安 N60 纯电紧凑型 SUV 于 4 月 28 日上市 ，依据 CLT",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/993/255.htm",
-    "time": "2026-08-23",
-    "_ts": 1787482041000,
     "_isFresh": true
   },
   {
@@ -381,22 +381,22 @@
   },
   {
     "cat": "国际局势",
+    "title": "英伟达砸60亿打造开放AI模型 议员警告美国放慢脚步恐让中国受益",
+    "summary": "美国芯片大厂英伟达（Nvidia）计划将一项本周敲定、规模达60亿美元的协议，用于打造全球最强大的开放权重人工智能模型之一，盼在快速成长的开放模型市场，与中国人工智能企业深度求索（DeepSeek）等竞争。",
+    "source": "REUTERS - Dado Ruvic",
+    "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260823-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A0%B860%E4%BA%BF%E6%89%93%E9%80%A0%E5%BC%80%E6%94%BEai%E6%A8%A1%E5%9E%8B-%E8%AE%AE%E5%91%98%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD%E6%94%BE%E6%85%A2%E8%84%9A%E6%AD%A5%E6%81%90%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%97%E7%9B%8A",
+    "time": "2026-08-23",
+    "_ts": 1787515770000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
     "title": "新德里羽毛球世锦赛：法国队双喜临门",
     "summary": "8月23日法国队在新德里世界羽毛球锦标赛中双喜临门。21岁的兰尼亚（Alex Lanier）世锦赛男单冠军。这不仅是拉尼尔的个人突破，更为法国羽毛球队赢得了历史上首枚世锦赛单打金牌，开创法国羽毛球新一页。",
     "source": "© ARUN SANKAR / AFP",
     "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260823-%E6%96%B0%E5%BE%B7%E9%87%8C%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%96%E9%94%A6%E8%B5%9B-%E6%B3%95%E5%9B%BD%E9%98%9F%E5%8F%8C%E5%96%9C%E4%B8%B4%E9%97%A8",
     "time": "2026-08-23",
     "_ts": 1787509443000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "加美贸易谈判破裂，卡尼宣布对美征收报复性关税",
-    "summary": "中新网8月23日电 据英国广播公司(BBC)报道，当地时间8月22日，加拿大总理卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682513.shtml",
-    "time": "2026-08-23",
-    "_ts": 1787445319000,
     "_isFresh": true
   },
   {
@@ -501,12 +501,12 @@
   },
   {
     "cat": "健康养生",
-    "title": "国家卫健委通报：7位项目评审专家被处理",
+    "title": "国家卫健委通报7位项目评审专家被处理",
     "summary": "点击查看新闻详情",
-    "source": "搜狐网",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSndXTFh5aFNFOUZxLUpmcE91VmJkcXJwc3E0Y0pNcGJmZzBLbTRaMDAtQ21zOExoZ0NDYmdEMy1zZWRHSzdOZG9lMk1jbzNiTktXWWdvNVF6Ty1lSXhWbkRxQV9PR1dCYTh3eEJwTkcxeUZxa2xxcUJlQlpZdnFnSVRzT1FmZVk0?oc=5",
+    "source": "观点网",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jM1AzREc2TXE5T2RQUzNIUjNuRzFZYzlVcnU2eTctMTlxVnRkaE9SaXNncGkyREh0MllpRUR6V01FVmFhWGRyblpyVE1QS2RJalJnYmZtcExYb1BXaTJnNw?oc=5",
     "time": "2026-08-23",
-    "_ts": 1787482356000,
+    "_ts": 1787477631000,
     "_isFresh": true
   },
   {
