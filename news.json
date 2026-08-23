@@ -101,6 +101,16 @@
   },
   {
     "cat": "科技前沿",
+    "title": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度",
+    "summary": "IT之家 8 月 23 日消息，OpenAI 本周推出了 ChatGPT 青少年版，专门面向年轻用户，并通过年龄识别机制限制部分功能。 对此，外媒 Engadget 采访了多名儿童安全专家，他们对 ChatGPT 青少年版的评价并不一致。但所有人都认为，在向家长和年轻人推荐之前，这套系统还需要 接受大量独立测试 ，Op",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/993/301.htm",
+    "time": "2026-08-23",
+    "_ts": 1787493220000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
     "title": "杜撰某互联网企业“上市失败”，自媒体博主拼凑信息博眼球被行政拘留",
     "summary": "IT之家 8 月 23 日消息，据法治天地今日报道，今年 7 月 8 日，某互联网企业向上海黄浦警方报案，称某自媒体账号发布内容为“知名企业上市失败”的不实贴文，对公司声誉造成负面影响。 黄浦公安分局网安部门接报后迅速开展调查，锁定了该账号运营者莫某。经查，莫某在某证券投资平台运营一个投资类账号，他在网上看到相关公司诉",
     "source": "IT之家",
@@ -187,16 +197,6 @@
     "url": "https://www.ithome.com/0/993/251.htm",
     "time": "2026-08-23",
     "_ts": 1787480534000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "全球首款电容式全身电子皮肤发布，为仿生机器人提供类人全身触觉感知与智能交互能力",
-    "summary": "IT之家 8 月 23 日消息，在 2026 世界机器人大会期间，汉威科技与卓益得联合发布全球首款电容式全身电子皮肤，为仿生机器人提供类人全身触觉感知与智能交互能力。 官方表示，目前机器人触觉感知方案主要集中在灵巧手的指尖、指腹、手掌等部位， 尚缺乏覆盖全身肢体的触觉感知方案 。 IT之家获悉，这款全身电子皮肤以电容式",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/993/250.htm",
-    "time": "2026-08-23",
-    "_ts": 1787479295000,
     "_isFresh": true
   },
   {
@@ -301,6 +301,26 @@
   },
   {
     "cat": "国际局势",
+    "title": "日本浦河附近海域发生6.0级地震",
+    "summary": "据日本气象厅消息，当地时间23日22时00分左右，日本浦河附近海域发生6.0级地震，最大震感为震度4，震源深度40公里。(总台记者 刘耀鸿）",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682850.shtml",
+    "time": "2026-08-23",
+    "_ts": 1787493405000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "泽连斯基拒绝举行选举并称这会“摧毁乌克兰”",
+    "summary": "周日（8月23日），乌克兰总统泽连斯基表示，在战争期间举行选举将给乌克兰带来危险。此前他曾遭解职的前国防部长呼吁为举行选举铺平道路，引发争议。",
+    "source": "RFI中文",
+    "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260823-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%92%E7%BB%9D%E4%B8%BE%E8%A1%8C%E9%80%89%E4%B8%BE%E5%B9%B6%E7%A7%B0%E8%BF%99%E4%BC%9A-%E6%91%A7%E6%AF%81%E4%B9%8C%E5%85%8B%E5%85%B0",
+    "time": "2026-08-23",
+    "_ts": 1787494239000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
     "title": "未经授权改编红歌遭调查后，郭德纲8月多场演出均已被取消",
     "summary": "中国有关地方部门周日（8月23日）向法新社证实，中国知名喜剧演员郭德纲因在演出期间未经授权，以讽刺方式改编一首爱国歌曲的歌词，目前正受到调查。",
     "source": "© 网络图片",
@@ -377,26 +397,6 @@
     "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682819.shtml",
     "time": "2026-08-23",
     "_ts": 1787488851000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "叙利亚谴责以色列袭击“严重侵犯叙主权”",
-    "summary": "叙利亚过渡政府外交部22日发表声明，强烈谴责以色列无人机当天在叙利亚大马士革农村省拜特金地区袭击一辆民用车辆，此次袭击造成多名平民受伤。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682500.shtml",
-    "time": "2026-08-22",
-    "_ts": 1787438178000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "加拿大宣布9月8日起对美国商品征收报复性关税",
-    "summary": "当地时间8月22日，加拿大总理卡尼发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682499.shtml",
-    "time": "2026-08-22",
-    "_ts": 1787437835000,
     "_isFresh": true
   },
   {
@@ -481,16 +481,6 @@
   },
   {
     "cat": "争议新闻",
-    "title": "受台风影响 海南环岛高铁24日部分旅客列车临时停运",
-    "summary": "中新网海口8月23日电 (王羽晴)海南铁路23日下午发布通告称，受台风影响，海南环岛高铁将于8月24日临时停运部分旅客列车。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682719.shtml",
-    "time": "2026-08-23",
-    "_ts": 1787474217000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
     "title": "双预警！门头沟发布山洪灾害风险蓝色和积水内涝风险蓝色预警",
     "summary": "点击查看新闻详情",
     "source": "京报网",
@@ -500,11 +490,21 @@
     "_isFresh": true
   },
   {
+    "cat": "争议新闻",
+    "title": "现场直击：见到赛考斯，殷玉珍练了很久的英文，一句也没能说出口",
+    "summary": "8月23日下午，中国“治沙劳模”殷玉珍早早来到内蒙古鄂尔多斯伊金霍洛国际机场，等待迎接一位阔别26年的美国故人。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682849.shtml",
+    "time": "2026-08-23",
+    "_ts": 1787493239000,
+    "_isFresh": true
+  },
+  {
     "cat": "健康养生",
     "title": "国家卫健委通报7位项目评审专家被处理",
     "summary": "点击查看新闻详情",
     "source": "观点网",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jM1AzREc2TXE5T2RQUzNIUjNuRzFZYzlVcnU2eTctMTlxVnRkaE9SaXNncGkyREh0MllpRUR6V01FVmFhWGRyblpyVE1QS2RJalJnYmZtcExYb1BXaTJnNw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xejNGMWJaOUljbDJzMHhFSU42dGRHWDRNaTlWUHVjczNlS1o0YTl2d3JjSGxraklTVEdUVGw3ajNkaTlZNjhReTZxMkZZZw?oc=5",
     "time": "2026-08-23",
     "_ts": 1787477631000,
     "_isFresh": true
@@ -517,16 +517,6 @@
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yeFlGeklkTGJsSkNJYWRGR1YyWVl4aHZmQjZycDU0MFpuXzhSMzMwOV9DRWxjeTFvdENGVm1heURBaVlJX3o4UDZmSzktdy1FeUtsVGxfRTNhYm85SGtYWkJsZlNuckNxdlQxOVBjWkdOd0dzMTBZ?oc=5",
     "time": "2026-08-23",
     "_ts": 1787453492000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "敦煌医药文化跨界出圈 “滋补”丝路康养游",
-    "summary": "图为8月12日在敦煌市中医医院“敦煌医学展馆”里展陈的送子脉枕头。中新社记者 李亚龙 摄 图为8月12日在敦煌市中医医院“敦煌医学展馆”里系统呈现的敦煌医学“前世今生”。中新社记者 李亚龙 摄 图为8月12日在敦煌市中医医院“敦煌医学展馆”里系统呈现的敦煌医学“前世今生”。中新社记者 李亚龙 摄 图为8月12日在敦煌市",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/tp/2026/08-23/10682793.shtml",
-    "time": "2026-08-23",
-    "_ts": 1787488811000,
     "_isFresh": true
   },
   {
