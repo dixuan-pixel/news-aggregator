@@ -61,6 +61,16 @@
   },
   {
     "cat": "国内要闻",
+    "title": "成都发布房地产市场新政；融创中国收购而今管理100%股权‌｜房产早参",
+    "summary": "点击查看新闻详情",
+    "source": "mrjjxw.com",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFRlNiVjczVk5qVGltd1huRFFHMlpSck5BeXJubEF4a2pwSThMSDl3OWpSVHE2NWFQZU1aZnZtRElDU3pWQ19MMGFCWkRSU2JhaGllanZUVzk4RFg0YkdWTEN4OXROUQ?oc=5",
+    "time": "2026-08-25",
+    "_ts": 1787698800000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
     "title": "江苏常州通报“星宇股份被曝批量劝退应届生”",
     "summary": "中新网8月25日电 据常州市人民政府网站消息，8月25日晚，江苏省常州市人力资源和社会保障局发布星宇股份解聘应届大学毕业生情况通报。",
     "source": "中国新闻网",
@@ -90,13 +100,53 @@
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "航天垂直大模型“华山”健康管理模块完成星上在轨实测验证",
-    "summary": "中新网北京8月25日电 (刘书睿 张素)自7月24日随“辰光一号”技术试验卫星入轨以来，航天垂直大模型“华山”健康管理模块在轨运行已满一个月，完成星上人工智能全流程在轨实战验证。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684178.shtml",
+    "cat": "科技前沿",
+    "title": "Nothing OS 5.0 发布：基于 Android 17 打造，推送计划公布",
+    "summary": "IT之家 8 月 26 日消息，Nothing OS 5.0 已发布，基于 Android 17 打造，将于北京时间 8 月 26 日 18:00 开启公开测试。 IT之家注意到，首批仅支持 Nothing Phone (3)。未来几个月还会有更多设备加入，Nothing Phone (4a) Pro 将于 9 月初加",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/994/307.htm",
     "time": "2026-08-25",
-    "_ts": 1787665304000,
+    "_ts": 1787700354000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "斥资 1000 亿美元，SpaceX 拟于路易斯安那建造全球最大火箭发射基地",
+    "summary": "IT之家 8 月 26 日消息，SpaceX 当地时间周二公布了在路易斯安那州建设一座大型太空港的计划，项目投资规模高达 1,000 亿美元 （IT之家注：现汇率约合 6,738.71 亿元人民币） 。该公司计划未来每年从这里发射数千次庞大的“星舰”（Starship）火箭。 据当地经济发展网站介绍，这座太空港预计将于",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/994/304.htm",
+    "time": "2026-08-25",
+    "_ts": 1787700124000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "NVIDIA 发布机器人计算机 Jetson Orin Nano 2，带来双倍算力或四成节能",
+    "summary": "IT之家 8 月 26 日消息，NVIDIA（英伟达）当地时间 25 日宣布推出面向入门级边缘人工智能的 Jetson Orin Nano 2 机器人计算机。这一产品预计将在 2027H1 以模组及开发套件的形态上市。 Jetson Orin Nano 2 采用与 Jetson Orin Nano Super 相同的外",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/994/303.htm",
+    "time": "2026-08-25",
+    "_ts": 1787699920000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "双“绿”联手：雷蛇推出 3 款 XBOX 25 周年纪念版外设",
+    "summary": "IT之家 8 月 26 日消息，Razer（雷蛇）当地时间昨日宣布推出 Microsoft（微软）XBOX 25 周年纪念外设。 这一限量发售的产品组合由双方合作开发， 采用致敬初代 XBOX 的半透明绿色设计 ，全部拥有 \"XBOX 25\" 徽记，其中键盘配备四色方向键。 IT之家附上外设具体型号： 鼠标：雷蛇巴塞利",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/994/299.htm",
+    "time": "2026-08-25",
+    "_ts": 1787699377000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "Anthropic 更新 Claude 记忆机制，打通 Cowork 与聊天的记忆功能",
+    "summary": "IT之家 8 月 26 日消息，Anthropic 宣布更新 Claude Cowork 与聊天功能之间的记忆机制。此次更新将两个系统的记忆功能打通，实现统一管理。 Anthropic 表示：“Cowork 现在拥有了记忆功能，而且与您在聊天中使用的是同一套记忆。这意味着您无需反复解释背景信息，Claude 也能更好地",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/994/295.htm",
+    "time": "2026-08-25",
+    "_ts": 1787698778000,
     "_isFresh": true
   },
   {
@@ -147,56 +197,6 @@
     "url": "https://www.ithome.com/0/994/275.htm",
     "time": "2026-08-25",
     "_ts": 1787685622000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "《红色沙漠：增强版》游戏公布：增加剧情过场动画和 5 种语音，现有玩家可免费更新",
-    "summary": "IT之家 8 月 26 日消息，珍艾碧丝今天在 2026 科隆游戏展公布《红色沙漠：增强版》游戏。本作相比原版《红色沙漠》主要增加了多种语言，以及过场动画等。 据介绍，本作增加了过场动画和对白，进一步强化游戏叙事节奏。新增法语、德语、西班牙语、日语以及葡萄牙语，同时加入阿拉伯语字幕和 UI，让全球更多玩家能够沉浸体验角",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/994/271.htm",
-    "time": "2026-08-25",
-    "_ts": 1787684304000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "网易二次元都市冒险游戏《无限大》官宣 2027 年 1 月 15 日全球上线",
-    "summary": "IT之家 8 月 26 日消息，在今日的 2026 科隆游戏展开幕夜首秀直播中，网易二次元都市冒险游戏《无限大》官宣将于 2027 年 1 月 15 日全球上线 。 《无限大》的故事将在新启、重霄的凌云两个地方开展，玩家将组建属于自己的队伍，在不同的城市之间经历冒险，最终找到故事背后的真相。 游戏并不止于此，玩家也将自",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/994/268.htm",
-    "time": "2026-08-25",
-    "_ts": 1787682362000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "小米 REDMI 17C 5G 手机海外发布：天玑 6300 芯片，279 新加坡元",
-    "summary": "IT之家 8 月 25 日消息，小米 REDMI 17C 5G 手机现已在海外市场发布。新机定位入门，顾名思义是 REDMI 17C 的 5G 版本。 据介绍 ，这款手机正面配备 6.9 英寸 720P LCD 水滴屏 ，支持 120Hz 高刷，峰值亮度可达 800nits。 规格方面， 这款手机搭载联发科天玑 630",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/994/263.htm",
-    "time": "2026-08-25",
-    "_ts": 1787672110000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "小米汽车：澎程 N90 Max 智能电动门可实现开门杀预警及开门避障",
-    "summary": "IT之家 8 月 25 日消息，小米汽车官方今日更新了答网友问（第 283 集），针对澎程 N90 Max 的智能电动门能不能防开门杀、澎程 N70 Max 后排成床时椅背承重能力如何、轨道桌板不用的时候收纳在什么地方等问题进行了集中解答。 IT之家附小米汽车本集答网友问重点内容如下： 小米澎程 N90 Max 的智能",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/994/262.htm",
-    "time": "2026-08-25",
-    "_ts": 1787671928000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "NVIDIA DLSS 4.5 光线重建更新实测：提升游戏画面质感的“大杀器”",
-    "summary": "今年 6 月，英伟达在 COMPUTEX 2026 展会上正式发布了 DLSS 4.5 光线重建技术，适用于全部的 GeForce RTX 显卡，该技术可以提升光线追踪、路径追踪场景的画面质量。本次发布的更新采用了第二代 Transformer AI 模型，新模型计算能力提升了 35%，可处理参数量增加 20%，降噪器",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/994/261.htm",
-    "time": "2026-08-25",
-    "_ts": 1787671814000,
     "_isFresh": true
   },
   {
@@ -291,12 +291,22 @@
   },
   {
     "cat": "经济金融",
-    "title": "沪港数字合作成果丰硕 将深化数据标准对接",
-    "summary": "中新网上海8月25日电 (记者 陈静)上海市数据局副局长钱晓25日表示，过去一年，沪港数字合作在机制深化、数据跨境流通、便民利企服务等方面取得丰硕成果。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684192.shtml",
+    "title": "操盘必读：影响股市利好或利空消息_2026年8月26日_财经新闻",
+    "summary": "点击查看新闻详情",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlMzN0d2YzhpLWJlbXBRX3NMdmptUENOZEVIUFhJYmdOMGpTUnRqRlRNSW9wNlFkYjdEcFI1ZjhtQ293OVVCMzJrbVp3OGxNaWp5T0x0d0dhQjZWcl9mOUZxUGZLLU9QT2NEUmJrSElLdW9Hcm5ldFZtUmMyN1BFbg?oc=5",
     "time": "2026-08-25",
-    "_ts": 1787666589000,
+    "_ts": 1787699580000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "外媒：罕见！美中情局局长秘访莫斯科 与俄方举行未公开会谈",
+    "summary": "中新网8月26日电 据美国哥伦比亚广播公司(CBS)、英国广播公司(BBC)当地时间25日报道，美国中央情报局局长拉特克利夫已前往俄罗斯首都莫斯科与俄方进行未公开会谈。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684226.shtml",
+    "time": "2026-08-25",
+    "_ts": 1787699890000,
     "_isFresh": true
   },
   {
@@ -390,13 +400,13 @@
     "_isFresh": true
   },
   {
-    "cat": "国际局势",
-    "title": "美军机降落莫斯科？克宫回应",
-    "summary": "中新网8月25日电 据路透社25日报道，航班追踪网站Flightradar24的数据显示，一架美国军用运输机降落在莫斯科伏努科沃机场。对此，克里姆林宫表示，没有关于该飞机的信息。",
+    "cat": "争议新闻",
+    "title": "航天垂直大模型“华山”健康管理模块完成星上在轨实测验证",
+    "summary": "中新网北京8月25日电 (刘书睿 张素)自7月24日随“辰光一号”技术试验卫星入轨以来，航天垂直大模型“华山”健康管理模块在轨运行已满一个月，完成星上人工智能全流程在轨实战验证。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684209.shtml",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684178.shtml",
     "time": "2026-08-25",
-    "_ts": 1787672732000,
+    "_ts": 1787665304000,
     "_isFresh": true
   },
   {
@@ -441,6 +451,16 @@
   },
   {
     "cat": "争议新闻",
+    "title": "向“假专家”亮剑，让专业回归专业",
+    "summary": "点击查看新闻详情",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684231.shtml",
+    "time": "2026-08-25",
+    "_ts": 1787701005000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
     "title": "广西龙州多个村落成“孤岛” 救援人员水陆多轮接力紧急送物资",
     "summary": "点击查看新闻详情",
     "source": "中国新闻网",
@@ -451,52 +471,32 @@
   },
   {
     "cat": "争议新闻",
+    "title": "付费飞机餐走红，免费飞机餐会消失吗？",
+    "summary": "曾经坐飞机，只要航程达标，经济舱旅客就能拿到一份统一配送的免费飞机餐，好不好吃全凭运气。如今，煲仔饭、牛排、冒菜、鱼子酱拼盘等花样繁多的餐食陆续登上客舱，只不过这些精致美食大多需要额外付费。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684227.shtml",
+    "time": "2026-08-25",
+    "_ts": 1787699928000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "依托凉爽生态优势 打造文旅消费热点",
+    "summary": "点击查看新闻详情",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeXp2SktxaGpsNngtZTdhTnUwaVV0MXJPT1p4RDJkMXZqTkZYTHFKaEctdTNOc1RUVTZxRzVERXQ4cXdETmxCN21sd05QcEhzS21IR1NEeGNRRmg2cmNOczkzZndBN1RQbzY3am8tZ0lYRGd0VGhfY3ZDYVl6TURwSHRTTTROdHVWYXhyYi1qX3RCdU55UzdVLQ?oc=5",
+    "time": "2026-08-25",
+    "_ts": 1787699351000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
     "title": "8月26日早茶叹热点 | 香港出口7月升50.7% AI需求续成主力",
     "summary": "点击查看新闻详情",
     "source": "紫荆网",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdmtZaDJ5V3dIeU1SZ1kwbmIwVmpQaHBvZVdGVWNNNDBvZ3JfamZBSlhqOG02cjRfb2lHU0dWN0JWMXA0Nm5iZXhMcDBKQTZmLVZzdEZObUhPT21YVHhFVFJkX3lacE54M0N2ZkxvNWx0UXpuRklIY1k4ckczdklEeDhpSzFwdXU1NW1aVUpKZVJrT0E2?oc=5",
     "time": "2026-08-25",
     "_ts": 1787695301000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "一名在韩失踪中国公民遇害 嫌疑人已被捕",
-    "summary": "中新社首尔8月25日电 (记者 金旭)中国驻釜山总领事馆当地时间25日称，经同韩国警方核实，一名失踪数日的中国女留学生当天被发现死亡，警方已以涉嫌杀人罪逮捕一名30多岁男子。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684207.shtml",
-    "time": "2026-08-25",
-    "_ts": 1787671396000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "广西9条河流超警 左江崇左水文站超警7.59米",
-    "summary": "中新网南宁8月25日电 (陈秋霞 周也茹)广西壮族自治区水文中心25日提供的信息显示，当天20时，广西仍有郁江及支流青龙江，明江及支流派连河，左江及支流客兰河等9条河流14个水文站超警0.15米至7.59米。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684195.shtml",
-    "time": "2026-08-25",
-    "_ts": 1787667554000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "南宁海事局使用重载无人机成功救助3艘遇险船舶",
-    "summary": "中新网广西崇左8月25日电(李帅 郑清欣 黄艳梅)8月25日，受左江2026年第1号洪水影响，左江水域成片漂浮物下漂。当日16时，3艘在扶绥海螺码头附近防洪停泊船舶的螺旋桨被缠绕、舷侧受漂浮物和水流挤压，面临断缆走锚风险，船员向海事部门求救。当时左江扶绥水位达到86.22米，超警戒水位4.42米。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684193.shtml",
-    "time": "2026-08-25",
-    "_ts": 1787666908000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "早报漫画",
-    "summary": "点击查看新闻详情",
-    "source": "联合早报",
-    "url": "https://www.zaobao.com.sg/forum/comic/story20260826-9572943",
-    "time": "2026-08-25",
-    "_ts": 1787691600000,
     "_isFresh": true
   },
   {
@@ -581,12 +581,12 @@
   },
   {
     "cat": "健康养生",
-    "title": "中国生物制药减重“贴片”新药在美国获批临床",
+    "title": "中国生物制药减重“贴片”新药在美国获批临床；益方生物重启港股上市申请｜医药早参",
     "summary": "点击查看新闻详情",
-    "source": "搜狐网",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWtzSE9hOVlNQzlzV3NzR3RBaTNyOXkweUdnelhHaUhRMU9FOWZ6V0xCemJ2OGFQV0JqSUdaWVpkb0Y1ZFl3WHUyVm9qb3ZZVmpudTBHcGJ2UFhGNkFuVVE5UlN4b0JjUTVwR091a1VOZFJuX3hOenRXS2xfay0yazQ1SjhOMFlSVGVNRA?oc=5",
-    "time": "2026-08-25",
-    "_ts": 1787617077000,
+    "source": "手机网易网",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpZ05vVmtCbXpFMEJiNV9wWHR4UG1ncGFvZ2o3anVQUTkwTEowVzJyZ2JZUG1KenZZdlFYZWZIeElCcmhuTXRfZHBXT3RSUXhXN0JEYjFYSmJURmpiTkVocVB3?oc=5",
+    "time": "2026-08-24",
+    "_ts": 1787612526000,
     "_isFresh": true
   },
   {
