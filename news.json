@@ -1,22 +1,42 @@
 [
   {
     "cat": "国内要闻",
+    "title": "刘国中出席第十一届亚太经合组织粮食安全部长级会议开幕式并致辞",
+    "summary": "新华社杭州8月25日电 第十一届亚太经合组织(APEC)粮食安全部长级会议8月25日在浙江杭州召开，中共中央政治局委员、国务院副总理刘国中出席开幕式并致辞。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684051.shtml",
+    "time": "2026-08-25",
+    "_ts": 1787658008000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
+    "title": "水利部和中国气象局联合发布橙色山洪灾害气象预警",
+    "summary": "中新网8月25日电 据“中国水利”微信公众号消息，水利部和中国气象局8月25日18时联合发布橙色山洪灾害气象预警：",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684030.shtml",
+    "time": "2026-08-25",
+    "_ts": 1787655996000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
+    "title": "国家防总、应急管理部针对山西启动防汛四级应急响应",
+    "summary": "据气象部门预报，未来三天，山西北部等地有大到暴雨，部分地区有大暴雨。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684028.shtml",
+    "time": "2026-08-25",
+    "_ts": 1787655157000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
     "title": "广东省湛江市副市长、市公安局局长国涛接受审查调查",
     "summary": "中新网8月25日电 据广东省纪委监委消息：广东省湛江市副市长、市公安局局长国涛涉嫌严重违纪违法，目前正接受广东省纪委监委纪律审查和监察调查。",
     "source": "中国新闻网",
     "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684012.shtml",
     "time": "2026-08-25",
     "_ts": 1787654290000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国内要闻",
-    "title": "应急管理部针对山西、内蒙古、青海启动国家地质灾害四级应急响应",
-    "summary": "中新网8月25日电 据应急管理部微信公众号消息，据气象部门预测，受台风和西南季风影响，8月25日至27日，山西中北部、内蒙古西部、青海东北部等地有中到大雨，部分地区暴雨、大暴雨；山西中北部、内蒙古西部、青海东部等地部分地区累计雨量100～250毫米，局地超过300毫米。经与自然资源部联合会商研判，山西西部、内蒙古南部、",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/08-25/10683978.shtml",
-    "time": "2026-08-25",
-    "_ts": 1787651365000,
     "_isFresh": true
   },
   {
@@ -61,6 +81,16 @@
   },
   {
     "cat": "国内要闻",
+    "title": "台风“沙德尔”逼近 浙江沿海加紧布防",
+    "summary": "台州海事部门护航海岛游客疏散。郏丽霞供图 中新网杭州8月25日电(记者 王逸飞)今年第18号台风“沙德尔”(强台风级)正向华东沿海靠近。目前，浙江正抢抓“窗口期”开展海上防御工作，海岛人员转移、能源物资抢卸、船舶避风转移等有序推进。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684027.shtml",
+    "time": "2026-08-25",
+    "_ts": 1787655017000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
     "title": "检察机关依法分别对吴建东、刘海志、周腾、潘汉胜提起公诉",
     "summary": "点击查看新闻详情",
     "source": "中国新闻网",
@@ -70,33 +100,63 @@
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "台风“紫檀”“沙德尔”将相继登陆我国 强风雨接连影响华南华东",
-    "summary": "中国天气网讯 过去一周内，四个台风接连生成。目前第20号台风“简拉维”已减弱消散，第21号台风“艾莎尼”也已停编，但第18号台风“沙德尔”和第19号台风“紫檀”仍继续活跃，并将登陆我国。未来这两个台风将如何发展？会登陆哪里？哪些地方将承接最强风雨影响？中国天气网一一为你解读。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684017.shtml",
+    "cat": "科技前沿",
+    "title": "NECPC 发布夏季新品，带来 LAVIE N16、LAVIE Direct N15 Slim 笔电",
+    "summary": "IT之家 8 月 25 日消息，NECPC 日本当地时间今日发布了一系列夏季新品，包括多款笔记本电脑和一体机。 ▲ LAVIE N16 此次推出的最高性能型号为 LAVIE N16。其 基于 AMD 锐龙 AI 300 / 400 处理器 ，至高可选锐龙 AI 7 445；搭载 16.0\" 1920×1200 屏幕；配",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/994/172.htm",
     "time": "2026-08-25",
-    "_ts": 1787653880000,
+    "_ts": 1787658416000,
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "浙江温州提升防台风应急响应为Ⅲ级",
-    "summary": "中新网温州8月25日电(胡丰盛)8月25日，经会商研判，浙江省温州市防指决定于当日18时起将防台风应急响应提升为Ⅲ级，并同步提升突发地质灾害应急响应为III级。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683999.shtml",
+    "cat": "科技前沿",
+    "title": "比亚迪仰望 U7 官宣以 8 天 19 时 58 分成绩完成 3 万公里耐久测试，创造新极限耐久世界纪录",
+    "summary": "IT之家 8 月 25 日消息，比亚迪仰望汽车刚刚宣布，仰望 U7 纯电版量产车以 8 天 19 时 58 分的成绩完成 3 万公里耐久测试，创造新的极限耐久世界纪录， 成为行驶 3 万公里用时最快的量产车 。 仰望汽车官方还放出了仰望 U7 纯电版量产车的 3 万公里耐力挑战视频。 仰望销售事业部总经理胡晓庆发文透露",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/994/168.htm",
     "time": "2026-08-25",
-    "_ts": 1787653720000,
+    "_ts": 1787657956000,
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "水利部针对5省区启动洪水防御Ⅳ级应急响应",
-    "summary": "中新网8月25日电 据“中国水利”微信公众号消息，预报显示，8月25日至28日，西北中部东部、华北中部北部将有一次较强降雨过程。受其影响，黄河上中游干流及支流湟水、大黑河、皇甫川、窟野河，海河流域永定河、大清河、滹沱河等河流将出现涨水过程，暴雨区内部分中小河流可能发生超警以上洪水，山洪灾害和淤地坝安全度汛风险高。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/08-25/10683872.shtml",
+    "cat": "科技前沿",
+    "title": "苹果 iOS 27 正式版发布在即，Siri AI 预计将采用候补名单机制",
+    "summary": "IT之家 8 月 25 日消息，据科技媒体 MacRumors 昨天报道，苹果 iOS 27/iPadOS 27/macOS 27 操作系统都将加入 Siri AI 智能助理。三款操作系统的正式版发布后，苹果预计会使用候补名单机制，并限制用户的初期使用权限。 IT之家在此援引 MacRumors，iOS 27/iPad",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/994/165.htm",
     "time": "2026-08-25",
-    "_ts": 1787643649000,
+    "_ts": 1787656665000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "利民推出 TR-TG1200 MAX 系列电源：80 PLUS 金牌认证，499 元起",
+    "summary": "IT之家 8 月 25 日消息，利民 TR-TG1200 MAX 电源现已开售， 售价 499 元 。官方同时还推出了白色版本 TR-TG1200-W MAX，售价 509 元。 该电源采用 全日系电容 方案，主电容为 105℃ 日系三大牌产品，同时搭配日系电解电容与日系固态电容；获得 80 PLUS 金牌 认证，11",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/994/164.htm",
+    "time": "2026-08-25",
+    "_ts": 1787656582000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "广汽冯兴亚与华为任正非再握手，启境官方称已完成第一阶段的产品与市场检验",
+    "summary": "IT之家 8 月 25 日消息， 8 月 24 日，广汽集团董事长冯兴亚与华为创始人任正非在深圳再度会面 。启境汽车官方表示，距双方首次战略握手一年后， 这场高层交流可视为启境从“方向共识”走向“深化发展”的关键信号 。 启境汽车官方透露，双方再度会晤， 也意味着启境完成第一阶段的产品与市场检验，开始进入加速期 。启境",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/994/163.htm",
+    "time": "2026-08-25",
+    "_ts": 1787656082000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "小米澎湃 HyperOS 4 Beta 版内测新增特别提示，部分第一阶段推送机型已开启第二批招募",
+    "summary": "IT之家 8 月 25 日消息，小米社区小米澎湃 HyperOS 4 Beta 版内测新增特别提示： 8 月 27 日起开启陆续推送的机型的报名开始时间为 8 月 26 日 11:00 ； 9 月 17 日起开启陆续推送的机型的报名开始时间为 9 月 16 日 11:00 ，请提前做好报名准备。 IT之家注意到，小米社",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/994/161.htm",
+    "time": "2026-08-25",
+    "_ts": 1787655692000,
     "_isFresh": true
   },
   {
@@ -137,66 +197,6 @@
     "url": "https://www.ithome.com/0/994/129.htm",
     "time": "2026-08-25",
     "_ts": 1787651925000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "宏碁暗影骑士 · 擎 8 游戏本上市：14650HX + 5060 配置国补后 8999 元",
-    "summary": "IT之家 8 月 25 日消息，宏碁 (Acer) 今日正式发售了 Nitro 暗影骑士 · 擎 8 游戏笔记本电脑。 该机型基于英特尔酷睿 i7-14650HX 处理器，搭载 NVIDIA GeForce RTX 5050 / 5060 笔记本电脑 GPU。 其中 5060 版本配备 16GB + 1000GB 的存",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/994/127.htm",
-    "time": "2026-08-25",
-    "_ts": 1787651791000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "大众 CEO 奥博穆称下一轮裁员半数在德国发生，劳资关系紧张加剧",
-    "summary": "IT之家 8 月 25 日消息，据彭博社今天（25 日）报道，大众汽车集团 CEO 奥博穆表示，公司下一轮人员削减中约有一半需要发生在德国。此次表态，令大众汽车与员工之间本就因重组计划紧张的关系进一步加剧。 当地时间 25 日，奥博穆在沃尔夫斯堡工厂向数千名员工解释，大众汽车的固定成本 比竞争对手高出 30% ，因此必",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/994/122.htm",
-    "time": "2026-08-25",
-    "_ts": 1787651680000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "iQOO Z11 印度版手机发布：6.83 英寸曲面屏，天玑 7500 Turbo 芯片",
-    "summary": "IT之家 8 月 25 日消息， iQOO Z11 手机现已在印度发售，新机提供极光绿、星空蓝两种配色，拥有 6+128GB/8+128GB/8+256GB/12+256GB 四种内存 / 存储空间组合，起售价为 34,999 卢比 （IT之家注：现汇率约合 2,459 元人民币） 。 据悉，印度版 iQOO Z11 ",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/994/120.htm",
-    "time": "2026-08-25",
-    "_ts": 1787651483000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "被投诉“没穿衣服”：发布 31 周年之际，微软分享 Win95 更换全息防伪标签背后故事",
-    "summary": "IT之家 8 月 25 日消息，微软资深软件工程师 Raymond Chen 昨日（8 月 24 日）在微软开发者博客上发布博文， 分享了关于 Windows 95 系统包装盒上 2 款全息防伪标签背后的故事。 Windows 95 系统在上市初期，在包装盒上采用带有婴儿的全息防伪标签。摄影师以其儿子为模特，在用户转动",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/994/119.htm",
-    "time": "2026-08-25",
-    "_ts": 1787651437000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "小扎 AI 战略的重要一环，消息称 Meta 计划未来数周内推出“Hatch”智能体平台",
-    "summary": "IT之家 8 月 25 日消息，据外媒《The Information》昨日报道，一份内部文件显示，Meta 计划未来几周内，推出面向消费者的 AI 智能体平台“Hatch”。 据报道，Hatch 是 Meta 基于 OpenClaw 人工智能虚拟助理打造的智能体。 该平台属于是 Meta 首席执行官马克 · 扎克伯格",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/994/114.htm",
-    "time": "2026-08-25",
-    "_ts": 1787650410000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "abxylute 推出 Switch 2 分体手柄 J8：原生协议，TMR 电磁摇杆",
-    "summary": "IT之家 8 月 25 日消息，abxylute 现已在其官网推出面向任天堂 Nintendo Switch 2 游戏机的 J8 手柄控制器。这一产品采用分体式结构， 原生支持 NintendoSwitch 2 手柄协议 。 J8 手柄配备基于 TMR 隧道磁阻传感器的摇杆、短行程轻力度机械扳机、5M+ 耐久的机械式 ",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/994/112.htm",
-    "time": "2026-08-25",
-    "_ts": 1787650181000,
     "_isFresh": true
   },
   {
@@ -261,42 +261,42 @@
   },
   {
     "cat": "经济金融",
+    "title": "银川至巴彦浩特铁路开启静态验收",
+    "summary": "中新网银川8月25日电 (记者 杨迪)8月25日，包银高铁银川至巴彦浩特铁路(下称银巴铁路)主体工程项目正式启动静态验收，标志着该项目顺利进入竣工验收阶段。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684037.shtml",
+    "time": "2026-08-25",
+    "_ts": 1787656933000,
+    "_isFresh": true
+  },
+  {
+    "cat": "经济金融",
+    "title": "航旅融合激活湖南张家界暑期文旅热潮",
+    "summary": "中新网张家界8月25日电 (聂奇 高双志 向剑锐 庹海霞)暑期旅游进入尾声，湖南张家界入境游、跨省游依然火热。为迎接来自全球各地的游客，当地加密国内国际航线，推出多种优惠服务；地面配上定制客运，把游客从机场、高铁站直接送到民宿和景点门口。立体交通加惠民服务，不断激活张家界暑期文旅消费。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684042.shtml",
+    "time": "2026-08-25",
+    "_ts": 1787656655000,
+    "_isFresh": true
+  },
+  {
+    "cat": "经济金融",
+    "title": "上半年中国数字产业收入超20万亿元 同比增13.6%",
+    "summary": "中新社北京8月25日电 中国工信部25日公布，今年上半年中国数字产业实现收入20.71万亿元(人民币，下同)，同比增长13.6%，增速同比加快4.1个百分点，环比一季度加快0.7个百分点。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684026.shtml",
+    "time": "2026-08-25",
+    "_ts": 1787654979000,
+    "_isFresh": true
+  },
+  {
+    "cat": "经济金融",
     "title": "王竹：统筹政法资源与数字身份治理，推动形成网络直播未成年人保护共识",
     "summary": "随着数字终端和网络服务日益融入未成年人的日常生活，未成年人接触网络直播、网络游戏等数字服务的渠道更加多元，直播场景下账号借用、身份冒用、过度消费等问题也随之受到关注。四川大学法学院王竹教授认为，网络直播中的未成年人保护不能仅围绕“打赏能否退款”展开，而应放在数字终端和数字服务沉迷防治、网络实名身份体系、家庭监护责任、平",
     "source": "中国新闻网",
     "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684016.shtml",
     "time": "2026-08-25",
     "_ts": 1787654174000,
-    "_isFresh": true
-  },
-  {
-    "cat": "经济金融",
-    "title": "耐心资本浇灌、保险精准护航 中国人寿奋力书写“科技金融”新篇",
-    "summary": "“九大战略性新兴产业、六大未来产业，代表了中国经济新旧动能转换的核心方向，也是孕育未来核心资产的沃土。”中国人寿保险股份有限公司(以下简称“中国人寿”，股票代码：601628.SH,2628.HK)有关负责人说，代表中国未来的领域，就是长期资金的投资方向。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684009.shtml",
-    "time": "2026-08-25",
-    "_ts": 1787653678000,
-    "_isFresh": true
-  },
-  {
-    "cat": "经济金融",
-    "title": "西安机场新开杭州快递专线",
-    "summary": "中新网西安8月25日电 (阿琳娜 史娅琪)25日，西安咸阳国际机场开通西安—杭州全货运航线，该航线由B738全货机执飞，每周5班，主要运输生鲜食品、快递百货等居民消费产品，年运量可达6500吨。据悉，该航线是西安机场今年新开的第二条国内快递专线，也是继鄂州航线后，再度与顺丰携手开通的全货运航线，将进一步扩容西北与东部地",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684001.shtml",
-    "time": "2026-08-25",
-    "_ts": 1787653027000,
-    "_isFresh": true
-  },
-  {
-    "cat": "经济金融",
-    "title": "“中国北方日用瓷都”谋“智变”：向高端化、智能化、绿色化升级",
-    "summary": "中新网朔州8月25日电 (记者 杨静)2026山西·朔州陶瓷产品进出口交易会25日在中国现存最古老、最高的木构塔式建筑应县木塔所在地山西应县启动。本届交易会以“陶瓷行万里，木塔迎天下”为主题，将持续至27日，吸引全国各地及朔州本土百余家展商参会。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-25/10683983.shtml",
-    "time": "2026-08-25",
-    "_ts": 1787652497000,
     "_isFresh": true
   },
   {
@@ -311,9 +311,19 @@
   },
   {
     "cat": "国际局势",
+    "title": "台风接踵而至：中国南方持续降雨 广西逾5万人紧急转移",
+    "summary": "受台风“纳拉”的影响，中国南方多地持续遭遇强降雨，广西的洪灾进一步扩大，已有超过5.4万人被转移。与此同时，新一轮台风“沙德尔”正向日本南部和台湾北部移动，预计本周晚些时候会影响中国福建沿海，华南地区防汛形势面临新的压力。",
+    "source": "via REUTERS - cnsphoto",
+    "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260825-%E5%8F%B0%E9%A3%8E%E6%8E%A5%E8%B8%B5%E8%80%8C%E8%87%B3-%E4%B8%AD%E5%9B%BD%E5%8D%97%E6%96%B9%E6%8C%81%E7%BB%AD%E9%99%8D%E9%9B%A8-%E5%B9%BF%E8%A5%BF%E9%80%BE5%E4%B8%87%E4%BA%BA%E7%B4%A7%E6%80%A5%E8%BD%AC%E7%A7%BB",
+    "time": "2026-08-25",
+    "_ts": 1787657474000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
     "title": "台湾女艺人因向日本国宝\"佛足石\"泼洒不明液体而被逮捕",
     "summary": "综合共同社与中央社消息，日本奈良警署22日以涉嫌在奈良市药师寺向被指定为国宝的“佛足石”泼洒液体、违反《文化财保护法》为由，逮捕了来自台湾自称从事主持人工作的蔡宜臻（38岁）。蔡宜臻的经纪人周二（8月24日）发表道歉声明，表示对于此事造成的社会关注及相关困扰深感抱歉。据称由于蔡宜臻正在日本接受调查，无法与其本人取得联系",
-    "source": "© 截图",
+    "source": "© France Médias Monde",
     "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260825-%E5%8F%B0%E6%B9%BE%E5%A5%B3%E8%89%BA%E4%BA%BA%E5%9B%A0%E5%90%91%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%9D-%E4%BD%9B%E8%B6%B3%E7%9F%B3-%E6%B3%BC%E6%B4%92%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93%E8%80%8C%E8%A2%AB%E9%80%AE%E6%8D%95",
     "time": "2026-08-25",
     "_ts": 1787652619000,
@@ -390,13 +400,23 @@
     "_isFresh": true
   },
   {
-    "cat": "国际局势",
-    "title": "美国宣布，把叙利亚从“支持恐怖主义国家”名单中移除",
-    "summary": "美国周一正式取消叙利亚“支持恐怖主义国家”的认定，此举将为更多商业投资 进入这个饱受战争蹂躏的国家铺平道路。",
-    "source": "© Ghaith Alsayed / AP",
-    "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260824-%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%EF%BC%8C%E6%8A%8A%E5%8F%99%E5%88%A9%E4%BA%9A%E4%BB%8E-%E6%94%AF%E6%8C%81%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89%E5%9B%BD%E5%AE%B6-%E5%90%8D%E5%8D%95%E4%B8%AD%E7%A7%BB%E9%99%A4",
-    "time": "2026-08-24",
-    "_ts": 1787613513000,
+    "cat": "争议新闻",
+    "title": "台风“紫檀”“沙德尔”将相继登陆我国 强风雨接连影响华南华东",
+    "summary": "中国天气网讯 过去一周内，四个台风接连生成。目前第20号台风“简拉维”已减弱消散，第21号台风“艾莎尼”也已停编，但第18号台风“沙德尔”和第19号台风“紫檀”仍继续活跃，并将登陆我国。未来这两个台风将如何发展？会登陆哪里？哪些地方将承接最强风雨影响？中国天气网一一为你解读。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684017.shtml",
+    "time": "2026-08-25",
+    "_ts": 1787653880000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "浙江温州提升防台风应急响应为Ⅲ级",
+    "summary": "中新网温州8月25日电(胡丰盛)8月25日，经会商研判，浙江省温州市防指决定于当日18时起将防台风应急响应提升为Ⅲ级，并同步提升突发地质灾害应急响应为III级。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683999.shtml",
+    "time": "2026-08-25",
+    "_ts": 1787653720000,
     "_isFresh": true
   },
   {
@@ -461,22 +481,12 @@
   },
   {
     "cat": "争议新闻",
-    "title": "《环喜马拉雅地球系统科学》国际期刊北京上线 全球征稿全开放获取",
-    "summary": "中新网北京8月25日电 (记者 孙自法)记者8月25日从中国科学院青藏高原研究所获悉，由该所与国际环喜马拉雅地球系统科学协会(ATH)联合创办的国际学术期刊《环喜马拉雅地球系统科学》(Trans-Himalaya Earth System Science，THESS)，近日在北京正式上线，面向全球征稿，以国际性全开放获",
+    "title": "情绪真正发生在哪一刻？西工大团队让AI“看见”情绪峰值",
+    "summary": "中新网西安8月25日电 (记者 阿琳娜)观看一段短视频时，我们的情绪并非一成不变。在常规叙事铺垫后，特定的视觉冲击、关键性台词或情节反转等，往往会让观众像被“击中”一样，真切地感受到快乐、恐惧、悲伤或是震惊。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683900.shtml",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684036.shtml",
     "time": "2026-08-25",
-    "_ts": 1787646104000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "报告显示中国综合立体交通网加快建成",
-    "summary": "中新社武汉8月25日电 (记者 梁婷)2026年加快建设交通强国大会25日在武汉举行。会上发布的《加快建设交通强国报告(2025)》显示，中国交通基础设施网络不断完善，综合立体交通网加快建成；服务共建“一带一路”取得新成效。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683893.shtml",
-    "time": "2026-08-25",
-    "_ts": 1787645215000,
+    "_ts": 1787656735000,
     "_isFresh": true
   },
   {
@@ -487,16 +497,6 @@
     "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684010.shtml",
     "time": "2026-08-25",
     "_ts": 1787653327000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "“中国式现代化的万千气象”网络名人宁夏行活动在银川启动-中新网",
-    "summary": "点击查看新闻详情",
-    "source": "chinanews.com.cn",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85dW5vUkZ4ZHJKTENXUXFmRmppaG0yTjRKNDVwVklZRlJ4SWJjNjdmQWFzbjNDQUhZZ2lWQU5zM2Y2dUFkbEFrVGVMUzNEUUtzaWcwbV9vTVpqaloyNTdBSHJEd1phMVo3?oc=5",
-    "time": "2026-08-25",
-    "_ts": 1787636079000,
     "_isFresh": true
   },
   {
@@ -511,22 +511,12 @@
   },
   {
     "cat": "健康养生",
-    "title": "国家药监局发布《化妆品产品标准通则》 明年1月1日起实施",
-    "summary": "点击查看新闻详情",
-    "source": "搜狐网",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbW5fRWlLdlhIWDJOT055RlE1N2lhdjNZOHhBRTRlanpsMHA4Q3RtMnF6Vmo3MHhqbm9rWkItXzNsYXIzdVk1Nk5ZRURFOFZCRWdBX0diZzJOVXI0a20xdEJqQ0RkOThYZVk1dUdYb0lfSlUxbUZ5ZnE5UWh2b05tbEVTZF9neG5FaUZrcg?oc=5",
-    "time": "2026-08-25",
-    "_ts": 1787645391000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "国家卫健委发布会丨介绍基层卫生健康综合试验区改革创新经验",
+    "title": "国家药监局发布《化妆品产品标准通则》，明年1月1日起实施",
     "summary": "点击查看新闻详情",
     "source": "thepaper.cn",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NT21CVFBSemRPbGtfSnRtam9VcVlBdmktVWJaVEEwWnF2a1ZaUG5TTFozc2RQU3R1c2RuMWtqenNmeFJDVkRaSVZiOVpSN1RvRGRIX1V6dmZIVmFoSzNnLQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41Z2NYQklxaHFMcGQ4cjBaQ016bXNlWkVvcTNNMEVpVHZEdHFJNnFBRWpOakdLR2g4d29jMnNueTZfalMxZEFJbVlKYUdyeE1xTEtBQ2NnY0loLVdwakJqYg?oc=5",
     "time": "2026-08-25",
-    "_ts": 1787651457000,
+    "_ts": 1787638740000,
     "_isFresh": true
   },
   {
@@ -564,7 +554,7 @@
     "title": "科前生物：获批禽腺病毒灭活疫苗新兽药注册证书",
     "summary": "点击查看新闻详情",
     "source": "东方财富",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ROGhCVGVzT0NQSXQ4VnQ2ajdraW9QZUlLcURvNElIMW42QWE2UDNiUk9mUE5Ub0dMeEd4S2tvajhtajB2amtSOHdSa3VocUJqWjBZOUloN29LYWR5VG1UVnphSQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vLVV6aUg4R2xMSWdyUGxaRXpBNXU5RF9uUTFiWVdMQ2w3aHpxRDJKMHlJcjdnekZqYV9NX1NndnFWZHpPdVdiTXF0VlNsRzJCNWY5VjMwSUhrTWZyUnoyaw?oc=5",
     "time": "2026-08-24",
     "_ts": 1787568949000,
     "_isFresh": true
@@ -597,6 +587,16 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMTRGVzdoalNocndMdDAzSzVpUVJfVzZqOUZOajZqRjV4Zk9BWnJhUWpzb09IQW5SbWh5UDJwOWFaNFZFeUxZRVY5YXFlZEJLamtkdS1RNmtCalppSTFzZkpfVVpramVaUlpJT3R0VHFnRDY2RU1sS3kycEgybEplR280UkhVWVZMZDhv?oc=5",
     "time": "2026-08-24",
     "_ts": 1787561525000,
+    "_isFresh": true
+  },
+  {
+    "cat": "健康养生",
+    "title": "恩华药业NH130+NH302两款1类新药获批临床，剑指精神分裂症、ADP与非阿片急性镇痛千亿CNS市场",
+    "summary": "点击查看新闻详情",
+    "source": "摩熵医药",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UU25KUmNIU05zYkRjeWI2cnFhTkZ3LVNfNE9KMmNvRzdabnJoczNtTDY5Ml9UaXp2ZXFBbjRkMFcwQkpnMGg0T19UT2Vld2NCYkM2cXJWRTFnQQ?oc=5",
+    "time": "2026-08-24",
+    "_ts": 1787553130000,
     "_isFresh": true
   }
 ]
