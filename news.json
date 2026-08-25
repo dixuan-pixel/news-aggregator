@@ -271,6 +271,16 @@
   },
   {
     "cat": "经济金融",
+    "title": "Truist将全球支付股票目标价上调至$95，估值获认可 提供者 Investing.com",
+    "summary": "点击查看新闻详情",
+    "source": "英为财情 Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2hxZS1qb2I4TG1RTE5GamJKWHU2dkg1YXhYWTMtakxkaDBOLXpqYlZPdUJmMDV3anQ5ZkZNWTFhZWMtdXlKZXJpMFE3cmpLTmNVSWl0UnlwSGszTUsyZTRSeGMxYXJzTnEzZmZXelZnaExWN1Myam9FWFFJbUx6NUxCd1k?oc=5",
+    "time": "2026-08-25",
+    "_ts": 1787663940000,
+    "_isFresh": true
+  },
+  {
+    "cat": "经济金融",
     "title": "新疆阿勒泰加快打造中国高纯石英产业新高地",
     "summary": "中新社新疆阿勒泰8月25日电 （苟继鹏）25日，以“石英铸基 芯疆未来”为主题的2026高纯石英产业链发展大会在新疆阿勒泰市召开，40余位行业专家学者以及180余家产业链上下游企业代表参会。",
     "source": "中国新闻网",
@@ -290,13 +300,13 @@
     "_isFresh": true
   },
   {
-    "cat": "经济金融",
-    "title": "湖北形成“海陆空多向联动”的国际物流格局",
-    "summary": "中新网武汉8月25日电 (梁婷 潘庆芳)记者25日从2026年加快建设交通强国大会获悉，依托近洋直航与陆上铁路、航空枢纽互补，湖北形成“海陆空多向联动”的国际物流格局。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684189.shtml",
+    "cat": "国际局势",
+    "title": "叙利亚库尔德武装宣布解散",
+    "summary": "叙利亚库尔德武装主导的“叙利亚民主力量”领导人马兹卢姆·阿卜迪（Mazloum Abdi）25日宣布解散这支曾与“伊斯兰国”极端组织作战的武装力量。",
+    "source": "© AP Photo/Ghaith Alsayed",
+    "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260825-%E5%8F%99%E5%88%A9%E4%BA%9A%E5%BA%93%E5%B0%94%E5%BE%B7%E6%AD%A6%E8%A3%85%E5%AE%A3%E5%B8%83%E8%A7%A3%E6%95%A3",
     "time": "2026-08-25",
-    "_ts": 1787666487000,
+    "_ts": 1787692864000,
     "_isFresh": true
   },
   {
@@ -390,16 +400,6 @@
     "_isFresh": true
   },
   {
-    "cat": "国际局势",
-    "title": "台湾女艺人因向日本国宝\"佛足石\"泼洒不明液体而被逮捕",
-    "summary": "综合共同社与中央社消息，日本奈良警署22日以涉嫌在奈良市药师寺向被指定为国宝的“佛足石”泼洒液体、违反《文化财保护法》为由，逮捕了来自台湾自称从事主持人工作的蔡宜臻（38岁）。蔡宜臻的经纪人周二（8月24日）发表道歉声明，表示对于此事造成的社会关注及相关困扰深感抱歉。据称由于蔡宜臻正在日本接受调查，无法与其本人取得联系",
-    "source": "© France Médias Monde",
-    "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260825-%E5%8F%B0%E6%B9%BE%E5%A5%B3%E8%89%BA%E4%BA%BA%E5%9B%A0%E5%90%91%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%9D-%E4%BD%9B%E8%B6%B3%E7%9F%B3-%E6%B3%BC%E6%B4%92%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93%E8%80%8C%E8%A2%AB%E9%80%AE%E6%8D%95",
-    "time": "2026-08-25",
-    "_ts": 1787652619000,
-    "_isFresh": true
-  },
-  {
     "cat": "争议新闻",
     "title": "台风“沙德尔”逼近 福建沿海22条客渡运航线停运",
     "summary": "中新社福州8月25日电 (记者 闫旭)今年第18号台风“沙德尔”(强台风级)25日下午已移入福建省热带气旋警戒区。据中央气象台预计，“沙德尔”将于27日夜间至28日上午在浙江象山到福建福清一带沿海登陆。",
@@ -481,22 +481,22 @@
   },
   {
     "cat": "争议新闻",
+    "title": "早报漫画",
+    "summary": "点击查看新闻详情",
+    "source": "联合早报",
+    "url": "https://www.zaobao.com.sg/forum/comic/story20260826-9572943",
+    "time": "2026-08-25",
+    "_ts": 1787691600000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
     "title": "鸠山由纪夫：对历史真诚反省并表达共情，才能通向真正和解",
     "summary": "中新社北京8月25日电 (马帅莎 余湛奕 刘纪)“促进建设和平与繁荣的亚洲命运共同体”对话大会25日在北京举办。日本前首相鸠山由纪夫在开幕式上表示，对历史真诚反省并表达共情，才能通向真正和解之路。",
     "source": "中国新闻网",
     "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684187.shtml",
     "time": "2026-08-25",
     "_ts": 1787666387000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "“香港动能”主题巡展天津启幕 冀拓津港合作新空间",
-    "summary": "中新网天津8月25日电 (记者 周亚强)香港特别行政区政府驻北京办事处主任姚继卓25日在天津表示，天津与香港同属国家区域协调发展和高水平对外开放的关键节点，津港合作根基深厚，期待两地共同把握“十五五”新机遇。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684181.shtml",
-    "time": "2026-08-25",
-    "_ts": 1787665914000,
     "_isFresh": true
   },
   {
