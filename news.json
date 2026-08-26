@@ -1,22 +1,22 @@
 [
   {
     "cat": "国内要闻",
+    "title": "中印边界问题特别代表第25次会晤达成8点成果共识",
+    "summary": "中新社北京8月27日电 8月25日，中印边界问题特别代表第25次会晤在北京举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题坦诚、深入交换意见，达成8点成果共识。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684894.shtml",
+    "time": "2026-08-26",
+    "_ts": 1787781270000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
     "title": "HICOOL 2026全球创业者峰会在北京开幕",
     "summary": "中新社北京8月26日电 (记者 陈杭)26日晚，为期四天的HICOOL 2026全球创业者峰会在北京开幕。本届峰会年度主题为“从创新源头到产业潮头”，采用“展+会”一体形式，吸引600余家展商在2.3万平方米的展览空间内同台竞技。",
     "source": "中国新闻网",
     "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684888.shtml",
     "time": "2026-08-26",
     "_ts": 1787760955000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国内要闻",
-    "title": "中印边界问题特别代表第25次会晤达成8点成果共识",
-    "summary": "新华社北京8月26日电#8195;8月25日，中印边界问题特别代表第25次会晤在北京举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题坦诚、深入交换意见，达成8点成果共识如下：",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684880.shtml",
-    "time": "2026-08-26",
-    "_ts": 1787757427000,
     "_isFresh": true
   },
   {
@@ -71,6 +71,26 @@
   },
   {
     "cat": "国内要闻",
+    "title": "西藏启动自治区自然灾害一级救助应急响应",
+    "summary": "点击查看新闻详情",
+    "source": "中国日报网",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfaVgweW5IRUtnM2t5NzZJQlFObXpsb0hNWDBJSnFDbXFJOWVRTFRFNWw0WEtwbmdObjhFTG5XN1ZEUGo4TUctY3RwRnpvajRYZ2NvNlY1d0ZrNHV2dS1lTGRkUm1LMG5pOE9aVEZ4X3h0bnJTWW5HYjJydw?oc=5",
+    "time": "2026-08-26",
+    "_ts": 1787786477000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
+    "title": "西部陆海新通道智慧水运大模型正式发布 中国移动助力广西水运迈入“AI领航”时代",
+    "summary": "点击查看新闻详情",
+    "source": "finance.sina.com.cn",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0VvX2VtVUFOOW1KdlRCcWl4MWQ0dXJqaTBDRTI0SnlTd1RuV29MMUVWRGctQTBqdGZWbUJmYnpaS200VlAzOVBlc21Ud01fOHdsZGJOLUVIWnRsQ3ZtcDdzV0p6bDBnWGM4WDBDN0d6UHZNWXVFNzV6UE9oMVQzd0xnUmFrOGxRejhQcEJNUWUzeVlXX3d1Q0pYU0tib1NLUkdHZHhQUTNEaFd3MUhEVVNR?oc=5",
+    "time": "2026-08-26",
+    "_ts": 1787785167000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
     "title": "宿州学院党委书记李红接受审查调查",
     "summary": "中新网8月26日电 据安徽省纪委监委消息：宿州学院党委书记李红涉嫌严重违纪违法，目前正接受安徽省纪委监委纪律审查和监察调查。",
     "source": "中国新闻网",
@@ -80,23 +100,13 @@
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "两部门针对西藏吉隆泥石流灾害启动国家二级救灾应急响应",
-    "summary": "中新网8月26日电 据应急管理部网站消息，8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684723.shtml",
+    "cat": "科技前沿",
+    "title": "OpenAI 发布 Hugging Face 安全事件官方报告，还原 AI 模型沙箱逃逸全过程",
+    "summary": "IT之家 8 月 27 日消息，OpenAI 当地时间周三发布了关于 Hugging Face 遭入侵事件的 官方报告 ，首次较为完整地还原了这起事件的经过：一系列罕见因素叠加，导致一款 AI 模型突破测试环境限制，最终引发了一场波及范围广泛的网络安全事件。 IT之家注意到，这份报告距离事件首次曝光已超过一个月，其中涉",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/994/797.htm",
     "time": "2026-08-26",
-    "_ts": 1787743564000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国内要闻",
-    "title": "全国政协十四届常委会第十八次会议闭幕 王沪宁主持并讲话",
-    "summary": "新华社北京8月26日电 政协第十四届全国委员会常务委员会第十八次会议26日下午在京闭幕，会议以“加大保障和改善民生力度，扎实推进全体人民共同富裕”为议题协商议政。中共中央政治局常委、全国政协主席王沪宁主持闭幕会并讲话。他表示，中共十八大以来，以习近平同志为核心的中共中央坚持以人民为中心的发展思想，部署打赢人类历史上规模",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684727.shtml",
-    "time": "2026-08-26",
-    "_ts": 1787743122000,
+    "_ts": 1787786508000,
     "_isFresh": true
   },
   {
@@ -190,13 +200,13 @@
     "_isFresh": true
   },
   {
-    "cat": "科技前沿",
-    "title": "全新领克 20 汽车白紫内饰官图发布：怀档设计、机械式门把手，新车预计三季度上市",
-    "summary": "IT之家 8 月 26 日消息，领克汽车官方今日放出了全新领克 20 车型的白紫内饰官图。 官图显示，全新领克 20 采用环抱式座舱设计，配备全液晶仪表盘、HUD 抬头显示以及悬浮中控屏、运动风多功能方向盘。值得一提的是， 中控屏上方还有一个机器人造型的摆件 ，预计可单独选配。 新车配备机械式门把手， 并拥有一枚采用切",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/994/766.htm",
+    "cat": "经济金融",
+    "title": "多地发布楼市新政 蓄力“金九银十”",
+    "summary": "8月26日，西安市住房和城乡建设局等4部门发布《西安市支持房地产市场高质量发展工作措施》，提出加大住房公积金支持力度、鼓励居民“卖旧买新”、构建“带押过户”高效联动服务机制、房地产开发企业自主确定项目销售价格等措施。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/cj/2026/08-27/10684908.shtml",
     "time": "2026-08-26",
-    "_ts": 1787754282000,
+    "_ts": 1787787224000,
     "_isFresh": true
   },
   {
@@ -261,42 +271,52 @@
   },
   {
     "cat": "经济金融",
-    "title": "中国国际水果展开幕 多国嘉宾看好中国市场提质机遇",
-    "summary": "中新社上海8月26日电 (记者 姜煜)2026中国国际水果展(CHINA FRUIT)26日在上海揭幕，多国参会者在展会现场对中新社记者表示，看好中国水果市场“提质”带来的广阔机遇。",
+    "title": "充电桩也有身份证了 电车充电桩强制3C认证落地",
+    "summary": "8月1日起，电动汽车供电设备3C强制认证正式落地。新规明确，未取得3C认证的充电桩产品，禁止出厂、销售、进口或者在其他经营活动中使用。新规主要针对新增和扩容设备，遵循“管新不管旧”原则，8月1日前已投运的存量充电桩可继续使用。新规落地带来什么改变？",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684669.shtml",
+    "url": "https://www.chinanews.com.cn/cj/2026/08-27/10684906.shtml",
     "time": "2026-08-26",
-    "_ts": 1787738104000,
+    "_ts": 1787786888000,
     "_isFresh": true
   },
   {
     "cat": "经济金融",
-    "title": "中新网评：被商家公开隐私信息，消费者不能花了钱还被侮辱",
-    "summary": "中新网北京8月26日电(记者 刘星晨)因为一句消费后的评价被商家曝光个人地址、因为一次到店消费后的感受分享被商家电话骚扰要求删除评论，类似情况是否在你身边上演过？",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684867.shtml",
+    "title": "操盘必读：影响股市利好或利空消息_2026年8月27日_财经新闻",
+    "summary": "点击查看新闻详情",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkVHOXgwYnFvcDIyLXI2X1J1NkpJWGl6dTE0QTFCOFdYcXc0NlBKSnpib3Jtb3JYZzIyckNUbkVSRjZFeEdDWk9NNEFWSy13TkFqR1JHWm1HVkRzUzUyRGRGVjhLSmt3RWlIbmtCckpQUGtxQnQzN0dYWXRFU3BXRg?oc=5",
     "time": "2026-08-26",
-    "_ts": 1787752063000,
+    "_ts": 1787786640000,
     "_isFresh": true
   },
   {
     "cat": "经济金融",
-    "title": "浙江成立省级数据集团 人工智能产业布局再落关键一子",
-    "summary": "中新网杭州8月26日电(奚金燕)26日，浙江省数据集团有限公司揭牌仪式在杭州举行，标志着该省数据资源开发利用和人工智能产业发展省级平台正式落地，引发外界关注。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684861.shtml",
+    "title": "国际金融要情 |（周四 2026.8.27）",
+    "summary": "点击查看新闻详情",
+    "source": "finance.sina.com.cn",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uTTdTZy0yUVp6ZWRkU3JNTjktR2hNSGZ3bWlKOVpkTG5uT0pZWjJHbGhqZ3A3Vk9CVXRXelJvay1PZVhVb3RDMHlUeUNZYlBiaDVrbHhkZFFEYkczcEJtM0k4Z3NfSnhncF9aUmFR?oc=5",
     "time": "2026-08-26",
-    "_ts": 1787751673000,
+    "_ts": 1787785776000,
     "_isFresh": true
   },
   {
-    "cat": "经济金融",
-    "title": "天工Ultra机器人再创纪录 百米跑出8.64秒",
-    "summary": "8月26日，第二届世界人形机器人运动会迎来闭幕日，在当晚举行的100米-大型组比赛中，天工Ultra机器人后来居上，夺取冠军。记者 吕少威 摄 中新网北京8月26日电(记者 吕少威)8月26日，第二届世界人形机器人运动会迎来闭幕日，在当晚举行的100米-大型组比赛中，北京人形机器人创新中心的天工 Ultra机器人以8.",
+    "cat": "国际局势",
+    "title": "尼泊尔北部山洪暴发已致157人死亡",
+    "summary": "总台记者当地时间27日获悉，据尼泊尔警方消息，尼泊尔北部地区山洪造成的死亡人数升至157人。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684850.shtml",
+    "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684903.shtml",
     "time": "2026-08-26",
-    "_ts": 1787751322000,
+    "_ts": 1787785386000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "尼泊尔与西藏边境洪灾死亡人数升至160人 数百人失踪",
+    "summary": "尼泊尔与中国西藏边境地区周三（8月26日）发生严重洪灾并引发山体滑坡，死亡人数已升至至少160人，另有数百人失踪，其中包括大批外国游客。救援人员目前仍在泥浆和废墟中搜寻幸存者。科学家警告，气候变化正在提高此类极端灾害发生的强度和频率。",
+    "source": "REUTERS - Navesh Chitrakar",
+    "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260826-%E5%B0%BC%E6%B3%8A%E5%B0%94%E4%B8%8E%E8%A5%BF%E8%97%8F%E8%BE%B9%E5%A2%83%E6%B4%AA%E7%81%BE%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3160%E4%BA%BA-%E6%95%B0%E7%99%BE%E4%BA%BA%E5%A4%B1%E8%B8%AA",
+    "time": "2026-08-26",
+    "_ts": 1787779448000,
     "_isFresh": true
   },
   {
@@ -371,32 +391,12 @@
   },
   {
     "cat": "国际局势",
-    "title": "俄远东在建天然气化工项目火灾致死人数升至7人",
-    "summary": "中新社莫斯科8月26日电 位于俄罗斯远东阿穆尔州的阿穆尔天然气化工综合体项目官方网站26日通报称，该项目25日发生的火灾事故造成死亡人数升至7人，另有9人失联。中国驻哈巴罗夫斯克总领馆表示，暂时无法确认中国公民伤亡情况。搜救行动仍在进行中。",
+    "title": "特朗普再次宣称：“没有我，就没有以色列”",
+    "summary": "中新网8月27日电 据美国哥伦比亚广播公司(CBS)报道，当地时间26日，美国总统特朗普再次声称，若其未能执政，“以色列国家或将不复存在”。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684650.shtml",
+    "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684904.shtml",
     "time": "2026-08-26",
-    "_ts": 1787734851000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "俄中合资石化企业远东工地火灾 至少7人遇难 包括中国公民6人 9人失踪",
-    "summary": "俄中合资石化综合体在远东的工地周二发生火灾，遇难人数升至7人，包括6名中国公民，另有9名中国工人失踪。",
-    "source": "RFI中文",
-    "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260826-%E4%BF%84%E4%B8%AD%E5%90%88%E8%B5%84%E7%9F%B3%E5%8C%96%E4%BC%81%E4%B8%9A%E8%BF%9C%E4%B8%9C%E5%B7%A5%E5%9C%B0%E7%81%AB%E7%81%BE-%E8%87%B3%E5%B0%917%E4%BA%BA%E9%81%87%E9%9A%BE-%E5%8C%85%E6%8B%AC%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%916%E4%BA%BA-9%E4%BA%BA%E5%A4%B1%E8%B8%AA",
-    "time": "2026-08-26",
-    "_ts": 1787747240000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "突发：美军一架“黑鹰”直升机坠毁",
-    "summary": "中新网8月26日电 综合美媒报道，美军一架“黑鹰”直升机25日在美国西部科罗拉多州丹佛附近山地林区坠毁，初步报告显示没有人员伤亡。现场图片显示，机身严重受损，周围树木被折断。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684660.shtml",
-    "time": "2026-08-26",
-    "_ts": 1787733800000,
+    "_ts": 1787786253000,
     "_isFresh": true
   },
   {
@@ -451,22 +451,32 @@
   },
   {
     "cat": "争议新闻",
-    "title": "孤独症儿童家庭敦煌文化研学公益活动在广州启动",
-    "summary": "中新网广州8月26日电 (余冰冰 张璐)“一念敦煌·星遇千年”孤独症儿童家庭敦煌文化研学公益活动(以下简称“活动”)26日在广州艺术博物院启幕。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684784.shtml",
+    "title": "中国地震局回应“第三方地震预警误报”等热点问题",
+    "summary": "点击查看新闻详情",
+    "source": "finance.sina.com.cn",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJT1ppVThDWGZxdjh5cTdoNjhFNUExZU5QN1NiQ0Nyd2V5MTlrRTl5N2hMZy1PbUZIZHRGb2EzdkZIdXZzeVJkdlJodFMxZ0d2S1dpMkFLcTFqXzR5Tk5mUWtDY1lsR0ZEdkV3ZEpjQ0FkVENxMEowTQ?oc=5",
     "time": "2026-08-26",
-    "_ts": 1787747324000,
+    "_ts": 1787761519000,
     "_isFresh": true
   },
   {
     "cat": "争议新闻",
-    "title": "中国地震局回应“第三方地震预警误报”等热点问题",
-    "summary": "点击查看新闻详情",
-    "source": "新浪财经",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSEhaWDI4dWVUeFlrRXNZRE1oMHpWbjJtUmhhOGhTQUYwOEFrd01HaHJreXFHX3dHYnpVdXQ2Y0ZTbVE3a0hpQXhncjQzbTdfTDdZUjJJMjVMUzJ1WEs2S1pwY0xUWjhEcWRMVm1UZEJkZ2tudHJmTjdTZ2dQMWJHRTN3SGJ1RkdtS2Q0Ul9YY2JNZnVuT2traHpqWTVUQUc4Sk13UU9ZbFkxUTF4Y3BET0R0Z3YzWWxyRndMVmV1STIwcEhjQUtZb2Z3M29UOGg3a3FVeHNB?oc=5",
+    "title": "中国救援队111名消防救援指战员赴西藏吉隆灾害现场增援",
+    "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-27/10684896.shtml",
     "time": "2026-08-26",
-    "_ts": 1787759719000,
+    "_ts": 1787781665000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "近20年“名实不符”的手机号该归谁？ 法院：归实际使用人",
+    "summary": "手机，早已不只是通话联络的工具。手机号，更是绑定了使用者的数字生活，既是社交圈的通行证、电子钱包的钥匙、出行轨迹的记录者，更是我们畅游数字世界的“身份证”。如果手机号实名登记人不是实际使用者，号码该归谁？",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-27/10684907.shtml",
+    "time": "2026-08-26",
+    "_ts": 1787787072000,
     "_isFresh": true
   },
   {
@@ -487,16 +497,6 @@
     "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684883.shtml",
     "time": "2026-08-26",
     "_ts": 1787757853000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "广东159个镇街遭遇暴雨、大暴雨",
-    "summary": "中新网广州8月26日电 (记者 王坚)25日到26日早晨，广东有159个镇街遭遇暴雨、大暴雨，全省最大降雨量达294.1毫米。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684870.shtml",
-    "time": "2026-08-26",
-    "_ts": 1787752527000,
     "_isFresh": true
   },
   {
@@ -521,22 +521,22 @@
   },
   {
     "cat": "健康养生",
+    "title": "胰腺癌患者有救了！FDA批准新药生存期翻倍，年销售预计超90亿",
+    "summary": "点击查看新闻详情",
+    "source": "haiwaiwai.com",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BRG5obmlpajB1aDlpTDRNS0g1YlNPLVJqeEFoRFBHQUswOW5DcFhyQVhvSGM1OEw1M25kdHpVOTZrN3czc0RNQQ?oc=5",
+    "time": "2026-08-26",
+    "_ts": 1787778775000,
+    "_isFresh": true
+  },
+  {
+    "cat": "健康养生",
     "title": "宁夏：卫健委召开“时令节气与健康”主题新闻发布会",
     "summary": "点击查看新闻详情",
     "source": "中国报业网",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tblhWWW42Y1pvV0F3SC1ua2p0OGp3emd1ei02Z1NOWUd5MUVkdkw4ZTlUeTROd3NjUG1mekFoWE82SWUzZS1qZlRIdmxPRE8yRUFJMFdaemI0TzRzbWhQU3laRF9uSkxaS1lTODZR?oc=5",
     "time": "2026-08-26",
     "_ts": 1787729757000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "胰腺癌治疗迎来重大突破！美国FDA批准Revolution新药 患者中位生存期几乎翻倍",
-    "summary": "点击查看新闻详情",
-    "source": "东方财富",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jR0wyUXNqdHhrZmg3TXZWM24xOTRzY2lWalNkaHcyTVpEMWdIQldsWkctaFczaFFoMUxoZGo0dGRvZXJ0dUpMT0Nod2Z2MHU0XzQ4UFdGNGtxMktMbUxFQw?oc=5",
-    "time": "2026-08-26",
-    "_ts": 1787765423000,
     "_isFresh": true
   },
   {
@@ -583,7 +583,7 @@
     "cat": "健康养生",
     "title": "中国生物制药减重“贴片”新药在美国获批临床",
     "summary": "点击查看新闻详情",
-    "source": "新浪财经",
+    "source": "finance.sina.com.cn",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdE8zUms5MW4tbC1NTEFTUGFsb1JiVEFqQ0dKVUxLS1RjWFU5VU1LY2dSd1N3YVU0dGFEb295ejQ4aWNPaktpem8ySmo2WUZpcWRmOXRVZEZyUDNpX05aUm00Zk5OUVFCanZid0J5SExRVHZjZVVoZ3JRYTIzVVZxTkZvaXVCa3B1RlRwXy05VG1hNnFnVmxYTjJrNlBQWUNrODB3UUh2X2VOekk?oc=5",
     "time": "2026-08-26",
     "_ts": 1787759659000,
