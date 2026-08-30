@@ -51,6 +51,16 @@
   },
   {
     "cat": "国内要闻",
+    "title": "西藏吉隆“8·26”泥石流灾害已致16人遇难",
+    "summary": "今天(30日)，西藏吉隆“8·26”泥石流灾害新闻发布会在吉隆镇举行。8月26日上午，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。截至29日18时，灾害造成16人遇难，546人失联。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686615.shtml",
+    "time": "2026-08-30",
+    "_ts": 1788048907000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
     "title": "2026年“数据要素×”大赛贵州分赛获奖项目路演展示活动在贵阳举行",
     "summary": "中新网贵阳8月29日电 (记者 张伟)2026年“数据要素×”大赛贵州分赛获奖项目路演展示活动29日在贵阳举行。活动由中国国家数据局、贵州省人民政府指导，贵州省大数据局、贵州省发改委、贵州省工信厅等22家单位共同主办，贵州赛昇工业信息研究院承办，政府部门、高校院所、企业及媒体代表300余人参加。",
     "source": "中国新闻网",
@@ -81,22 +91,92 @@
   },
   {
     "cat": "国内要闻",
-    "title": "蓄力献礼建军百年 舞剧《我是一个兵》在江西正式启动",
-    "summary": "中新网南昌8月29日电 (朱莹)28日晚，原创军旅舞剧《我是一个兵》新闻发布会在江西南昌举行。作为2026年江西省文化艺术资金重点扶持项目，该舞剧以“少共国际师”为创作根基，献礼建军百年。",
+    "title": "王毅同尼泊尔外长通电话：面对灾情，两国要坚定站在一起",
+    "summary": "中新社北京8月29日电 中共中央政治局委员、外交部长王毅29日同尼泊尔外长希西尔通电话。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686469.shtml",
+    "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686608.shtml",
     "time": "2026-08-29",
-    "_ts": 1787997480000,
+    "_ts": 1788041317000,
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "尼日尔首都传出持续枪击和爆炸声 中国使馆发布安全提醒",
-    "summary": "点击查看新闻详情",
-    "source": "新浪新闻_手机新浪网",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTFJNakduV2RJakpPWnUtNkRpWEVnMDJMRWtINEhoeHpHbm1FVHBjM3kyOXR6RERiWElYTExFNzNFRTZkRDZVQUdrTk4wVlp3YjFwdjVLbVp2elJ2VDRnbGo2OHgxVTVibXNobzBXaEdUR3MyQWZxOUZWdC1uTzFjMmZKMDZJZ0pKOGNkWUVyNVdKT3p6WGluVlp3RWdCWGpDbGJsdFRJVFM5XzFOQktSQmxGb3lwWkZwT3ZXZ3N3?oc=5",
+    "cat": "科技前沿",
+    "title": "广汽埃安 i60 今日推送全新 OTA 更新：支持原生 Apple CarPlay 互联、自定义充电上限",
+    "summary": "IT之家 8 月 30 日消息，广汽埃安 i60 听劝型宠粉 OTA 今日开启推送，带来 8 大核心升级、12 项优化体验，共 20 项更新上线。 IT之家整理如下： RAEB 倒车紧急制动辅助 (530 进阶版 / 650 进阶版) ：倒车挂入 R 挡起，系统实时识别后方行人 (含儿童)、汽车、自行车等目标，并对目标",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/996/069.htm",
+    "time": "2026-08-30",
+    "_ts": 1788049414000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "极狐阿尔法 T7 预售 72 小时订单突破 3 万台，新车搭载华为乾崑智驾 ADS 5 Pro",
+    "summary": "IT之家 8 月 30 日消息，ARCFOX 极狐宣布，旗下“智美 AI 越级大五座 SUV”新车 —— 极狐阿尔法 T7 预售 72 小时订单突破 30,000 台 。 据IT之家此前报道， 极狐阿尔法 T7 提供增程、纯电两种动力 ，集结华为乾崑智驾 ADS 5 Pro、全系宁德时代电池、麦格纳百年制造工艺三大行业",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/996/067.htm",
+    "time": "2026-08-30",
+    "_ts": 1788048886000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "荣耀 Magic8 系列手机首发的 AI 追色功能迎升级，新增支持类“调色盘”新玩法",
+    "summary": "IT之家 8 月 30 日消息，据荣耀研发工程师 @荣耀曹工 分享，荣耀 Magic8 系列手机上首发的 AI 追色功能， 云端算法一直在持续升级 。 他透露， AI 追色的调节功能最近还上线了一个类似“调色盘”的新玩法 ，可以分“影调”和“颜色”来调整等级。另外，随着 OS 大版本和新产品推进，相机和图库在功能和设计",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/996/058.htm",
     "time": "2026-08-29",
-    "_ts": 1788029775000,
+    "_ts": 1788045504000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
+    "summary": "IT之家 8 月 30 日消息，科技媒体 9to5Mac 昨日（8 月 29 日）发布博文，报道称在苹果 Siri AI 上线之前， 苹果车联方案 CarPlay 目前已接入支持 4 款 AI 聊天机器人。 IT之家援引博文介绍，苹果自 iOS 26.4 起支持对话类应用接入 CarPlay，计划在今年 9 月推出 i",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/996/057.htm",
+    "time": "2026-08-29",
+    "_ts": 1788045076000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "微软 Edge 152 浏览器发布：支持苹果账号登录，移除 Drop 跨设备传输",
+    "summary": "IT之家 8 月 30 日消息，微软于 8 月 27 日发布 Microsoft Edge 浏览器 152 稳定版（152.0.4191.53）， 在逐步淘汰实时视频翻译功能外，还宣布正式移除内置跨设备传输工具 Drop。 更新节奏方面，该版本也是 Edge 转向“两周一个主版本”发布节奏后的首批常规更新，Window",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/996/055.htm",
+    "time": "2026-08-29",
+    "_ts": 1788044652000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "应急管理部部署卫星遥感加强吉隆泥石流灾害监测",
+    "summary": "IT之家 8 月 30 日消息，据央视新闻 8 月 29 日报道，卫星遥感具有全天候、全天时、高动态等观测优势。根据西藏日喀则市吉隆县泥石流灾害救援需要，应急管理部部署国家减灾中心启动卫星应急数据获取机制， 综合利用应急减灾、资源、高分等系列卫星数据资源 ，对灾害过程开展监测。 利用应急减灾二号卫星数据，通过分析河道及",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/996/054.htm",
+    "time": "2026-08-29",
+    "_ts": 1788044216000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "IT早报 0830：常州为星宇离职学生办专场招聘会；长鑫 LPDDR6 内存量产小米 18 Fold 首发；余承东晒华为 Mate XT 2 三折叠真机；交通部回应 ETC 改扫车牌支付...",
+    "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 30 日星期日，今天的重要科技资讯有： 1. 常州为星宇离职学生办专场招聘会，最高年薪 24 万 星宇股份“羞辱式劝退”应届生引发热议，常州为离职学生举办专场招聘会，超千家岗位可选，最高年薪 24 万，目前已有 38 人成功再就业。星宇已致歉并推出补偿措施。>> ",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/996/063.htm",
+    "time": "2026-08-29",
+    "_ts": 1788047278000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "苹果首款AI眼镜细节曝光！无屏设计 主打Siri视觉智能 2027年发布",
+    "summary": "点击查看新闻详情",
+    "source": "驱动之家",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDQ2RsUnRCMC1qUXZwNzNVcjRQNzFkcjJyeW1yelEyS0JjQ1RaRzZwc2hhTUc3SnVNX3NSUkFSSTF1TGMyNElUSWE0T2FORG16THA2cFVTVHE?oc=5",
+    "time": "2026-08-29",
+    "_ts": 1788045000000,
     "_isFresh": true
   },
   {
@@ -117,86 +197,6 @@
     "url": "https://www.ithome.com/0/996/048.htm",
     "time": "2026-08-29",
     "_ts": 1788014695000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "R 星确认《GTA6》新增压制火力机制，可避免击杀警察与无辜平民",
-    "summary": "IT之家 8 月 29 日消息，日媒 Fami 通昨日发布博文，报道称 Rockstar North 工作室近日发布《GTA6》加长实机预告片，开发负责人罗伯 · 尼尔森（Rob Nelson）也在近期回答了玩家关心的游戏机制、细节玩法问题。 罗伯表示，玩家在游戏中除了偷车，还可以靠抢劫商店来赚钱。当你靠近商店准备举枪",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/996/046.htm",
-    "time": "2026-08-29",
-    "_ts": 1788013784000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "英伟达“看中”Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
-    "summary": "IT之家 8 月 29 日消息，据外媒 TechCrunch 今天（29 日）报道，英伟达有望完成本周最受瞩目的一笔科技交易。市场正等待公司确认一项据称价值 130 亿美元 （IT之家注：现汇率约合 876.47 亿元人民币） 的收购案，目标是开放权重 AI 模型平台 Hugging Face。 Hugging Fac",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/996/041.htm",
-    "time": "2026-08-29",
-    "_ts": 1788010759000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "“开源 Windows”ReactOS 0.4.16 发布：全新图形安装程序、提升硬件支持",
-    "summary": "IT之家 8 月 29 日消息，据科技媒体 Phoronix 今天报道，“开源 Windows”项目 ReactOS 现已发布 0.4.16 更新， 最大的变化是加入了全新 GUI（图形界面）安装程序 。 IT之家从原报道了解到，ReactOS 的图形安装程序已被集成到启动 CD 和 Live CD 环境中。用户可使用",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/996/039.htm",
-    "time": "2026-08-29",
-    "_ts": 1788010179000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "一汽红旗全新 H7 推出限时置换优惠，16.18 万元起",
-    "summary": "IT之家 8 月 29 日消息，一汽红旗官方宣布，首发 18.18 万元起的全新红旗 H7 开启限时置换优惠活动，限时置换价 16.18 万元起。 全新红旗 H7 采用了红旗品牌最新的家族式设计语言。前脸部分，无边框直瀑式格栅与一体化 LED 大灯巧妙融合，配合飞翼样式的镀铬双饰面板，整体造型端庄大气。车身侧面采用动感",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/996/033.htm",
-    "time": "2026-08-29",
-    "_ts": 1788008794000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "夏尔马未正面回应微软 XBOX Helix 是否保留光驱，仅称希望确保玩家有选择权",
-    "summary": "IT之家 8 月 29 日消息，本周早些时候，微软 XBOX 推出了光盘转数字版授权系统，引发“为下一代 XBOX Helix 取消实体光驱做准备”的有关推测。 XBOX CEO 阿莎 · 夏尔马在接受 BBC 采访时，被问到 XBOX Helix 是否会保留光驱，却始终没有正面作答，采访的大部分时间都在讨论当前影响游",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/996/030.htm",
-    "time": "2026-08-29",
-    "_ts": 1788007804000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "《宝可梦轶事：荒诞冒险记 葱游兵与皮丘》首支预告公开，2027 年上线 Disney+",
-    "summary": "IT之家 8 月 29 日消息，宝可梦公司与英国阿德曼动画（Aardman）联合制作的定格动画系列《宝可梦轶事：荒诞冒险记 葱游兵与皮丘》于当地时间 8 月 28 日发布了首支先导预告片。 该预告片在 2026 年宝可梦世界锦标赛（Pokémon World Championships）同期举办的粉丝活动“Pokémo",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/996/027.htm",
-    "time": "2026-08-29",
-    "_ts": 1788006756000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "亚马逊上线竞价机制，第三方卖家可付费提速“数小时达”服务",
-    "summary": "IT之家 8 月 29 日消息，据《商业内幕》今天（29 日）报道，亚马逊开始借助第三方卖家扩大旗下的数小时送达服务，同时准备让部分卖家为获得这种配送速度 额外付费 。 本月早些时候，亚马逊向部分使用亚马逊物流（FBA）的卖家发出邮件，要求卖家自行报价，争取让旗下商品进入“数小时达（Sub-Same Day）”配送范围",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/996/025.htm",
-    "time": "2026-08-29",
-    "_ts": 1788005185000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "美国 FTC 正调查谷歌 YouTube 随意封号问题",
-    "summary": "IT之家 8 月 29 日消息，据彭博社昨日报道，美国联邦贸易委员会（FTC）正就 Alphabet 旗下 YouTube 进行调查，调查焦点集中在 YouTube 对用户封号、限流、删除内容时，是否违反了消费者保护法。 知情人士透露，FTC 自 2025 年起对 YouTube 展开调查，目前已进入准备提起潜在诉讼的",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/996/024.htm",
-    "time": "2026-08-29",
-    "_ts": 1788005104000,
     "_isFresh": true
   },
   {
@@ -301,12 +301,42 @@
   },
   {
     "cat": "国际局势",
+    "title": "尼日尔军方称逮捕多名企图发动兵变的士兵",
+    "summary": "当地时间8月29日，总台记者获悉，尼日尔国防部表示，该国国防与安全部队已成功挫败当天发生在首都尼亚美的兵变企图，多名参与叛乱的士兵被现场逮捕。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686613.shtml",
+    "time": "2026-08-29",
+    "_ts": 1788043565000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "美称与委内瑞拉达成石油协议 被批“公然盗窃”",
+    "summary": "美国总统特朗普当地时间8月28日在社交媒体发文宣布，美国已与委内瑞拉达成协议，获得对委内瑞拉已探明石油储量中逾650亿桶的“多数控制权”。该协议遭到多方批评，美方的行为也被网友怒斥为是对委内瑞拉石油的“公然盗窃”。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686612.shtml",
+    "time": "2026-08-29",
+    "_ts": 1788043417000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
     "title": "喜马拉雅洪灾死亡人数升至682人 近3000人失踪 联合国与尼泊尔警告气候变化威胁加剧",
     "summary": "联合国气候事务负责人西蒙·斯蒂尔和尼泊尔外交部长希希尔·卡纳尔周六（8月29日）警告，气候变化正日益威胁喜马拉雅地区。尼泊尔与中国西藏交界地区日前发生冰川崩塌，引发致命洪水和泥石流，造成的死亡人数升至682人、约3000人失踪。卡纳尔呼吁：国际社会团结起来，共同保护喜马拉雅生态系统。尼泊尔称，灾区重建费用预计将达到“数",
     "source": "REUTERS - Athit Perawongmetha",
     "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%B4%AA%E7%81%BE%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3682%E4%BA%BA-%E8%BF%913000%E4%BA%BA%E5%A4%B1%E8%B8%AA-%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%8E%E5%B0%BC%E6%B3%8A%E5%B0%94%E8%AD%A6%E5%91%8A%E6%B0%94%E5%80%99%E5%8F%98%E5%8C%96%E5%A8%81%E8%83%81%E5%8A%A0%E5%89%A7",
     "time": "2026-08-29",
     "_ts": 1788037193000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "尼日尔兵变袭击总统府及机场 首都对峙局势未明",
+    "summary": "点击查看新闻详情",
+    "source": "香港01",
+    "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPNjNhcXhYMjlOVnRVOXpma3hGbWtMS2lZX1YtdnN2NFFPV005RzhqOFlVaXE2Uk9wUGQ0aTI4ZTR4aWMxLV8zLXk2c1ltTkc4aVhMa1VyM1Z5bVowWXVtenk5R0RqQWZmdzZXM0FBdzg5QzFoV0FlVHJRVUJGNzVZempVdDI2UXkzWHdaTExyaW95ZTVaQmpuYWNTVHk0cDZiTFVTUU1zWmVEY0dXaHg3M1dXdHhYQnAydC02dzVvZUs4d1h0eElvNTFVRVBYZHNqRWJUXy1CM1kyMWl5NDF5MnU0bFFLcnJOejkyTUNPZmpPaWx2cHV2Q0wzZlVHQi1xeWozRGJneUtnZDhuSXBGR0pkMGx6ekdKellwbGRMMFRRWWxEUzU3ZkZ1bDQ0V0ZIdjhUdFJmUUhWNVI0eDNkV2FRa01WUEx5aWtISElXa3ZqcmVrTE1OUE1UbkhBQUtldWtodFNFeTJTdmlPaGYzT2FKNkE4Z2M?oc=5",
+    "time": "2026-08-29",
+    "_ts": 1788046980000,
     "_isFresh": true
   },
   {
@@ -341,6 +371,16 @@
   },
   {
     "cat": "国际局势",
+    "title": "伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡",
+    "summary": "伊朗外交部副部长加里巴巴迪29日表示，霍尔木兹海峡目前完全关闭。任何船只如通过该海峡，均需要经过伊朗的协调和许可。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686611.shtml",
+    "time": "2026-08-29",
+    "_ts": 1788041813000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
     "title": "冰岛举行全民公投，确定是否与布鲁塞尔重启入盟谈判",
     "summary": "冰岛8月29日举行公民投票，确定是否重启与欧盟中断13年的入盟谈判。尽管欧盟乐见接纳这个富裕而且稳定的国家为新成员，但冰岛居民对作为该国经济支柱的渔业是否会在加入欧盟后受到限制的担心，使得这次公投结果胜负难料。",
     "source": "REUTERS - Leonhard Foeger",
@@ -357,46 +397,6 @@
     "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686373.shtml",
     "time": "2026-08-29",
     "_ts": 1787982535000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "以色列空袭约旦河西岸杰宁市致3人死亡",
-    "summary": "中新社北京8月29日电 综合消息：以色列当地时间28日在巴勒斯坦约旦河西岸杰宁市发动空袭，造成3名巴勒斯坦人死亡。以国防军与以国家安全总局(辛贝特)当日表示，死者为巴勒斯坦伊斯兰抵抗运动(哈马斯)成员卡伊斯·拜塔维及其2名同伙。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686338.shtml",
-    "time": "2026-08-29",
-    "_ts": 1787982475000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "户上隼辅击败樊振东：乒乓球德国杯上，杜塞尔多夫队在第一轮比赛中出局",
-    "summary": "8月29日，乒乓球德国杯1/8决赛在德国纽伦堡市举行，中国名将樊振东效力的杜塞尔多夫俱乐部以1比3不敌奥克森豪森队，无缘八强。",
-    "source": "AP - Petros Giannakouris",
-    "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260829-%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%E5%87%BB%E8%B4%A5%E6%A8%8A%E6%8C%AF%E4%B8%9C-%E4%B9%92%E4%B9%93%E7%90%83%E5%BE%B7%E5%9B%BD%E6%9D%AF%E4%B8%8A%EF%BC%8C%E6%9D%9C%E5%A1%9E%E5%B0%94%E5%A4%9A%E5%A4%AB%E9%98%9F%E5%9C%A8%E7%AC%AC%E4%B8%80%E8%BD%AE%E6%AF%94%E8%B5%9B%E4%B8%AD%E5%87%BA%E5%B1%80",
-    "time": "2026-08-29",
-    "_ts": 1788038352000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "美国对伊朗“经济战”首项行动：埃及银行阿联酋分行遭制裁 阿联酋央行紧急审查",
-    "summary": "阿联酋中央银行周六（8月29日）宣布，将对埃及国有的埃及银行（Banque Misr）在阿联酋的分支机构展开检查。该银行阿联酋分行因涉嫌参与同伊朗有关的金融交易，前一天遭到美国制裁。这是美国财政部长贝森特宣布要切断德黑兰的“所有经济资源”、“彻底孤立”伊朗以来，美国政府采取的首项具体行动。",
-    "source": "via REUTERS - Abdulla Al Neyadi",
-    "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97-%E7%BB%8F%E6%B5%8E%E6%88%98-%E9%A6%96%E9%A1%B9%E8%A1%8C%E5%8A%A8-%E5%9F%83%E5%8F%8A%E9%93%B6%E8%A1%8C%E9%98%BF%E8%81%94%E9%85%8B%E5%88%86%E8%A1%8C%E9%81%AD%E5%88%B6%E8%A3%81-%E9%98%BF%E8%81%94%E9%85%8B%E5%A4%AE%E8%A1%8C%E7%B4%A7%E6%80%A5%E5%AE%A1%E6%9F%A5",
-    "time": "2026-08-29",
-    "_ts": 1788038072000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "美官员修正“中国黑客入侵政府机构”说法：有关机构仅为攻击目标",
-    "summary": "美国官员日前修正了此前有关多个政府机构遭中国黑客入侵的说法，现称这些机构只是黑客锁定的攻击目标，并非全部遭到成功入侵。",
-    "source": "© REUTERS - Alice Sacco",
-    "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E7%BE%8E%E5%AE%98%E5%91%98%E4%BF%AE%E6%AD%A3-%E4%B8%AD%E5%9B%BD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84-%E8%AF%B4%E6%B3%95-%E6%9C%89%E5%85%B3%E6%9C%BA%E6%9E%84%E4%BB%85%E4%B8%BA%E6%94%BB%E5%87%BB%E7%9B%AE%E6%A0%87",
-    "time": "2026-08-29",
-    "_ts": 1788037791000,
     "_isFresh": true
   },
   {
@@ -421,6 +421,26 @@
   },
   {
     "cat": "争议新闻",
+    "title": "蓄力献礼建军百年 舞剧《我是一个兵》在江西正式启动",
+    "summary": "中新网南昌8月29日电 (朱莹)28日晚，原创军旅舞剧《我是一个兵》新闻发布会在江西南昌举行。作为2026年江西省文化艺术资金重点扶持项目，该舞剧以“少共国际师”为创作根基，献礼建军百年。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686469.shtml",
+    "time": "2026-08-29",
+    "_ts": 1787997480000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "强降雨致云南磨憨水库漫坝 紧急转移2200余人",
+    "summary": "中新社昆明8月29日电 (陆希成)昆明市防汛抗旱指挥部办公室29日通报，8月28日至29日，磨憨镇出现强降雨，辖区河道水位持续上涨，该镇磨龙村盐塘水库出现漫坝险情，有溃坝风险。截至8月29日16时，已转移2200余人。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686609.shtml",
+    "time": "2026-08-29",
+    "_ts": 1788041357000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
     "title": "赛事成果落地 全国医保影像AI识图大赛赋能广西智慧医疗",
     "summary": "中新网南宁8月29日电(韦佳秀)“我们每年归集原始医疗影像数据达到3000万例，经过脱敏处理、质控管理等，能够为AI训练提供坚实的数据基础。”广西医保局办公室二级调研员黄鸿海近日在广西南宁表示，广西医保影像云平台上经过规范化处理的医疗影像资源，是正在广西举办的全国医保影像AI识图大赛开展技术竞技的重要依托。",
     "source": "中国新闻网",
@@ -437,16 +457,6 @@
     "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686562.shtml",
     "time": "2026-08-29",
     "_ts": 1788012102000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "云南磨憨强降雨致水库漫坝 超2200人紧急转移",
-    "summary": "中新网昆明8月29日电(陆希成)昆明市防汛抗旱指挥部办公室29日通报，8月28日至29日，位于中老边境的西双版纳磨憨镇出现强降雨，辖区河道水位持续上涨，该镇磨龙村盐塘水库出现漫坝险情，存在溃坝风险。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686561.shtml",
-    "time": "2026-08-29",
-    "_ts": 1788012036000,
     "_isFresh": true
   },
   {
@@ -490,16 +500,6 @@
     "_isFresh": true
   },
   {
-    "cat": "争议新闻",
-    "title": "绝不放弃任何希望——应急管理部前方工作组有关负责人介绍吉隆泥石流灾害当前救援处置工作",
-    "summary": "点击查看新闻详情",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686576.shtml",
-    "time": "2026-08-29",
-    "_ts": 1788011041000,
-    "_isFresh": true
-  },
-  {
     "cat": "健康养生",
     "title": "《“医保影像云”基础规范》国家级成果重磅发布",
     "summary": "点击查看新闻详情",
@@ -517,16 +517,6 @@
     "url": "https://www.chinanews.com.cn/jk/2026/08-29/10686541.shtml",
     "time": "2026-08-29",
     "_ts": 1788008813000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "首个国产IL-17双靶点新药获批，广东新药杀入银屑病“红海”",
-    "summary": "点击查看新闻详情",
-    "source": "ZAKER新闻",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NRHFQemItLWZhNnBSUWU2X3ljblFrUjVYMjl3TzItRGdtZV82RDh6TGZycGZrN1hFQ1ppSHpOUHlqbUNmeFpDVTRsY2dDSnFaakNLdUswbnU2TTl5MmQ5ZFlBTGh6cUtzS2pRZWt2dVVtUTRxckhKTlRxRVE?oc=5",
-    "time": "2026-08-29",
-    "_ts": 1787991221000,
     "_isFresh": true
   },
   {
@@ -597,6 +587,16 @@
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xY2hTMDJVaGRqdHBkM2lKWWtBWVcwWlB2WjZiREV5empzaFJ0TUNURlRNSXZlREJIMmRaa2hZN0p0VzdkNGt5OUtYS3FTTzQxNGk3VzVSRHVLdHlRMlJOempB?oc=5",
     "time": "2026-08-28",
     "_ts": 1787916759000,
+    "_isFresh": true
+  },
+  {
+    "cat": "健康养生",
+    "title": "“癌王”里程碑突破！全球首创胰腺癌新药获批上市，生存期翻倍-MedSci.cn",
+    "summary": "点击查看新闻详情",
+    "source": "梅斯医学 MedSci",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GSTRjZTJhZnJuLTZOdnJZdl9QQ19ZdGtlM3lTVXpZWm1abk1fX3JrUkNFYnQ2NXBEM0tqbUtfbEdJM3M3ejl5WjFLX01aemRIUEptalp1Nzg3ZHFuVm5xeDg3UDhYaXpmbjk0OHd3?oc=5",
+    "time": "2026-08-28",
+    "_ts": 1787911427000,
     "_isFresh": true
   }
 ]
