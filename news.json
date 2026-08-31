@@ -1,6 +1,16 @@
 [
   {
     "cat": "国内要闻",
+    "title": "罕见！“沙德尔”停止编号后再度加强为台风 最新路径→",
+    "summary": "中央气象台9月1日6时发布台风蓝色预警：",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-01/10687593.shtml",
+    "time": "2026-08-31",
+    "_ts": 1788218859000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
     "title": "第30届鲁台经贸洽谈会在山东潍坊开幕",
     "summary": "中新网潍坊8月31日电 (李明芮 祁建月)第30届鲁台经贸洽谈会开幕式暨两岸产业融合高质量发展大会8月31日在山东潍坊举办。两岸企业家峰会大陆和台湾方面负责人，全国台企联等工商团体负责人，以及两岸青年、基层代表等约800人参会，共谋合作与发展。",
     "source": "中国新闻网",
@@ -27,16 +37,6 @@
     "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687449.shtml",
     "time": "2026-08-31",
     "_ts": 1788181526000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国内要闻",
-    "title": "两部门针对福建启动防汛防台风四级应急响应",
-    "summary": "中新网8月31日电 据应急管理部网站消息，受今年第18号台风“沙德尔”的残余涡旋影响，未来三天福建省部分地区将有暴雨到大暴雨，局地特大暴雨，部分中小河流可能发生超警洪水，防汛防台风形势严峻。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687473.shtml",
-    "time": "2026-08-31",
-    "_ts": 1788180831000,
     "_isFresh": true
   },
   {
@@ -71,6 +71,16 @@
   },
   {
     "cat": "国内要闻",
+    "title": "梅西宣布从阿根廷国家队退役",
+    "summary": "点击查看新闻详情",
+    "source": "中国日报网",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GMVc4SURsTTRuUmpmRkZTc0FFWi0yZDJuaEFCdS1leUE5NzlCaE5qUEc1RWx2YlFRUHlzZ1p6MVZtc1BoWWJfUXdRTzVReXFpazJzOHhpY09faDByZkQ0WjNteTlXcjRqaWZNR1Z3MXBTVnFYVmx4WmFTZw?oc=5",
+    "time": "2026-08-31",
+    "_ts": 1788215106000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
     "title": "山西推出“青年传承人扶持计划”采风活动 拓宽非遗对接市场渠道",
     "summary": "中新网太原8月31日电 (刘小红)近日，山西省文化和旅游厅组织的“2026年青年传承人扶持计划”采风活动正式收官。活动组织全国各地设计师、品牌主理人深入山西各地非遗工坊，对接晋绣、太平绣球、黎侯虎、平定布艺、上党堆锦等省级以上非遗代表性项目，开展为期近两个月采风交流，搭建设计师与传承人“结对子”的合作平台，推进山西非遗",
     "source": "中国新闻网",
@@ -90,21 +100,41 @@
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "清河镇组织集中收看第二批“中国好人榜”发布仪式",
-    "summary": "点击查看新闻详情",
-    "source": "新浪财经",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRktVby1YVTNuS3pmMmJXYWFycmE3Qk4tbnhqQk9yRnFNZWN3cHdlazdDNjBjVXNOUzRGN3gtbDVZdmdQamk4ei1VR2JiNklKTkFDM0tHWDlmSk9iM2JuZHJNdjVtUHdnWVlzQlZnRGhJMDVMQ2k0anp5RWw3Z0tnVEI3elJwS1hJM2swOG9BY283b3lBN2gyQw?oc=5",
+    "cat": "科技前沿",
+    "title": "稳定版发布倒计时，苹果推送 iOS / iPadOS 27 第 6 个公测版",
+    "summary": "IT之家 9 月 1 日消息，苹果公司今天（9 月 1 日）推送 iOS / iPadOS 27 Beta 8 更新数小时后， 还放出了 iOS 27、iPadOS 27、 macOS 27 以及 tvOS 27 的第 6 个公测版 ，显示测试周期进入收尾阶段。 IT之家附上相关截图如下： 在发布节奏方面，科技媒体 9",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/996/701.htm",
     "time": "2026-08-31",
-    "_ts": 1788205266000,
+    "_ts": 1788217613000,
     "_isFresh": true
   },
   {
     "cat": "科技前沿",
-    "title": "苹果 watchOS 27.0 开发者预览版 Beta 8 发布",
-    "summary": "【 点此直达升级教程 】 IT之家 9 月 1 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 8 更新（内部版本号：24R5360a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS",
+    "title": "Mac 成 AI 硬件宠儿：苹果提前发布 2026 款 mini / Studio，全球需求激增促成 8 月上新",
+    "summary": "IT之家 9 月 1 日消息，科技媒体 The Information 于 8 月 30 日发布博文，报道称伴随着全球越来越多的 AI 实验室和开发者使用 Mac 训练 / 推理 AI 模型、运行 AI 智能体， 推高全球苹果 Mac mini 和 Mac Studio 销量。 该媒体指出苹果通常在秋季（10~11 月",
     "source": "IT之家",
-    "url": "https://www.ithome.com/0/996/693.htm",
+    "url": "https://www.ithome.com/0/996/710.htm",
+    "time": "2026-08-31",
+    "_ts": 1788220149000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "2027 款上汽大众帕萨特 Pro 车型正式上市：官方指导价 17.2 万元起，限时优惠价 13.99 万元起",
+    "summary": "IT之家 9 月 1 日消息，上汽大众 2027 款帕萨特 Pro 昨日正式上市。新车共推出 5 款车型，官方指导价 17.2-23.99 万元，限时一口价 13.99-20.99 万元。 此次上市的 2027 款帕萨特 Pro 为年度改款车型，定位纯燃油中型家轿。上市权益包括动力总成终身质保、最高 1.2 万元以旧换",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/996/708.htm",
+    "time": "2026-08-31",
+    "_ts": 1788219238000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "苹果 macOS 27.0 开发者预览版 Beta 8 发布",
+    "summary": "IT之家 9 月 1 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 8 更新（内部版本号：26A5425a），本次更新距离上次发布 Beta / RC 间隔 7 天。开发者可在系统设置 > 通用 > 软件更新中下载，需开启 Beta 更新并登录免费开发者账户。 macOS G",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/996/691.htm",
     "time": "2026-08-31",
     "_ts": 1788197407000,
     "_isFresh": true
@@ -117,6 +147,16 @@
     "url": "https://www.ithome.com/0/996/689.htm",
     "time": "2026-08-31",
     "_ts": 1788197012000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "微软更新 Win11 26H1 预览版 28020.2818/28120.2824：升级 WinRE 联网，修复壁纸变黑 Bug 等",
+    "summary": "IT之家 9 月 1 日消息，微软昨天（8 月 31 日）发布博文， 邀请 Beta 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的最新预览版更新。 版本号方面，适用于 26H1 的 Beta 版本号为 Build 28020.2818；适用于 26H1 的 Experiment",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/996/695.htm",
+    "time": "2026-08-31",
+    "_ts": 1788210094000,
     "_isFresh": true
   },
   {
@@ -160,46 +200,6 @@
     "_isFresh": true
   },
   {
-    "cat": "科技前沿",
-    "title": "比亚迪方程豹熊甜波：方程 S 和方程 S GT 将在 9 月上市",
-    "summary": "IT之家 8 月 31 日消息，比亚迪集团-方程豹事业部总经理熊甜波今日透露， 方程 S 和方程 S GT 将在 9 月上市 。 据IT之家此前报道，8 月 20 日，两款新车开启全国预订， 预订价格区间 23～28 万元 。 在 2026 成都车展上， 比亚迪方程豹全新轿跑车型方程 S 和方程 S GT 两款新车完成",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/996/669.htm",
-    "time": "2026-08-31",
-    "_ts": 1788188135000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "华硕新款 Zenbook A14 笔记本发布：骁龙 X 处理器、8GB 内存起步",
-    "summary": "IT之家 8 月 31 日消息，华硕现已在海外市场推出新款 Zenbook A14（UX3480QA）笔记本。新品搭载高通骁龙 X 处理器，配备 OLED 屏幕和 50Wh 电池， 最长续航可达 30 小时 。 据介绍，这款笔记本搭载 14 英寸 OLED 屏幕，分辨率为 1920*1200，刷新率最高 60Hz，覆盖",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/996/658.htm",
-    "time": "2026-08-31",
-    "_ts": 1788184222000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "智谱披露下一代大模型规划：采用大基座路线，目标发布首日即可支持满规模业务调用",
-    "summary": "IT之家 8 月 31 日消息，据科创板日报报道，智谱今日在 2026 年半年度业绩发布会上，对外透露下一代大模型研发进展。 智谱表示， 新一代产品将采用大基座路线 ， 暂不披露具体参数 ，后续将围绕基座开展中训练、后训练相关工作。 智谱强调，模型研发核心思路是充分释放基座能力，保障模型可实际落地使用。公司现已针对下一",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/996/649.htm",
-    "time": "2026-08-31",
-    "_ts": 1788180454000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "索尼 PlayStation 官宣 State of Play 游戏发布会定档 9 月 3 日",
-    "summary": "IT之家 8 月 31 日消息，索尼 PlayStation 官方今晚宣布，游戏发布会“State of Play”将于 9 月 3 日（IT之家注： 北京时间 21:00 ）重磅回归，届时将连播两场精彩节目。 首先登场的是全新一期 State of Play 主会场。本场将带来 PlayStation 工作室与第三方",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/996/647.htm",
-    "time": "2026-08-31",
-    "_ts": 1788180157000,
-    "_isFresh": true
-  },
-  {
     "cat": "经济金融",
     "title": "湖北碳市场累计成交额突破105亿元",
     "summary": "中新网武汉8月31日电 (记者 梁婷)2026年碳市场大会媒体见面会31日在武汉举行。记者会上获悉，截至8月31日，湖北碳市场累计成交量4.25亿吨、成交额105.67亿元，均占全国40%以上，为首个成交额破百亿元的试点碳市场。",
@@ -231,22 +231,42 @@
   },
   {
     "cat": "经济金融",
-    "title": "（乡村行·看振兴）吉林稻田养出南方小龙虾：“南虾北育”的寒地突破",
-    "summary": "中新网吉林8月31日电 题：吉林稻田养出南方小龙虾：“南虾北育”的寒地突破",
+    "title": "创新驱动发展、拓展有效投资的有力抓手",
+    "summary": "点击查看新闻详情",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687378.shtml",
+    "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687604.shtml",
     "time": "2026-08-31",
-    "_ts": 1788176342000,
+    "_ts": 1788220314000,
     "_isFresh": true
   },
   {
     "cat": "经济金融",
-    "title": "【环球财经】俄罗斯批准新版2035年前汽车工业发展战略",
-    "summary": "点击查看新闻详情",
-    "source": "新浪财经",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LLUZCSHVBZTcyakNYQ29FSzJrcnhlbWlXNVBBTzl6WUxYRjc0cGtHSFFlU1VDYzQ2SVpCY0VrZGE5bmR6YmpfTmx3amFGVGk3R0JpajZGeDIzX2g4c0tsWlozcDVncU1vMnBIOUNnY3VqQU93TU5nRg?oc=5",
+    "title": "北京首个外卖包装新规今日起正式实施",
+    "summary": "外卖包装虽小，却是关系消费习惯、城市治理与生态建设的大命题。作为全国首个专门针对餐饮外卖商户绿色包装使用的地方标准，由北京市市场监督管理局发布的《餐饮外卖商户绿色包装使用指南》(DB11/T 2510-2026)(以下简称《指南》)，于今日(1日)起正式实施。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687597.shtml",
     "time": "2026-08-31",
-    "_ts": 1788173460000,
+    "_ts": 1788219345000,
+    "_isFresh": true
+  },
+  {
+    "cat": "经济金融",
+    "title": "算力，靠抢！百万级产能缺口，订单排到三年后",
+    "summary": "百万级产能缺口，订单排到三年后",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687595.shtml",
+    "time": "2026-08-31",
+    "_ts": 1788219195000,
+    "_isFresh": true
+  },
+  {
+    "cat": "经济金融",
+    "title": "这个开学季，海外采购文具偏爱哪些“中国造”？",
+    "summary": "点击查看新闻详情",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687602.shtml",
+    "time": "2026-08-31",
+    "_ts": 1788220020000,
     "_isFresh": true
   },
   {
@@ -261,6 +281,16 @@
   },
   {
     "cat": "经济金融",
+    "title": "韩国存储双雄杠杆ETF价格上窜下跳 政府周四将开会讨论对策",
+    "summary": "点击查看新闻详情",
+    "source": "财联社",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QWEtic2EyTlZuVnpPdXRza0FQb0Q3UWJmNzZER0k2TW9XejBLcURRcEdGTWtrTjlsc1FMcGhuOGZTWWVzdUFjbQ?oc=5",
+    "time": "2026-08-31",
+    "_ts": 1788211521000,
+    "_isFresh": true
+  },
+  {
+    "cat": "经济金融",
     "title": "南航物流广州新国际进港货站正式启用",
     "summary": "中新社广州8月31日电 (记者 郭军)据南方航空物流股份有限公司(下称“南航物流”)8月31日消息，南航物流广州新国际进港货站近日正式启用，这是南航首次将人工智能算法应用于航空物流全流程智慧化的国际货站。",
     "source": "中国新闻网",
@@ -270,143 +300,123 @@
     "_isFresh": true
   },
   {
-    "cat": "经济金融",
-    "title": "北京制定规划促高水平开放型经济发展",
-    "summary": "中新社北京8月31日电 (记者 吕少威)根据8月31日发布的《北京市“十五五”时期高水平开放型经济发展规划》(下称发展规划)，北京力争到2035年，在服务国家对外开放新格局中走在前列，参与国际经贸规则治理能力大幅提升，更高水平开放型经济新优势进一步增强。",
+    "cat": "国际局势",
+    "title": "一女子在纽约时报广场持刀刺伤两人，致一人死亡，后被警方击毙",
+    "summary": "中新网9月1日电 据《纽约时报》报道，据两名知情人士透露，当地时间8月31日下午，一名女子在纽约时报广场刺伤至少两人，其中一人死亡，随后这名女子因拒绝放下刀而被警方击毙。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687519.shtml",
+    "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687592.shtml",
     "time": "2026-08-31",
-    "_ts": 1788184096000,
+    "_ts": 1788218773000,
     "_isFresh": true
   },
   {
-    "cat": "经济金融",
-    "title": "今年以来广东小微经营主体实现“以信换贷”超973亿元",
-    "summary": "中新网广州8月31日电 (孙秋霞 岳瑞轩)记者31日从国家税务总局广东省税务局获悉，广东税务深化纳税信用信息跨部门共享与增值应用，2026年以来全省超12.7万户小微经营主体实现“以信换贷”超973亿元。",
+    "cat": "国际局势",
+    "title": "美国大峡谷国家公园山洪已致2人死亡",
+    "summary": "中新网9月1日电 据路透社报道，美国亚利桑那州大峡谷国家公园近日遭遇暴雨引发的山洪，目前已造成至少2人死亡，救援人员仍在搜寻可能失联人员。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687512.shtml",
+    "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687588.shtml",
     "time": "2026-08-31",
-    "_ts": 1788183750000,
+    "_ts": 1788217089000,
     "_isFresh": true
   },
   {
-    "cat": "经济金融",
-    "title": "山东一项纺织领域国际标准提案在ISO正式立项",
-    "summary": "中新网济南8月31日电 (孙倩)记者31日从山东省市场监管局获悉，由该省行业协会牵头提出的国际标准提案“天然纤维素纤维—纤维素聚合度测定—离子液体法”在国际标准化组织(ISO)正式立项，这是山东首个依托团体标准成果成功获批立项的国际标准研究项目，标志着山东在探索高质量团体标准转化为国际标准实践路径方面取得新突破。",
+    "cat": "国际局势",
+    "title": "美防长被爆考虑参加2028年总统竞选 特朗普最新回应",
+    "summary": "中新网9月1日电 据美国《国会山报》报道，当地时间8月31日，美国总统特朗普在椭圆形办公室表示，现在讨论国防部长赫格塞思参加2028年总统竞选的可能性还为时过早。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687504.shtml",
+    "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687586.shtml",
     "time": "2026-08-31",
-    "_ts": 1788183171000,
+    "_ts": 1788216346000,
     "_isFresh": true
   },
   {
     "cat": "国际局势",
-    "title": "特朗普宣布将“狠狠打击”伊朗，并称“一定会有回应”",
-    "summary": "中新网8月31日电 据美国福克斯新闻频道报道，当地时间8月31日，美国总统特朗普表示，将对伊朗袭击美国驻约旦基地进行回击。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687510.shtml",
-    "time": "2026-08-31",
-    "_ts": 1788183033000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "美军袭击伊朗拉腊克岛致2死多人伤，岛上接连传出爆炸声",
-    "summary": "中新网8月31日电 据法新社援引伊朗国家媒体当地时间31日消息，美军对伊朗拉腊克岛的袭击已致2人死亡、多人受伤。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687441.shtml",
-    "time": "2026-08-31",
-    "_ts": 1788178044000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "舞台剧《十二生肖》专题研讨会在悉尼举行",
-    "summary": "中新网悉尼8月31日电 (记者 薄雯雯)舞台剧《十二生肖》专题研讨会近日在澳大利亚悉尼举行。中澳嘉宾围绕视觉戏剧、木偶艺术、音乐及跨文化艺术合作等话题展开交流。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687383.shtml",
-    "time": "2026-08-31",
-    "_ts": 1788174567000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "阿联酋国防部否认空军基地遭导弹袭击 阿武装部队“高度戒备”",
-    "summary": "中新社北京8月31日电 综合消息：阿联酋国防部8月31日发表声明，否认该国空军基地遭导弹袭击，并称，阿武装部队处于“高度戒备”状态。阿总统外交顾问加尔贾什当天呼吁，采取更务实举措应对地区危机。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687346.shtml",
-    "time": "2026-08-31",
-    "_ts": 1788174537000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "日本又排！第23轮核污染水排海启动，渔业界与民众反对声仍在",
-    "summary": "中新网8月31日电(魏晨曦)当地时间8月31日，日本东京电力公司启动福岛第一核电站2026财年第5轮核污染水排海，这是日本自2023年8月启动排海以来的第23轮。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687370.shtml",
-    "time": "2026-08-31",
-    "_ts": 1788172654000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "受共和国总统委托，国民议会主席在贝尔格莱德出席不结盟运动首次会议纪念大会| 阿尔及利亚新闻社",
-    "summary": "点击查看新闻详情",
-    "source": "aps.dz",
-    "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxPWFRTUHpXSXZPLTVUNGpSX0RSY20wcmk3ZXcxR3hURzRiN1RnU1V0UFd1OUlzNGtCTTNzcGRnWlR6d3drbGp1WnFYbE1TNjJNd0ZWZ2lxaDFRVjNEa1U3YnNTLTRXUElnTWRVYjlKd3pJcjQwRTdEODU0UDJ6VFJuRlQyZHNCWDJIaGt2OWlndC1sbTNIMzJzT3RsSHZOLXlZOGhmUmF0T0VYZlU0U1BYbHB6WWplNDAwa1Fic1dBNUdSbkM0Y0R1cktjbUxDR00tNUxwZHkxUE1QYW5fZDlId2lreFc3TlYwUllTSzdsb2lIX2Q1T1JCUE9sc0lvNEg0NWRyTUdZbklfVUR3THB2MmZiTTNCbjQwODRFekY5WTV4UFJ1cld1RG1jSmtRakNMUlQzQ2ppcXZWVXNpNm1zV1pmWUVaN0RnV090ZlFscDdpdkpvRmtSdjJET3ItS1lkLUFaUi1aUDNaYTZHMHJQTWNpaHJmaDg3N0hHTXd0NlFQcmpFVW1ZVkRPMjd0N3BxdWVlQXBhc0w2UGgzMXgxTXRnVTJyRzZEOVBtNmNhZl8ybVB0cDdlbFBaaGNLektBdjlDclNEakF3bzlHeEc1WHZKTC1jejdmaTlTVkxDOXdHUU5zMzdkT2RuRHRRX09xdjU2ZjdIYlUzOXIzUjgxbDdPQWZpU0FZVWFCM0JxZ1I?oc=5",
-    "time": "2026-08-31",
-    "_ts": 1788192060000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "G20财长和央行行长会议开幕，聚焦中东局势及全球通胀风险",
-    "summary": "点击查看新闻详情",
-    "source": "jpchinapress.com",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNUxnajZIMTd3Y21fUzBjLXhmb1FVQUYxRHVWS2pMZnpTcGhSWHVCRnZBa1ZMalN1X1JsOVNKY0hab1FDNHJ3UmpkNElUdjNBZ0hrQW9xQ3ROLVZpcUxtRllUWS1sbjhzYkktOWhxbm9tTE9abmJ4U2JBVHVOckFjdDRVZHNyOWU3dUE?oc=5",
-    "time": "2026-08-31",
-    "_ts": 1788188062000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "日本首相高市早苗宣布日本船只全部安全撤离波斯湾",
-    "summary": "日本首相高市早苗首相于2026年8月30日在X上发文称：由于霍尔木兹海峡危机，滞留在波斯湾内的日本船舶中全部日本籍船员已于6月19日前安全撤出，所有日本籍船舶也已于7月9日前安全驶离波斯湾。",
-    "source": "© via REUTERS - PHILIP FONG摄影",
-    "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260831-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%AE%A3%E5%B8%83%E6%97%A5%E6%9C%AC%E8%88%B9%E5%8F%AA%E5%85%A8%E9%83%A8%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB%E6%B3%A2%E6%96%AF%E6%B9%BE",
-    "time": "2026-08-31",
-    "_ts": 1788165097000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "日本超党派议员代表团访华能为冰河期的日中关系找到突破口吗？",
-    "summary": "在日中关系分外紧张之际，由日本跨党派国会议员组成的代表团8月24日从羽田机场启程前往北京，在 “日中关系处于1972年以来最糟糕的状态”（ 见伊佐进一8月19日X）中访华。此次访华的是超党派议员联盟“日中次世代交流委员会”3名议员，他们分别是：自民党前厚生劳动副大臣桥本岳、中道改革联盟宣传委员长伊佐进一、公明党参议院议",
+    "title": "尼泊尔泥石流灾害共已造成950人死亡，近4500人失踪",
+    "summary": "法新社报导，8月26日在尼泊尔与西藏边境发生的泥石流共已造成950人死亡，近4500人失踪。欧盟气候监测机构数据则指出，这场灾难已导致2500多栋建筑毁坏。",
     "source": "RFI中文",
-    "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%B8%9C%E4%BA%AC%E4%B8%93%E6%A0%8F/20260831-%E6%97%A5%E6%9C%AC%E8%B6%85%E5%85%9A%E6%B4%BE%E8%AE%AE%E5%91%98%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E5%8D%8E%E8%83%BD%E4%B8%BA%E5%86%B0%E6%B2%B3%E6%9C%9F%E7%9A%84%E6%97%A5%E4%B8%AD%E5%85%B3%E7%B3%BB%E6%89%BE%E5%88%B0%E7%AA%81%E7%A0%B4%E5%8F%A3%E5%90%97",
+    "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260831-%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%85%B1%E5%B7%B2%E9%80%A0%E6%88%90950%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%8C%E8%BF%914500%E4%BA%BA%E5%A4%B1%E8%B8%AA",
     "time": "2026-08-31",
-    "_ts": 1788185886000,
+    "_ts": 1788212912000,
     "_isFresh": true
   },
   {
     "cat": "国际局势",
-    "title": "2月28日，在围绕中东局势升级召开的安理会紧急会议上，伊朗常驻联合国代表阿米尔·赛义德·伊拉瓦尼与美方代表发生激烈交锋。【华人头条】",
-    "summary": "点击查看新闻详情",
-    "source": "华人头条",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDB6X20wWGJLTEhyQzlOeTdKbDRZWmp4NXhWc1dwbVVrdXNWWVFVcjRqWHpxZjlsMEMweXB5OHNQd2hzRFhIQmJpT05RYmRBNXpyU1RxbDg3blBJTGNGZ3FkaktzYWNMay16QVhyN3FaZGhjeFR5empaakxhbWdVclJyYmhMT2pfOUE?oc=5",
+    "title": "民主刚果埃博拉病毒确诊病例已超过6000例，其中2911人病逝",
+    "summary": "刚果民主共和国政府8月31日公布的资料显示，当地埃博拉病毒确诊病例已超过6000例，其中2911人病逝。",
+    "source": "RFI中文",
+    "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260831-%E6%B0%91%E4%B8%BB%E5%88%9A%E6%9E%9C%E5%9F%83%E5%8D%9A%E6%8B%89%E7%97%85%E6%AF%92%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E5%B7%B2%E8%B6%85%E8%BF%876000%E4%BE%8B%EF%BC%8C%E5%85%B6%E4%B8%AD2911%E4%BA%BA%E7%97%85%E9%80%9D",
     "time": "2026-08-31",
-    "_ts": 1788200148000,
+    "_ts": 1788210933000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "欧盟宣布暂停进口巴西肉类",
+    "summary": "欧盟宣布将从周四起暂停进口巴西禽肉和牛肉，等待巴西方面就其产品是否符合欧盟卫生法规做出保证。欧盟委员会批评巴西未能提供充分保证，证明其产品符合欧盟关于畜牧业滥用抗生素的规定。",
+    "source": "Xinhua / Icon Sport - Yang Zhisen",
+    "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260831-%E6%AC%A7%E7%9B%9F%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E5%B7%B4%E8%A5%BF%E8%82%89%E7%B1%BB",
+    "time": "2026-08-31",
+    "_ts": 1788208502000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "Shein在香港上市 筹集17亿美元",
+    "summary": "快时尚巨头 Shein 周一宣布，其备受瞩目的香港首次公开募股（IPO）筹集了 17 亿美元资金，该在线零售商的估值为263亿美元，低于之前的预期。希音控股国际有限公司（Shein）以每股 48.56 港元的价格发售了 2.8 亿股股票，这一价格低于此前公布的最高发行价 49.50 港元。",
+    "source": "© Dado Ruvic / Reuters",
+    "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260831-shein%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82-%E7%AD%B9%E9%9B%8617%E4%BA%BF%E7%BE%8E%E5%85%83",
+    "time": "2026-08-31",
+    "_ts": 1788207950000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "第六届世界游牧民族运动会开幕",
+    "summary": "点击查看新闻详情",
+    "source": "© entredeuxpoles",
+    "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260831-%E7%AC%AC%E5%85%AD%E5%B1%8A%E4%B8%96%E7%95%8C%E6%B8%B8%E7%89%A7%E6%B0%91%E6%97%8F%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%BC%80%E5%B9%95",
+    "time": "2026-08-31",
+    "_ts": 1788207793000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "伊朗因2026年抗议活动判处两名女性死刑",
+    "summary": "伊朗法院判处两名因参与一月份反政府抗议活动而被控的女性死刑；与此同时，德黑兰方面正加紧处决在这些示威活动中被捕的人员。 这两名女性的案件虽各自独立，但均与中部城市伊斯法罕（Isfahan）发生的事件有关；该市是全国性抗议活动的中心之一，抗议浪潮在1月8日和9日晚间达到顶峰。",
+    "source": "© Wana News Agency via Reuters",
+    "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260831-%E4%BC%8A%E6%9C%97%E5%9B%A02026%E5%B9%B4%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%E5%88%A4%E5%A4%84%E4%B8%A4%E5%90%8D%E5%A5%B3%E6%80%A7%E6%AD%BB%E5%88%91",
+    "time": "2026-08-31",
+    "_ts": 1788207502000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "[国际金融报告] 美伊冲突导致油价和美国国债利率上涨…美元走弱",
+    "summary": "点击查看新闻详情",
+    "source": "亚洲日报",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xRFlKaHRNTnVpQ3p6QVdFTklwSlE5N1c1d3VwRzJqeGhfd2RnOHpRSDF1V1NVaUtkMXlvenlKU1pzdUI5WjExeXYtQ1hzN2tMTjFiQWh3T1NvYWc?oc=5",
+    "time": "2026-08-31",
+    "_ts": 1788219600000,
     "_isFresh": true
   },
   {
     "cat": "争议新闻",
     "title": "于某在社交平台发布AI生成的“西平重大刑事案件抓捕现场”虚假视频，被兰考县公安局依法予以行政拘留",
     "summary": "点击查看新闻详情",
-    "source": "新浪财经",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS05OaFZCUkJUSHJvYjFVU3c0ZExvUW5ScDFXTUhYX01HWURmS1VNQ0dLUHFTMG5WUHFiQmpyS0dfVXdOWVFSLUZzWmJNUldsaS1uR0s0ejJNSjM3TFZvejdEV1lFTE1XM0VPNlJjNDFiWWFOdnVLLVNpLVRGYVZtTGNPOWxLOEJ2N2lMd19Ld0llMzV2UzlwaA?oc=5",
+    "source": "finance.sina.cn",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmozUExIQUhYc2NPeGRjcVRHcDd0c0Z3ZE14YUdCU2JzajdKT3lnMlNsMkRmUldMUklwckhwUUxDOUlBRl9rT2RMWjRULUVHY25oekdpTnE4Ni1BR0xpVFFPajJpU3lhX1dHX2ttZXoxYjUzTjNBd3dxRkdIVXpDUEVhV2w0WmoxUlVnbEk0MmJ1V1J5a3I2MQ?oc=5",
     "time": "2026-08-31",
     "_ts": 1788201795000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "开学日北京晴天为主最高气温30℃ 早晚时段凉意在线需添衣",
+    "summary": "中国天气网讯 今天(9月1日)是中小学开学日，北京天气晴朗，最高气温30℃，天气利于出行，但昼夜温差较大，最低气温仅18℃，早晚时段出行不妨在短袖外加一件外套，谨防着凉。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-01/10687600.shtml",
+    "time": "2026-08-31",
+    "_ts": 1788219626000,
     "_isFresh": true
   },
   {
@@ -417,6 +427,16 @@
     "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687517.shtml",
     "time": "2026-08-31",
     "_ts": 1788186941000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "9月1日新闻早知道｜昨夜今晨·热点不容错过",
+    "summary": "点击查看新闻详情",
+    "source": "Sohu",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWduVmd3LXYwLVhrWGhRUGowYzVHcHA5cEJpX3JncXd1M0V6RDRraUxCa0l4QkZHYWdUV3RpY1QzU2tzQk9Mbm5vNzd1cjc5bmc1bnkyVnNKcE5ZdEZNb0FpVWJ4YmhqVzRmY1NMUkxzYTNEVVpVT3RsZENFLUJoQmZVX1c0aVZy?oc=5",
+    "time": "2026-08-31",
+    "_ts": 1788218100000,
     "_isFresh": true
   },
   {
@@ -480,30 +500,20 @@
     "_isFresh": true
   },
   {
-    "cat": "争议新闻",
-    "title": "国铁集团郑州局2026年暑运累计发送旅客4219.95万人次",
-    "summary": "中新网郑州8月31日电(刘鹏 杨震)记者从中国铁路郑州局集团有限公司(以下简称“国铁集团郑州局”)获悉，8月31日，为期62天的铁路暑期运输收官，国铁集团郑州局累计发送旅客4219.95万人次，较2025年同期增加232.90万人次、增长5.84%，运输安全平稳有序。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687538.shtml",
+    "cat": "健康养生",
+    "title": "某医院被指勾结代孕机构安排代妈持她人身份住院生产 西宁卫健委通报",
+    "summary": "点击查看新闻详情",
+    "source": "新京报",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJckZ2VktHMDdGa1EwcTRBNkhXZE05QVpoNkZickphdjY4OG5abXIxUDQ5MF9tMHJ6ZEN3V1c1VlNXQnlNaUJuWnVpTXJab3hMcDhDOGNZRF9DMGFWUEt6eWUtcXo?oc=5",
     "time": "2026-08-31",
-    "_ts": 1788186153000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "西藏搜救犬带伤坚守吉隆泥石流灾害搜救一线",
-    "summary": "中新网西藏吉隆8月31日电 (郑龙 夏明勇)在西藏自治区吉隆县吉隆口岸泥石流灾害现场，3条专业搜救犬持续带伤坚守搜救一线。尽管脚掌磨损、防护爪套全部破损，它们仍全程随队深入核心灾区，昼夜不停参与搜寻，成为灾害救援中不可或缺的“无言战士”。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687536.shtml",
-    "time": "2026-08-31",
-    "_ts": 1788186127000,
+    "_ts": 1788218700000,
     "_isFresh": true
   },
   {
     "cat": "健康养生",
     "title": "华尔街盯上新型脱发疗法 美国脱发市场近30年无新药获批",
     "summary": "点击查看新闻详情",
-    "source": "观点网",
+    "source": "guandian.cn",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZnVZNlN0bDhUU1NhcU1fUkt0RVhGTEp4Z1liaXpLdE1ZWW5qUlFqcHJZY3B5V0RGbHcydjZVbFRtSURqdEs3OXZOa0xGa05QRlhYdF9RbnJGS2w3ZlRUaDRB?oc=5",
     "time": "2026-08-31",
     "_ts": 1788181619000,
@@ -531,12 +541,12 @@
   },
   {
     "cat": "健康养生",
-    "title": "发布会直击｜解析流感疫苗更新要点，回应群众接种相关关切",
+    "title": "发布会直击｜从“打流感疫苗效果怎么样”到“既往得过流感还要接种吗”，发布会回应网友关切",
     "summary": "点击查看新闻详情",
     "source": "新浪财经",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2psWng2NldOQVV0LUhUOG5UUGhERWpOR3BWRVg5Z3FQRDZucnZDci1oRTFYRlJ0ZWFoc3d5UDFORlpxVTMwMjJsdm90SGp4T1NzdnVKS19Wa0xuSlJkNzA3dENDWm1GRTdXZGRvZHZRdE5Pemc5S1FfNVQ1U1Vqb0trV1c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkc0SU9UYkRQVkNpMW92VC10YklGXzlwSXM0SjBaWG5QMmk4dzBKOG1OaHVmNXJheGlvS3lYcWw3Nm9Xb2NPRGdZR0pyN1F1Vm5ubDE3LWM0N0pWUkV0M2VmM05BT3hmUUFNNmlqRWFMV2RXLVNnRFpPSWhUSm52ekNDVG0?oc=5",
     "time": "2026-08-31",
-    "_ts": 1788175980000,
+    "_ts": 1788176280000,
     "_isFresh": true
   },
   {
@@ -554,7 +564,7 @@
     "title": "国家药监局：附条件批准和记黄埔医药的酒石酸凡瑞格拉替尼片上市",
     "summary": "点击查看新闻详情",
     "source": "资鲸",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOVp4Q3dBTlc4NHFPMmVLMEJhOFI1dlNmRDVNVW1fSDJuV3R3WmNISWZVRGpjdVlqOFV1eHpaT2lhd0FMNHVpVWkwWmV1dEMwdzgzNjRlbnJ3RHR2eWhwSUc0NGpXVHR6SEltajNqOW4wZU5EbDd6Z1FGWVoyRFRZOHVXZFZZaUNvQVpPREJjSnRxdw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0hsMUlEQnA0LTRvTkNLV1lCcFlWSGo0WkJ4UWZfOXZ0UDdKMlNQZHJTNW9ZRlFXWDhzYVo1aVVjQnRxZzdxVUVCSHQwRTRvRDZZY2FoVE1PaWdvT0xQZ0w3QzhfaWhyRUpXemFOV3VvYkE0VWFJejJyRVBXX2QwOXFMOHFNUDJ2UmxUNGdMcDZIZw?oc=5",
     "time": "2026-08-31",
     "_ts": 1788165298000,
     "_isFresh": true
@@ -587,16 +597,6 @@
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fR2hFRWRNTW9zRDMwdGE2VUhCQk84Ml9lYTFxYzRhZ0NiWWc1ZHpLSzhyWDBGTzZTT3J0VmViQS1BZTNtUWI0RVFlcG1VMUUybkJQbGl3c29NNUlSb1JlOXcyWl9ON19XMjdpcnRmYmJ2MkFSYmFPSEF3?oc=5",
     "time": "2026-08-31",
     "_ts": 1788159050000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "上海多家社区疫苗接种点增设周末门诊、夜间专场！中疾控发布开学季传染病防护提示→",
-    "summary": "点击查看新闻详情",
-    "source": "Sohu",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmNWVFI0NkJ0ZHo2X19MTG1BeXFjcFlnY0lrTEUxbEJBSHpqVHR6cWtwOG9pU3o1YmlLZGtaN3JFY0JFbFdXTl9GVjU5aDM5a3ZiNXZwNDZzb2dLaWdVZVZFcEwxY0dkY0hBUjB3REthb3RIS2dubVJoVUZIeHUtb2p4dVFWVDJ3?oc=5",
-    "time": "2026-08-31",
-    "_ts": 1788163516000,
     "_isFresh": true
   }
 ]
