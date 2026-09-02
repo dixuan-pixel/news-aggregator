@@ -1,6 +1,36 @@
 [
   {
     "cat": "国内要闻",
+    "title": "我国科研团队首次实现高光谱相机实时解析",
+    "summary": "高光谱成像能通过物质特有的光谱信息识别材质和成分，是遥感监测、工业检测等领域的重要技术。近日，北京理工大学科研团队首创片上光谱计算新方法，将原本依赖大型服务器完成的光谱解析集成到便携设备中，实现高光谱信息的现场实时处理。相关成果近日发表于国际学术期刊《科学》。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688380.shtml",
+    "time": "2026-09-01",
+    "_ts": 1788305866000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
+    "title": "台风蓝色预警：“沙德尔”强降雨影响5省 南海大部风力较强",
+    "summary": "中国天气网讯 中央气象台9月2日06时继续发布台风蓝色预警：",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688383.shtml",
+    "time": "2026-09-01",
+    "_ts": 1788306128000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
+    "title": "暴雨黄色预警：浙江福建等5省部分地区有大暴雨",
+    "summary": "中国天气网讯 中央气象台9月2日06时继续发布暴雨黄色预警：",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688370.shtml",
+    "time": "2026-09-01",
+    "_ts": 1788305115000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
     "title": "中国科技馆推出脑科学主题展 全景呈现脑研究、脑健康和类脑技术",
     "summary": "中新网北京9月1日电 (记者 孙自法)值此2026年全国科普月全面启动之际，中国科技馆9月1日向媒体通报说，作为全国科普月主场活动重要展览之一，该馆自主策划的脑科学主题展览“沟壑的交响”9月2日起正式开放，预计免费面向公众开放展出到2026年12月中旬。",
     "source": "中国新闻网",
@@ -21,22 +51,22 @@
   },
   {
     "cat": "国内要闻",
-    "title": "甘肃推出“敦煌古道”数字互动内容",
-    "summary": "中新社兰州9月1日电 (记者 丁思)甘肃简牍博物馆、敦煌市文物局9月1日联合上线“敦煌古道”主题数字互动内容。聚焦敦煌境内多处丝路地标，将悬泉置遗址、月牙泉、阳关、玉门关、汉长城遗址、河仓城遗址搬入数字场景，以年轻化、互动化表达，引导更多用户特别是青年群体“走进”敦煌，读懂丝路文明。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/09-01/10688190.shtml",
-    "time": "2026-09-01",
-    "_ts": 1788265021000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国内要闻",
     "title": "宁夏完成第三次全国土壤普查省级成果自验收",
     "summary": "中新网银川9月1日电 (记者 于晶)9月1日，记者从宁夏回族自治区第三次全国土壤普查领导小组办公室获悉，宁夏第三次全国土壤普查省级成果自验收工作已于8月31日顺利完成，标志着宁夏土壤普查成果进入整改完善、备战国家级验收的关键阶段。",
     "source": "中国新闻网",
     "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688309.shtml",
     "time": "2026-09-01",
     "_ts": 1788273174000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
+    "title": "中国电信发布2026终端洞察报告 OPPO综合通信能力位居榜首",
+    "summary": "点击查看新闻详情",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zNjhRbFpDUUpxVWJ0LXRoQnFsLVFJZ2VNX3B6UGh2OWFhWm5GTWxvclpSam5URGdyMEJPLTVkR2tPV3dJRktkZW9GTnE3WDJnX2F5SkExdjFYNWVqbW00N2s4a2trUXBPVExHNThld1VJbERTTTVKeUV5NXNEam8?oc=5",
+    "time": "2026-09-01",
+    "_ts": 1788304500000,
     "_isFresh": true
   },
   {
@@ -51,152 +81,132 @@
   },
   {
     "cat": "国内要闻",
-    "title": "莆田发布暴雨红色预警 “木兰溪2026年第1号洪水”形成",
-    "summary": "中新网莆田9月1日电 (叶秋云)9月1日，福建莆田遭遇强对流天气突袭，局部乡镇出现短时极端强降雨，部分路段路面积水快速上涨，多处城乡道路通行受阻。莆田市气象台于当日13时正式将暴雨橙色预警信号升级为最高级别的暴雨红色预警信号。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688285.shtml",
-    "time": "2026-09-01",
-    "_ts": 1788271246000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国内要闻",
-    "title": "台风“沙德尔”外围影响广东 多地有明显降水",
-    "summary": "中新网广州9月1日电 (记者 王坚)由台风“沙德尔”减弱后残余涡旋发展成的热带低压1日凌晨在南海西北部海域再度加强为台风，17时其中心位于汕尾市偏南方向约290公里的南海北部海面，中心附近最大风力8级(18米/秒)。受其影响，1日白天，广东多地出现暴雨。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688286.shtml",
-    "time": "2026-09-01",
-    "_ts": 1788271174000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国内要闻",
-    "title": "2026年中国气象局9月发布会",
+    "title": "新疆伊犁州伊宁县发生3.3级地震",
     "summary": "点击查看新闻详情",
-    "source": "21财经",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLa0hwempXSGJKNjZZLUR5OFNnVUc5SzQ4VVZ1UHhfRjdTaThCaXlCNzFBZ2ZXMExyQU9JRWFfdWRrdVM5WmtfaXFJb2JSazc5bG5r?oc=5",
+    "source": "中国日报网",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKOE14dFlBTHVkSGZRVVJ6aGJNcm14ZkdpMHNoSEVvOWowT0JGcENWdGhQVGdfNG1Cd2hCOXlPT0RCeGpiTFE4Q1FZVU9YOEVuWUxUOVItVTRzYU41OTY2VzQ1SWNnLXZ1NHdJcFJfS1lVTElKN3VRaWRTMTM?oc=5",
     "time": "2026-09-01",
-    "_ts": 1788289147000,
+    "_ts": 1788301703000,
     "_isFresh": true
   },
   {
     "cat": "国内要闻",
-    "title": "中国移动广西玉林分公司发布情况通报",
+    "title": "烘焙界的“世界杯”，中国人夺冠",
+    "summary": "冰点人物",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688395.shtml",
+    "time": "2026-09-02",
+    "_ts": 1788307834000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "江汽集团：尊界 S800 连续 10 个月居百万豪车销冠，累计交付新车本月突破 2 万台",
+    "summary": "IT之家 9 月 2 日消息，江汽集团昨日发文宣布，从 2025 年规模交付以来， 鸿蒙智行尊界 S800 连续 10 个月稳居百万豪车销冠 ，累计交付新车将在 9 月突破 20,000 台。 IT之家注：尊界是华为与江淮汽车采用鸿蒙智行模式合作推出的豪华汽车品牌，旗下首款车型为尊界 S800 轿车， 发布于去年 5 ",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/997/216.htm",
+    "time": "2026-09-02",
+    "_ts": 1788308308000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "吉利银河 TT 车型 9 月 10 日上市：定位中大型纯电轿跑，预售 14.59 万元起",
+    "summary": "IT之家 9 月 2 日消息，吉利银河旗下中大型纯电运动轿车银河 TT 已于 8 月 13 日开启预售，三款后驱版预售价 14.59-16.99 万元，小订已突破 2 万台。 官方确认，银河 TT 将于 9 月 10 日在杭州正式上市。新车基于吉利纯电专属架构打造，提供后驱及四驱动力版本，全系标配 800V 高压平台与",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/997/215.htm",
+    "time": "2026-09-02",
+    "_ts": 1788307991000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "告别多遥控器时代：中国广电首次集采一体化电视适配器，进入全国规模部署实施阶段",
+    "summary": "IT之家 9 月 2 日消息，据中国广电官方公众号昨晚分享，8 月 31 日，中国广电一体化电视适配器集采公告正式发布。这是中国广电首次就一体化电视终端进行全国性集中采购， 标志着一体化电视全国推广各项前期准备工作已基本就绪，正式进入规模部署实施阶段 。 据介绍，一体化电视以“应用软件 + 适配器硬件”将机顶盒功能融入",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/997/213.htm",
+    "time": "2026-09-02",
+    "_ts": 1788307729000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "Steam 2026 年 8 月软硬件调查：Win11 份额超 70%，大内存、高显存占比提升",
+    "summary": "IT之家 9 月 2 日消息，Valve 发布了 2026 年 8 月 Steam 平台软硬件调查数据，显示出玩家硬件配置持续向更高规格升级，Windows 11 系统占比进一步提升，同时高容量内存和显存的占比也有明显增长，多核心处理器渗透率逐步提高。 Windows 11 64 位占比达到 70.97%，环比提升 0",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/997/211.htm",
+    "time": "2026-09-02",
+    "_ts": 1788307297000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "雷蛇灵猫 Razer Prio 可折叠游戏手柄发布：支持 7 英寸内手机，国行 799 元",
+    "summary": "IT之家 9 月 2 日消息，雷蛇昨晚发布了其全新超便携手机游戏手柄 ——Razer Prio（中文名“雷蛇灵猫”），国行版定价为 799 元，美国售价 99.99 美元 （IT之家注：现汇率约合 673.6 元人民币） 。 这款手柄采用独特的折叠设计，旨在解决传统手机手柄不便携带的痛点。其折叠后尺寸约为 107×67",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/997/209.htm",
+    "time": "2026-09-01",
+    "_ts": 1788307090000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "我国科学家首次实现高光谱相机实时解析，卫星可直接实时出结果",
+    "summary": "IT之家 9 月 2 日消息，据央视今日报道，北京理工大学科研团队在《科学》上发表了一项最新研究成果，首创片上光谱计算新方法，实现了高光谱相机从图像采集到信息解析的全链路片上集成处理，使原本依赖大型服务器完成的光谱解析可在便携设备中现场实时完成。 高光谱成像技术通过在空间信息基础上增加光谱维度，能够通过物质特有的光谱信",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/997/204.htm",
+    "time": "2026-09-01",
+    "_ts": 1788305178000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "全球首例苹果 Vision Pro 辅助髋关节镜手术完成，医生无需频繁扭头看屏幕",
+    "summary": "IT之家 9 月 2 日消息，科技媒体 AppleInsider 昨日（9 月 1 日）发布博文，报道称苹果 Vision Pro 头显在医疗领域大放异彩， 已辅助完成首例髋关节镜（arthroscopic）手术。 IT之家查询公开资料，髋关节镜属于技术门槛较高的微创骨科手术。它切口小，但髋关节位置深、周围软组织厚，医",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/997/202.htm",
+    "time": "2026-09-01",
+    "_ts": 1788304405000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "QQ 鸿蒙版 App 获 9.2.63 邀测升级，新增空间说说长按转发等功能",
+    "summary": "IT之家 9 月 2 日消息，QQ 鸿蒙版 App 昨晚在华为应用市场（App Gallery）开启 9.2.63 (3414) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/9/1-2026/9/25。 IT之家附 QQ 鸿蒙版 App 本次测试版本新特性如下： 1、空间说说支持长按转发。 ",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/997/201.htm",
+    "time": "2026-09-01",
+    "_ts": 1788304347000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "Steam 客户端更新：可在游戏运行时切换账户，新增 HDR 串流支持",
+    "summary": "IT之家 9 月 2 日消息，Valve 已向稳定通道推送了最新的 Steam 桌面客户端及 Steam Deck 客户端更新。本次更新引入了多项功能改进与问题修复，涵盖账户切换、聊天安全、串流体验及控制器配置等模块。 通用更新 支持在游戏运行过程中切换账户，切换账户对话框会提示用户继续操作将关闭当前运行中的游戏。 在",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/997/200.htm",
+    "time": "2026-09-01",
+    "_ts": 1788304242000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "苹果新 CEO 特努斯首封内部信：iPhone 18 Pro / Max 发布会必将惊艳四座",
+    "summary": "IT之家 9 月 2 日消息，苹果公司昨日（9 月 1 日）换帅迈入“特努斯时代”， 约翰 · 特努斯（John Ternus）接替蒂姆 · 库克（Tim Cook）出任苹果公司 CEO，而库克同日转任执行主席。 IT之家昨日报道，库克以 CEO 身份向苹果员工发送了一封充满感情的备忘录，这封告别信回顾了库克在苹果度过",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/997/195.htm",
+    "time": "2026-09-01",
+    "_ts": 1788302744000,
+    "_isFresh": true
+  },
+  {
+    "cat": "经济金融",
+    "title": "9月2日隔夜要闻：美股三大指数收跌油价突破90美元金价下挫美军称完成一波针对伊朗军事目标的打击行动",
     "summary": "点击查看新闻详情",
     "source": "新浪财经",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpUXYtTm53LWx4ZlV3cDhJMmNZR3dWYXA2LVBVNTcwNWxfSnpuQy1HY0o0d2xYbXRWRzZ3REhLNmlValRFN296Qi1nVXhEQi1RNEItUVRFdVk4dFJjUnJqYjJkV3ZQd0J6OGtvZVBtWW15c25mbHlOdA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwM2ducFZ0QXNtcTdqbzV4d1NERW1xSWQ4MDcxSjNMMjluN1VhdE9qbTF1ZjZKNkJ5clFnVEtHSlktQWRIdzRvMmdnRGtHN2JkV2F1N0djZTgwVlVNd3UxMEl6cGc4XzFiWlFTQkFkOHFuV2hjOHVSWjVR?oc=5",
     "time": "2026-09-01",
-    "_ts": 1788284266000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国内要闻",
-    "title": "【发布现场】第23届中国—东盟博览会将于9月17日至21日在广西南宁举办_独家采编",
-    "summary": "点击查看新闻详情",
-    "source": "中国西藏网",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54ODJKZE1fNHAyWEhpZG5uTXZNUzgtdy1vMHVHZkgyVjRWa3NYcndCLXMtWEJFUUMtOGRVWkxhd3hhZjJsNjc0dno1Z1d4VDhKVEd4cHVBcVJfVWRQX0JydWhxaEZDeXdQRnc?oc=5",
-    "time": "2026-09-01",
-    "_ts": 1788277050000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "高通跃龙 Q-2390、IQ-2390 处理器发布：面向消费级物联网等领域，预计 2027 年初面市",
-    "summary": "IT之家 9 月 1 日消息，高通公司今日宣布推出跃龙（Dragonwing）Q-2390 和 IQ-2390 处理器，面向消费级物联网、工业边缘计算等领域。 据介绍，这两款处理器均配备四核 Kryo CPU、Adreno704 GPU 以及实时 RISC-V MCU。支持 Linux、Android 和 Zephyr",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/997/185.htm",
-    "time": "2026-09-01",
-    "_ts": 1788276359000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "驰为推出 NeoBook 笔记本：酷睿 3 100U 处理器，内存硬盘可升级",
-    "summary": "IT之家 9 月 1 日消息，驰为现已在海外市场推出 NeoBook 笔记本。从名字可以看出，这款产品将对标 MacBook Neo，售价 409 美元 （IT之家注：现汇率约合 2,755 元人民币） /499 美元 （现汇率约合 3,361 元人民币） 。 据介绍，这款笔记本重约 1.2kg，厚度约 16.4mm，",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/997/183.htm",
-    "time": "2026-09-01",
-    "_ts": 1788275628000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "微软优化 Win11 更新机制：整合多类更新，每月仅需一次重启",
-    "summary": "IT之家 9 月 1 日消息，微软已确认，Windows 11 今后将把驱动程序更新、.NET 更新和固件更新与每月安全更新打包在一起，这样电脑每月只需重启一次，而不再因为不同类型的更新频繁重启。 据 Windows Latest 此前发现，这项调整适用于 Windows 11 24H2、25H2 和 26H1 版本，",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/997/180.htm",
-    "time": "2026-09-01",
-    "_ts": 1788275462000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "Sonos 一口气推出两款全新硬件：Beam Ultra 回音壁、Ace Ultra 头戴式耳机",
-    "summary": "IT之家 9 月 1 日消息，Sonos 今天（1 日）一口气发布了 Sonos Beam Ultra 回音壁、Sonos Ace Ultra 头戴式耳机，以及全新音频操作系统 Sonos 27 三款软硬件新品。 这也是 Sonos 自 2024 年以来规模最大的一次集中发布。2024 年，Sonos 新版应用上线后激",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/997/168.htm",
-    "time": "2026-09-01",
-    "_ts": 1788272633000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "英伟达 DLSS 5 发布：支持 RTX 50 系显卡，首发支持《NBA 2K27》游戏",
-    "summary": "IT之家 9 月 1 日消息，英伟达官方今天发布 DLSS 5 技术， 首发支持游戏有《NBA 2K27》 ， 支持所有 RTX 50 系显卡的笔记本和台式电脑 ，以及 GeForce NOW 云游戏平台。 据悉，《NBA 2K27》由 Visual Concepts 开发、2K 发行，本作利用 DLSS 5 全面改善",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/997/166.htm",
-    "time": "2026-09-01",
-    "_ts": 1788271877000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "小米 POCO X8 手机海外发布：8340mAh 大电池，骁龙 6s Gen 4 芯片",
-    "summary": "IT之家 9 月 1 日消息，小米今天在海外市场推出 POCO X8 手机。新机定位中低端市场，采用高通骁龙 6s Gen 4 移动平台， 配备 8340mAh 大电池 。 据介绍，POCO X8 的机身厚度是 8.6mm，重量 223g，提供银色、橙色、黑色等配色， 正面配备一块 6.83 英寸 AMOLED 屏幕 ",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/997/163.htm",
-    "time": "2026-09-01",
-    "_ts": 1788270347000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "运动相机鼻祖 GoPro 宣布与光电技术公司 Starman 达成合并协议",
-    "summary": "IT之家 9 月 1 日消息，运动相机鼻祖 GoPro 今天（1 日）宣布，与一家非上市的光电技术公司 Starman 达成最终合并协议。按照交易方案，GoPro 股东将获得总计 2.85 亿美元 （IT之家注：现汇率约合 19.2 亿元人民币） 现金，相当于每股 1.14 美元 （现汇率约合 7.7 元人民币） ，最",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/997/161.htm",
-    "time": "2026-09-01",
-    "_ts": 1788269475000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "联想集团发布首款“沙特制造”笔记本电脑",
-    "summary": "IT之家 9 月 1 日消息，联想集团 (Lenovo) 当地时间今日在沙特阿拉伯首都利雅得举行的 LEAP 2026 科技与信息技术展览会上 发布了其首款“沙特制造”笔记本电脑 。 IT之家了解到，这台笔记本电脑是 联想集团沙特智能制造基地首批下线的产品之一 。 该基地是 联想集团全球首个能够生产完整产品组合的基地 ",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/997/159.htm",
-    "time": "2026-09-01",
-    "_ts": 1788269199000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "追觅回应放弃整车量产：汽车业务并入产业研究院，未来主要聚焦通用技术探索研究",
-    "summary": "IT之家 9 月 1 日消息，据每日经济新闻今天（1 日）报道，针对追觅科技造车项目终止的传闻，追觅科技相关人士表示，追觅汽车业务已经放弃量产计划，只做相应技术储备。“汽车相关业务将 并入公司产业研究院管理 ，未来主要聚焦通用技术的探索与研究，持续做好相关技术产投研落地。” 此前据中国经济网报道，追觅造车在一波接一波的",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/997/154.htm",
-    "time": "2026-09-01",
-    "_ts": 1788267766000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "消息称 OPPO 门店本月将上调多款机型价格，涨价幅度在 300 元-500 元之间",
-    "summary": "IT之家 9 月 1 日消息，据界面新闻从上海多家线下门店获悉，OPPO 计划于本月对其旗下多款智能手机产品进行价格调整，涉及 Reno16 系列及 一加 Turbo 6X Pro 系列，涨价幅度在 300 元至 500 元区间。目前，部分门店已经更换 OPPO Reno16 价格指示牌，OPPO Reno16 型号改",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/997/151.htm",
-    "time": "2026-09-01",
-    "_ts": 1788267435000,
+    "_ts": 1788303420000,
     "_isFresh": true
   },
   {
@@ -290,13 +300,33 @@
     "_isFresh": true
   },
   {
-    "cat": "经济金融",
-    "title": "开局起步“十五五”：海口发力现代服务业与开放型经济",
-    "summary": "中新网海口9月1日电 (记者 符宇群)《海南省“十五五”服务业发展规划》和《“十五五”海南开放型经济发展规划》近日先后印发。作为海南省会城市、海南自贸港核心引领区，海口对照上述两项省级专项规划，已同步编制出台服务业、对外贸易两个“十五五”规划，努力当好全省现代服务业标杆、开放型经济示范。",
+    "cat": "国际局势",
+    "title": "德国指认俄涉莱比锡机场袭击并宣布反制措施",
+    "summary": "中新社柏林9月1日电 德国政府9月1日表示，俄罗斯应对8月上旬发生在德东部莱比锡机场的无人机袭击未遂事件负责，并宣布关闭俄罗斯驻波恩总领事馆等一系列反制措施。俄方否认参与事件，并表示将采取对等回应。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688314.shtml",
+    "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688374.shtml",
     "time": "2026-09-01",
-    "_ts": 1788273374000,
+    "_ts": 1788305620000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "扎哈罗娃：在日部署“堤丰”导弹系统“不可接受”",
+    "summary": "俄罗斯外交部发言人扎哈罗娃1日表示，在日本领土上部署美国“堤丰”导弹系统对于俄罗斯来说“绝对不可接受”。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688361.shtml",
+    "time": "2026-09-01",
+    "_ts": 1788301934000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "三天内第二轮袭击 特朗普威胁伊朗终极打击蓄势待发 伊方誓言报复",
+    "summary": "美东时间1日，美军对伊朗境内的伊朗伊斯兰革命卫队目标发动新一轮打击，伊朗南部沿海多地遭袭。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688360.shtml",
+    "time": "2026-09-01",
+    "_ts": 1788301736000,
     "_isFresh": true
   },
   {
@@ -317,6 +347,16 @@
     "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260901-%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E5%85%85%E5%BD%93%E4%B8%AD%E5%9B%BD%E4%BB%A3%E7%90%86%E4%BA%BA%E8%A2%AB%E5%88%A4%E5%A4%84%E4%B8%A4%E5%B9%B4%E7%9B%91%E7%A6%81",
     "time": "2026-09-01",
     "_ts": 1788295603000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "[国际金融报告] 中东局势导致油价飙升，全球金融市场动荡…股市与债市双双走弱",
+    "summary": "点击查看新闻详情",
+    "source": "亚洲日报",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14S1JaMkNxQTBjbHBCRThJVS1lSm9ybUYweUF3b2FCR09ZZFJibmZLMUFoT3l2MTlncWo4NlhNTUFkRFFJcGFlM0tzelQ0eFpOa09EZTVHNElHMlU?oc=5",
+    "time": "2026-09-01",
+    "_ts": 1788305780000,
     "_isFresh": true
   },
   {
@@ -360,43 +400,23 @@
     "_isFresh": true
   },
   {
-    "cat": "国际局势",
-    "title": "业界报告称澳大利亚房价连续第五个月下跌",
-    "summary": "中新社悉尼9月1日电 (记者 薄雯雯)房地产咨询公司Cotality9月1日发布的报告显示，澳大利亚8月住房价值指数(HVI)环比下降0.9%，为连续第五个月下跌。",
+    "cat": "争议新闻",
+    "title": "养老监护缺失，谁来“兜底”",
+    "summary": "保姆张梅发现，照顾了患有阿尔茨海默病的84岁老人5年后，聘请她的雇主、老人的女儿王丽也患上了阿尔茨海默病。母女二人在上海普陀区独居，白天，张梅要照顾二人洗澡、如厕，给她们做饭、喂药。半夜，她要起身帮王丽和母亲换湿掉的衣服，哄着她们入睡。张梅不堪重负、打算离职，又找不到接管这对母女的人。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687966.shtml",
-    "time": "2026-09-01",
-    "_ts": 1788254649000,
+    "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688391.shtml",
+    "time": "2026-09-02",
+    "_ts": 1788307466000,
     "_isFresh": true
   },
   {
-    "cat": "国际局势",
-    "title": "第十一届东方经济论坛开幕",
-    "summary": "中新社莫斯科9月1日电 第十一届东方经济论坛9月1日在俄罗斯滨海边疆区首府符拉迪沃斯托克市的远东联邦大学校园开幕。",
+    "cat": "争议新闻",
+    "title": "北京未来三天以晴为主 明后天最高气温可达32至33℃",
+    "summary": "中国天气网讯 今天(9月2日)，北京天气以晴为主，最高气温30℃。明后天晴朗天气持续，白天气温升高，最高气温可达32至33℃，热意提升，紫外线强，需注意防晒、补水。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687939.shtml",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688369.shtml",
     "time": "2026-09-01",
-    "_ts": 1788248668000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "中国警告台湾出席太平洋岛国论坛会有“后果” 澳总理回应",
-    "summary": "太平洋岛国领导人于周一（8月31日）开始在帕劳举行一年一度的太平洋岛国论坛。中国周二表示反对台湾出席，称这个民主统治的岛屿没有资格出席峰会，同时威胁“会有后果“，但澳大利亚和新西兰表示，太平洋岛国集团自己决定嘉宾名单。",
-    "source": "via REUTERS - MICK TSIKAS",
-    "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260901-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%91%8A%E5%8F%B0%E6%B9%BE%E5%87%BA%E5%B8%AD%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B2%9B%E5%9B%BD%E8%AE%BA%E5%9D%9B%E4%BC%9A%E6%9C%89-%E5%90%8E%E6%9E%9C-%E6%BE%B3%E6%80%BB%E7%90%86%E5%9B%9E%E5%BA%94",
-    "time": "2026-09-01",
-    "_ts": 1788260745000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "印度一烟花爆竹生产点发生爆炸 致11人死亡",
-    "summary": "中新网9月1日电 据印度媒体报道，当地时间8月31日，印度北方邦考夏姆比县与普拉亚格拉吉交界地区一处烟花爆竹生产点发生剧烈爆炸，造成至少11人死亡，另有多人受伤。遇难者中包括8名未成年人，其中4人来自同一家庭。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/09-01/10687926.shtml",
-    "time": "2026-09-01",
-    "_ts": 1788247063000,
+    "_ts": 1788305037000,
     "_isFresh": true
   },
   {
@@ -441,62 +461,42 @@
   },
   {
     "cat": "争议新闻",
+    "title": "胡锡进绝杀孙宇晨：等你回北京咱再好好唠唠",
+    "summary": "点击查看新闻详情",
+    "source": "凤凰网科技",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hRzY4SmtjbDFINHJxbnZTYnhYNTNCUVE5UmdtVEdqNUtIdHVsUEp2bG5MZk1uWnIzbllHQWpxdlY3UjduWEhGaEUwLXc?oc=5",
+    "time": "2026-09-01",
+    "_ts": 1788301689000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "手机号能否继承？绑定内容能否擅自处置？姐弟诉到法院→",
+    "summary": "现在，手机号码与微信、支付宝、银行卡及各类线上账户紧密绑定，承载着显著的财产权益与数据价值。机主去世后，其手机号码能否作为遗产被继承？",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688358.shtml",
+    "time": "2026-09-01",
+    "_ts": 1788300649000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "微博正文",
+    "summary": "点击查看新闻详情",
+    "source": "微博",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qMVlLdFpIcjR4MWZtalBYZDV0UWdfN2JPT2kwOW5fc3NPTUlKODBnemNKRkpkNkt3Y0VzMGFQVkdJQmVNMXdMT1FZd0wxSFdKbWR6RUlB?oc=5",
+    "time": "2026-09-01",
+    "_ts": 1788299597000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
     "title": "海南：高风险地中海贫血基因携带家庭符合申请条件平均可获6万至10万元救助",
     "summary": "中新网海口9月1日电 (记者 符宇群)海南省红十字会秘书长李金跃1日在海南省新闻办公室举行的发布会上说，“阳光宝贝基金”运行三年来，已累计救助80对地中海贫血(简称“地贫”)高风险夫妇，符合申请救助条件的家庭平均可获6万至10万元救助。",
     "source": "中国新闻网",
     "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688327.shtml",
     "time": "2026-09-01",
     "_ts": 1788276299000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "阿曼、约旦科技及管理人员在沪系统研修AI赋能绿色转型",
-    "summary": "中新网上海9月1日电 (记者 陈静)“中国—阿曼基于人工智能的算电网协同优化技术国际培训班”1日在上海开班，来自阿曼、约旦可再生能源、数字产业领域的23名科技及管理人员将在沪围绕新技术落地应用、新能源产业转型、人工智能绿色普惠实践开展为期17天的系统研修。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688332.shtml",
-    "time": "2026-09-01",
-    "_ts": 1788276237000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "图纸“纠偏”记 杭州检察机关专项监督无障碍设计",
-    "summary": "中新网杭州9月1日电(郭其钰)轮椅刹车松开，沿着无障碍坡道平稳滑入，一名残疾人体验员握住坡道入口的扶手用力晃了晃，纹丝不动。想起上次被人抬着进码头的窘境，他笑着说：“这才是真正的无障碍。”",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688331.shtml",
-    "time": "2026-09-01",
-    "_ts": 1788276183000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "河北鸡泽万亩椒田“红”似火 嘉年华里品“热辣”",
-    "summary": "点击查看新闻详情",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688328.shtml",
-    "time": "2026-09-01",
-    "_ts": 1788275705000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "海南慈善事业向上向善 “十五五” 推动出台《海南省慈善条例》",
-    "summary": "中新网海口9月1日电 (记者 符宇群)海南省民政厅厅长曾锋1日在海南省新闻办公室举办的新闻发布会上透露，截至目前，全省登记慈善组织151家，实现省、市、县慈善总会全覆盖。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688329.shtml",
-    "time": "2026-09-01",
-    "_ts": 1788275691000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "救援背后的“生命线”",
-    "summary": "“大家身体有不舒服的，再让医生检查一下。”",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-01/10688333.shtml",
-    "time": "2026-09-01",
-    "_ts": 1788274263000,
     "_isFresh": true
   },
   {
@@ -541,9 +541,19 @@
   },
   {
     "cat": "健康养生",
+    "title": "救护车违规将患者拉至自家民营医院，家属称延误抢救致死亡！深圳卫健委通报",
+    "summary": "点击查看新闻详情",
+    "source": "QQ News",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4X2pwSXV0bHV2WVUtb1BmU0ZJNUwzbUF2QzBYRnlmYlpodlVxdlk4SUh3ejZ3THVJdjRoQms0OThPclptZF9NY05hOWE4bFpnT3R3QTZB?oc=5",
+    "time": "2026-09-01",
+    "_ts": 1788233913000,
+    "_isFresh": true
+  },
+  {
+    "cat": "健康养生",
     "title": "“癌王”新药获FDA批准：死亡风险降六成，年治疗费超320万",
     "summary": "点击查看新闻详情",
-    "source": "jiemian.com",
+    "source": "界面新闻",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42NG5mWHFOOTl2VW5qNm9PTnVWOEdpSi1WOWw0T0VETEFxYm96MjZsYlRCdnFXcTRKdTNadFY1ZmF3RWFYd0dOQUk5cnAtTXBxVkJKTFFOM1E?oc=5",
     "time": "2026-09-01",
     "_ts": 1788268001000,
@@ -587,16 +597,6 @@
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZnVZNlN0bDhUU1NhcU1fUkt0RVhGTEp4Z1liaXpLdE1ZWW5qUlFqcHJZY3B5V0RGbHcydjZVbFRtSURqdEs3OXZOa0xGa05QRlhYdF9RbnJGS2w3ZlRUaDRB?oc=5",
     "time": "2026-08-31",
     "_ts": 1788181619000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "ST百灵子公司吸入用BD77临床申请获国家药监局批准 用于慢性阻塞性肺病",
-    "summary": "点击查看新闻详情",
-    "source": "观点网",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Hb1lfajVHZ09VaGI1djRubFBOOGZySjdVRFhXNWZ0d3hLcE1WeFc2Q0E5U2drNVI4dEt3T2gwMnhBOGh3TGFTZnJqekQybVBYUjcxaXVCaDRMcTFaWnROMXpn?oc=5",
-    "time": "2026-09-01",
-    "_ts": 1788223674000,
     "_isFresh": true
   }
 ]
