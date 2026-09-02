@@ -81,22 +81,22 @@
   },
   {
     "cat": "国内要闻",
-    "title": "新华图讯｜习近平圆满结束对埃及的国事访问",
-    "summary": "当地时间9月2日晚，国家主席习近平结束对埃及的国事访问。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689161.shtml",
+    "title": "第六次中国城乡老年人生活状况抽样调查启动",
+    "summary": "点击查看新闻详情",
+    "source": "finance.sina.com.cn",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdDlhc1JNbFc3SjJMdU5xS3N6QTNaelNWQkxacVNsT2pBNkJtSXBMX1ZrVWMxaTNPeHNiMnFuVElfWjhOMThHdFhvaTFXWGk3TDBnVXctTF9KZkZFdU1RaFlPTy11bmFOQi1QVHNrejlZOHFoTWQ3b2Zrci1oRzhOSGRodno2M29xbnF5N2gzNEZkN1AwSWJ2Uw?oc=5",
     "time": "2026-09-02",
-    "_ts": 1788374018000,
+    "_ts": 1788377400000,
     "_isFresh": true
   },
   {
     "cat": "国内要闻",
-    "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆",
-    "summary": "新华社开罗9月2日电(记者邓玉山#8195;韩梁)当地时间9月2日下午，国家主席习近平和夫人彭丽媛在埃及总统塞西和夫人依缇萨尔陪同下参观大埃及博物馆。",
+    "title": "新闻背景：大埃及博物馆",
+    "summary": "中新社开罗9月2日电 2025年11月1日正式开馆的大埃及博物馆是世界最大单一文明博物馆，占地约50万平方米，馆藏文物超过10万件，集纳了埃及从史前时代到罗马时期的大量珍贵文物，涵盖埃及数千年历史。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689159.shtml",
+    "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689165.shtml",
     "time": "2026-09-02",
-    "_ts": 1788373103000,
+    "_ts": 1788376787000,
     "_isFresh": true
   },
   {
@@ -301,6 +301,16 @@
   },
   {
     "cat": "国际局势",
+    "title": "优步裁员 并宣布退出尼日利亚和乌干达",
+    "summary": "9月2日，优步（Uber）宣布公司将裁员约10%，同时还将退出非洲尼日利亚和乌干达两个国家，把资金投入到自动驾驶出租车。优步首席执行官达拉·科斯罗萨西（Dara Khosrowshahi）在致员工的信中表示：“今天，优步将进行一系列重大的组织架构调整。”",
+    "source": "© AFP/Archives INA FASSBENDER",
+    "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260902-%E4%BC%98%E6%AD%A5%E8%A3%81%E5%91%98-%E5%B9%B6%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E5%92%8C%E4%B9%8C%E5%B9%B2%E8%BE%BE",
+    "time": "2026-09-02",
+    "_ts": 1788382369000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
     "title": "韩国釜山近海一拖船倾覆 致1人死亡6人失踪",
     "summary": "中新社首尔9月3日电 (记者 金旭)当地时间2日，韩国釜山近海发生一起拖船倾覆事故，造成1人死亡、6人失踪。韩国总统李在明要求调动一切可用资源，全力开展人员救援，并做好善后处置工作。",
     "source": "中国新闻网",
@@ -390,26 +400,6 @@
     "_isFresh": true
   },
   {
-    "cat": "国际局势",
-    "title": "荷兰东部乡村发生枪击事件致1人死亡 警方逮捕34人",
-    "summary": "中新社北京9月2日电 阿姆斯特丹消息：荷兰东部一处村庄当地时间1日发生枪击事件，造成1名安保人员死亡，两名警察受伤。警方当日逮捕34名嫌疑人。据报道，该起枪击事件与一个贩毒集团有关。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688594.shtml",
-    "time": "2026-09-02",
-    "_ts": 1788323853000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "“你的胆子真是肥嘟嘟的”学生喊话中秋国庆连休13天 校方霸气回应：安排",
-    "summary": "点击查看新闻详情",
-    "source": "chinanews.com.cn",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uZkJBNUo5enRMQXZ1LU1LN0ViVXluVXFvekozWVhDSEc5ZkRNdTdHZDlWZG4tU1RPSDJEZDdsOTF2V3NaZzJzZXBiRng3VzBROGdMbjhHUW1mX18zcnhCekpBLWtqOWpZME4xTXVCdFhKdw?oc=5",
-    "time": "2026-09-02",
-    "_ts": 1788343620000,
-    "_isFresh": true
-  },
-  {
     "cat": "争议新闻",
     "title": "哈罗德·詹姆斯：美元的外围防线已被突破",
     "summary": "贝森特希望让债务再次显得安全且廉价，但他不太可能成功。去年底，他曾采取过类似策略来削弱伊朗货币，并解释这可以在无须发动地面战的情况下，实现政权更迭。倘若如此，那些将美国视为威胁的国家会否考虑采取类似策略，对日元和美元发起攻击？",
@@ -424,9 +414,9 @@
     "title": "“魔改”《三国演义》《西游记》等，多个账号被查处！",
     "summary": "点击查看新闻详情",
     "source": "t.cj.sina.cn",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DQWNFZmdia3VNWXVkX0o4OFIxQV9TaWVMTTZuMFk4d2VhczJNRVBPbV9Rb1R3cjhXTEVvd0JyalJKZTc2QW9hZHUwQUh1OWRSU0xjZzZySlRvT0hRVFRFWl9xb2dnSER6M0FnWHE1R1o?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00dUl6MG5LRnZOVGxZaFVfMlJod2syRjZNb2kzbFZsVWEtb3FzVzZtdEpWNEM4QUVYSmw2V2JtT0NZLXZhNXBBaGwza3UzWlNhYjdnT1NneW1ReEtIbW9XUnJVUTRhcEUyeGNtY2I5cU4?oc=5",
     "time": "2026-09-02",
-    "_ts": 1788332935000,
+    "_ts": 1788331565000,
     "_isFresh": true
   },
   {
@@ -500,13 +490,33 @@
     "_isFresh": true
   },
   {
+    "cat": "争议新闻",
+    "title": "跨越喀喇昆仑的守望：巴基斯坦守墓人续写亚太情谊",
+    "summary": "点击查看新闻详情",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689102.shtml",
+    "time": "2026-09-02",
+    "_ts": 1788357719000,
+    "_isFresh": true
+  },
+  {
     "cat": "健康养生",
     "title": "国家医保局发布按病种付费3.0版分组方案，五大变化全面升级",
     "summary": "点击查看新闻详情",
-    "source": "新浪财经",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcm5pUmExSHFKcnhNT0RNWi1WRXdqVUp3VkhFS2JhQlAtNFZ1T1l1TkFNS3I5Z094ekk5U1RNcTZOYjdLX0FKdGNzQnE1MFlwRlZYa2E3d2dreXBfWURIUUNmM2VyLWFqaU5tVjBwQ3A2T2pndXZZSmVxSGlkVUxvQURVZktzZw?oc=5",
+    "source": "finance.sina.com.cn",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhOUwxM3BRQ25sd2VmengxVWFuS1RJRUdMTjFtQVMwbHdmTzRGcW11aExVRTJGUU43aXJYMEliN0lhUnpJSFBhUGxOVkh6Z3c5RC1nY05IZW1OV0dWU2tmZEd6ZUdKN3VDaVFIS1pMTkJmVE9ING96eg?oc=5",
     "time": "2026-09-02",
-    "_ts": 1788346380000,
+    "_ts": 1788377524000,
+    "_isFresh": true
+  },
+  {
+    "cat": "健康养生",
+    "title": "证券期货委员会将科斯达克IR高管通报侦查机关……“利用新药利好内幕信息非法获利”",
+    "summary": "点击查看新闻详情",
+    "source": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zZ2Y2R0RQTzdFbkdvWjdoM3pHSU1xRjBhcmJPWnFHNGRUel9TMmQ0SVRFalo5SUU0YkFrMjdWa2l0YUVUOEpfY3lIRXN1ZHBGeGtWTG44dGVjYldQSHoyQXR4b00?oc=5",
+    "time": "2026-09-02",
+    "_ts": 1788341510000,
     "_isFresh": true
   },
   {
@@ -553,7 +563,7 @@
     "cat": "健康养生",
     "title": "年费用超47万美元，“癌王”新药在美获批国产靶向药还要等多久？|美国食品药品监督管理局|抗癌药|胰腺癌|癌基因|基因突变",
     "summary": "点击查看新闻详情",
-    "source": "news.sina.cn",
+    "source": "新浪新闻",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOHlfZlZoNEtPa1VxYWg3ZkhWQ2VwREpQV0NJSkd5NWxWMVJWb1VkTU1XdFA5NVZPWktIWk9rSVVseFV2dV9lbzR2Zm5PMlYzWDM0WkFOTDhsRnRPbWtKem81aVVlenZWVWo1R1ZVcnR6NG9ZZnRiUkVEMjZjR1Ftd09RdGlhUDk2ZWZROFpDSkpyX2NBaHh1UE9PbVFtR29iQnRoVld3aElKdTc2dmlwVWZRSWdqcC0wei1WV3N5dVE2aWtGUV9kUWNpVlZOUmptVXc?oc=5",
     "time": "2026-09-02",
     "_ts": 1788318161000,
@@ -574,19 +584,9 @@
     "title": "欧康维视生物：视姝新药6月获批 地塞米松眼用注射液获受理",
     "summary": "点击查看新闻详情",
     "source": "观点网",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96c1F4RVZHNjhueUZzU0dzVkFmMjN0NkE5OFc4UFJZejhlUE8xdC1DWm9fNnFaZzluWDYycG1sa2tzcnJ5QlphazE2dkZyX2M1Tno3VXN5b0ZManFIVk9zZUJB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkMmozYVRvdHU4c3QxZl9YQ2V6bDdQMjgxM3pZWXloMUJENW0zaXUzcVZXQTczaUZCSzJmM3BaN1V1bXJTdlBaRlRJUTVBQQ?oc=5",
     "time": "2026-09-01",
     "_ts": 1788268587000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "“癌王”新药获批：死亡风险降六成，年治疗费超320万",
-    "summary": "点击查看新闻详情",
-    "source": "sohu.com",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV2tGcDE5MHJyM1lLdGt6b1JIUWM3YzJQNUpYVk43UDlSRlZnd0oxckt1ekJTYzBJMm43SE4yM01Ra1RSZGg2U2g2RnlBcWlydUljNGtSR2dSLTZ0NHFrY2g3Rm5WeWZ4cnAtbTRVMXRDUzJxZDN1Ti11THFxVTRXaXZoLTNrRXZIMk55VXV6allMUy1FbzUw?oc=5",
-    "time": "2026-09-01",
-    "_ts": 1788268245000,
     "_isFresh": true
   },
   {
