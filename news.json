@@ -91,12 +91,12 @@
   },
   {
     "cat": "国内要闻",
-    "title": "股市必读：9月3日中国卫星发生2笔大宗交易 成交金额932.23万元",
+    "title": "中国建材股份2026年中期业绩发布会召开",
     "summary": "点击查看新闻详情",
-    "source": "搜狐网",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUtBYWctVlhWTU5GVkdjT1kxUzdFZm5lbEJqckZVQUU5cHhGOUNVaGFtbTZIb19udUljWmUxZ0liY01rR09Bb3lYdzhjeTdQTVQ2Sm5nbk1HTEkxekNYeHZTazhoV2dOOTkxeUxBVHVqQ1pYeVROMTZjZTRjRlMtWkNiUGpyempN?oc=5",
+    "source": "新浪网",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHdPei1UR2NPM2RUTFFUZU02OEMxbjV6M3I4a2hxRVFMcDZkc1hyUnVPVzZVWE5lSzhIeEdYeWtzWUFCSHo0OWZZT3dCY2dFSDJ5WjU4SGFLdHpIZE9vV3BMSVNYX2ItbGdlVmtUcG9aeHVSbXR6LVhKSUxqN1kxa2FuOA?oc=5",
     "time": "2026-09-03",
-    "_ts": 1788452171000,
+    "_ts": 1788461260000,
     "_isFresh": true
   },
   {
@@ -151,6 +151,16 @@
   },
   {
     "cat": "科技前沿",
+    "title": "（更新：已恢复正常）ChatGPT、Grok、Claude、Cursor 集体突发故障",
+    "summary": "【9 月 4 日 1:13 更新】目前文中提到的模型 / AI 工具官网“Status”主页均显示已经恢复正常。 IT之家 9 月 3 日消息，据IT之家网友投稿反馈，ChatGPT、Grok、Claude、Cursor 等多款 AI 模型今晚突发故障。此外，用户请求 Codex 会出现“404 Not Found”错",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/998/195.htm",
+    "time": "2026-09-03",
+    "_ts": 1788448041000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
     "title": "发布会前夕，特斯拉 Cybercab 车队现身美国多地",
     "summary": "IT之家 9 月 3 日消息，特斯拉 Cybercab 的现身范围正不断扩大，早已不局限于得克萨斯州奥斯汀市中心。公司计划北京时间明日凌晨 05:45 在得克萨斯州发布这款纯电动双座车型，自动驾驶是本次发布的核心。 特斯拉将在得克萨斯州奥斯汀举办专场活动，向一小部分受众开放 Cybercab，目前外界关于这场活动的公开",
     "source": "IT之家",
@@ -187,16 +197,6 @@
     "url": "https://www.ithome.com/0/998/188.htm",
     "time": "2026-09-03",
     "_ts": 1788447419000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "英特尔 Arc 显卡驱动 32.0.101.8992 测试版发布：支持两款新游戏，修复多款游戏画面异常问题",
-    "summary": "IT之家 9 月 3 日消息，英特尔 Graphics Software 32.0.101.8992 显卡驱动（适用于 Arc）今日发布。 本次为 Non-WHQL 测试版本，为英特尔 Arc B 系列、A 系列独立显卡以及英特尔酷睿 Ultra 系列集成 Arc 核显提供支持，新增两款新游戏支持，修复了多款游戏存在的",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/998/179.htm",
-    "time": "2026-09-03",
-    "_ts": 1788445234000,
     "_isFresh": true
   },
   {
@@ -511,16 +511,6 @@
   },
   {
     "cat": "健康养生",
-    "title": "保定卫健委通报“医院纪委书记家长群晒公职求关照”：情况属实",
-    "summary": "点击查看新闻详情",
-    "source": "搜狐网",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM25KWkxUNGtfTWVfb1NBTzRFeEd6U01nLXl2MVIyVDBXNG85aXIycHpHVGl1ZWNIRjNDUFJiUzFVMWU3ZVRIR0RKTk53MjJhcTY4ZUJnUHJXZk0ycEdhVVpZUS11d3NwMlVjemFkM1JZdGIxZks0bUtZbmlTU2JjWUpTVFB6WGU3?oc=5",
-    "time": "2026-09-03",
-    "_ts": 1788436639000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
     "title": "国新办新闻发布会 介绍推进医保高质量发展，更好服务中国式现代化建设有关情况",
     "summary": "点击查看新闻详情",
     "source": "21财经",
@@ -533,7 +523,7 @@
     "cat": "健康养生",
     "title": "河北保定卫健委通报“家长在群里自报干部身份”：网传情况属实，将依规依纪严肃处理",
     "summary": "点击查看新闻详情",
-    "source": "搜狐网",
+    "source": "Sohu",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0FrNF9QM1Y0T3NMWHlySEtNenFjcWRKSW5KQTJpLVFWRndCS0tQbHlRTjZKUjZuRVRnNFNqVEUxd0hlWFNWLWFaY0FweDBpQ3F4NmhtalhoSWJBX0tDN05OdVhoa1hqaEIyRFZEYVY1aWhOV3J6MWc4MG51TTJsMV9rMzRGZFc3?oc=5",
     "time": "2026-09-03",
     "_ts": 1788430437000,
@@ -551,12 +541,12 @@
   },
   {
     "cat": "健康养生",
-    "title": "国家医保局发布按病种付费3.0版分组方案 手术机器人单独成组释放创新支持信号",
+    "title": "保定市卫健委通报“我是市人民医院纪委书记”： 网传情况属实",
     "summary": "点击查看新闻详情",
-    "source": "东方财富",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vZDZDT1J2al9zNDNRZFU0VDhfcDRKcnlkRHVqVjJzellMVU5fSW1vbjZsUU85R3lDRFp3T0pLdGFOYjlKallLYzNsWkswTlRkZGd1M3MwLWpTemRCMXNLSDIyT3NTdw?oc=5",
+    "source": "thepaper.cn",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXVGcyOG9HZkhtQ0dUUTZjR0dmSHBKOF90djdUU1JnNnhvOXg2Zm0zUWtWc05qU1M2aktwMVpPMmdLcWx3eGJvVHUxYU05TmRWeW5pVTdackI0aktlbW5xcQ?oc=5",
     "time": "2026-09-03",
-    "_ts": 1788412599000,
+    "_ts": 1788421860000,
     "_isFresh": true
   },
   {
@@ -573,17 +563,27 @@
     "cat": "健康养生",
     "title": "北京市流感疫苗接种工作将于9月上旬启动",
     "summary": "点击查看新闻详情",
-    "source": "新京报",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oTUpZQnZveGJSRk0ycnQwWE9Ob2xCU09ZR3o2eEpVNWE4a1BzYUZ1SEs4WU9uRS1jbHF4MXFKazNvblg1Ml9pNEVWRWdHcEtzWWtaMU1zbjRIZEhoS0hCTzBramk?oc=5",
+    "source": "Sohu",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN19YRVB4TC16MnhUMG5mb1lKaHFZb3pJZ25lWFNiZWhmLTQtTllIaWU2SkJrYUVKdWQxcVJQejM5Xy1waHVveW1wdzM4UTNfR21fVGk4Z0dOdDlMTElkSjJkeGFDZkNqZlA5X29sNDc2dWtLNEhGSF82aHlSa29zMVpPOXJPNm1J?oc=5",
     "time": "2026-09-03",
-    "_ts": 1788401700000,
+    "_ts": 1788401742000,
+    "_isFresh": true
+  },
+  {
+    "cat": "健康养生",
+    "title": "国家医保局发布DRG/DIP 3.0方案！不得与医务人员绩效挂钩，年底前完成3.0版切换准备_医疗信息化",
+    "summary": "点击查看新闻详情",
+    "source": "大健康派",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uWnNJb0luUGlnSFlRU2V4ODJkWWQ5bHVxVVRRSGFfcXRFWFlMM3g4UnhrV1FtdUozVGhjRFNuSENkN1ZhN2hfWjBLX0RqMy1xUll1UWZHSDdjYy1pTjJwNjJRbkNPNjBuOHdSajlXYw?oc=5",
+    "time": "2026-09-03",
+    "_ts": 1788398977000,
     "_isFresh": true
   },
   {
     "cat": "健康养生",
     "title": "云顶新耀心血管疾病领域首款新药星必妥获批",
     "summary": "点击查看新闻详情",
-    "source": "eastmoney.com",
+    "source": "东方财富",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TX3VPeTZnT1hzR2MtdTZPLS1RbXBqVHpiVEJWMWQ3bloxSUhwLWFTYTFKTWpRZUVDZGhNSVl6NldkNWlBMnVQUGVycFRLVXlSWUs5dDZsb0pGR0JtZFVSUA?oc=5",
     "time": "2026-09-03",
     "_ts": 1788397415000,
@@ -591,12 +591,12 @@
   },
   {
     "cat": "健康养生",
-    "title": "旨在改善猴痘疫苗可及性的全球倡议正式启动",
+    "title": "国家医保局发布按病种付费3.0版分组方案",
     "summary": "点击查看新闻详情",
-    "source": "UN News",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NTmRXb1kzNWFyeVQtSktyNnF3ZGVnTnJQNEt4cnUyZS1McnN3YTJNRmNLdEtoMTdJei1YelhUQXlid1hWaXl2Y1h6aEh0ekd1eTRYdndYbw?oc=5",
+    "source": "中国经济网",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04Zk9xWUFhUzh2RlN2aXpNaWh6bUhLUThLb0tjNlZrN2IyWGt6b1BrMHRJbXBQYU5GVFdnRENobXJwSDN1S3FKQWRIOUtVSG12UW9WdXJ2WXQxM1hhdTYtUUhydUhkUVYwS1VRVDROaw?oc=5",
     "time": "2026-09-02",
-    "_ts": 1788370537000,
+    "_ts": 1788392760000,
     "_isFresh": true
   }
 ]
