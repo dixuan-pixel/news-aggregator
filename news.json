@@ -1,6 +1,36 @@
 [
   {
     "cat": "国内要闻",
+    "title": "写在亚太媒体高端论坛开幕之际",
+    "summary": "点击查看新闻详情",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gn/2026/09-05/10690760.shtml",
+    "time": "2026-09-05",
+    "_ts": 1788569044000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
+    "title": "中央气象台继续发布台风蓝色预警",
+    "summary": "中新网9月5日电 据中央气象台网站消息，今年第24号台风“科罗旺”(热带风暴级)的中心今天(5日)早晨5点钟位于琉球群岛那霸市北偏西方向大约240公里的东海东部海面上，就是北纬28.1度、东经126.5度，中心附近最大风力有9级(23米/秒)，中心最低气压为990百帕，七级风圈半径200-350公里。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690757.shtml",
+    "time": "2026-09-05",
+    "_ts": 1788567891000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
+    "title": "受台风“沙德尔”影响 福建转移59.93万人",
+    "summary": "记者从福建省防汛抗旱指挥部了解到，应对台风“沙德尔”和持续性强降雨，截至9月4日22时，福建全省累计下沉干部15.43万人次，转移海上、陆上危险区域群众59.93万人。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-05/10690743.shtml",
+    "time": "2026-09-04",
+    "_ts": 1788561426000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
     "title": "天津发布2025年度居民健康报告 居民期望寿命达82.80岁",
     "summary": "中新网天津9月4日电 (记者 江莹)天津市卫生健康委4日召开新闻发布会，发布《天津市居民健康状况报告(2025年度)》(以下简称《报告》)，全面披露当地居民整体健康水平、重点疾病发病与死亡原因分析、健康风险防控等最新核心数据，系统呈现天津居民健康现状。",
     "source": "中国新闻网",
@@ -17,6 +47,16 @@
     "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690689.shtml",
     "time": "2026-09-04",
     "_ts": 1788531603000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国内要闻",
+    "title": "NBA中国与哔哩哔哩宣布达成合作|Starting 5|球迷|官方|球员|球队_手机新浪网",
+    "summary": "点击查看新闻详情",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Cam8ycHBKTjZNei13dUpMSno1cWdEMVE3ZEhEZU5RUnNfOVR4c0pNbGpjTmo0aTBWVDRET3owdDZfc0F0TWphWXNwbG5zVVNSa0c3Z0F2cndXS3BGS1RPc2FQZGNReGd3dDd2OXlvT09yUVRnbHN4MDJjNHFYaU0?oc=5",
+    "time": "2026-09-05",
+    "_ts": 1788569836000,
     "_isFresh": true
   },
   {
@@ -60,143 +100,113 @@
     "_isFresh": true
   },
   {
-    "cat": "国内要闻",
-    "title": "“绝不能让他们流汗又流泪”，多地密集部署",
-    "summary": "中新网北京9月4日电(记者 袁秀月)“要保障农民工工资支付，对恶意欠薪行为‘零容忍’，绝不能让他们流汗又流泪。”",
+    "cat": "科技前沿",
+    "title": "AMD 显卡首次跑通英伟达 DLSS 5：《赛博朋克 2077》游戏 1080P 帧率约 30FPS",
+    "summary": "IT之家 9 月 5 日消息，科技媒体 TechPowerUp 今天（9 月 5 日）发布博文，报道称 MOD 开发者 Daniel Blanco 发布 DLSS-NR for AMD 工具， 成功在 AMD 显卡上运行英伟达 DLSS 5，但现阶段性能表现不佳。 IT之家附上相关演示视频如下： DLSS-NR for",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/998/665.htm",
+    "time": "2026-09-05",
+    "_ts": 1788569990000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "59.9 元起，七彩虹推出 USB 3.2 Gen1 Type-A/C 双口 U 盘 OVA07",
+    "summary": "IT之家 9 月 5 日消息，七彩虹京东自营店昨日新上架了一款风暴系列 OVA07 双接口 U 盘，32GB 版本定价为 59.9 元，64GB 版本 89.9 元，128GB 版本 139.9 元。 这款 U 盘采用 USB 3.2 Gen 1 接口标准，官方标称读取速度可达 150MB/s，提供 USB-A 与 T",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/998/663.htm",
+    "time": "2026-09-05",
+    "_ts": 1788569782000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "奥尔特曼致歉“GPT-6 Astra AI 上线混乱”，现已面向所有 Plus / Pro 等用户推出",
+    "summary": "IT之家 9 月 5 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）昨日（9 月 4 日）在 X 平台发布推文，承认 GPT-6 Astra 模型上线发布“很乱”， 并于今天面向所有 Plus 和 Business 用户推出。 OpenAI 于 9 月 3 日开始上线 GPT-6 Astra",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/998/661.htm",
+    "time": "2026-09-05",
+    "_ts": 1788568944000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "V社更新 Steam Frame 页面商品包信息，为头显正式开放预订做准备",
+    "summary": "IT之家 9 月 5 日消息，据 SteamDB，V 社现已开始悄悄更新 Steam 商店后台，为 Steam Frame 头显页面更新商品包信息，外界认为V社此举主要是为 Steam Frame 正式开放预订做准备。 IT之家注意到，从目前曝光的信息来看，Steam Frame 至少可能提供两款仅包含头显和控制器的基",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/998/659.htm",
+    "time": "2026-09-05",
+    "_ts": 1788568590000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "教育部“中国教师”小程序昨日上线：教师在线申领电子教师证、享多领域专属优惠",
+    "summary": "IT之家 9 月 5 日消息，在第 42 个教师节来临之际，教育部于 9 月 4 日正式上线“中国教师”小程序。该小程序直连全国教师管理信息系统， 教师无需线下跑腿，可在线直接申领电子教师证。 图源：教育部官网 该小程序由教育部开发，连接全国教师管理信息系统，覆盖全国 1870 万名教师。教师可通过小程序直接申领电子教",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/998/657.htm",
+    "time": "2026-09-05",
+    "_ts": 1788567826000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "华硕无畏 14 新增 24+512GB 存储配置：酷睿 Ultra 5 325 处理器，6499 元",
+    "summary": "IT之家 9 月 5 日消息，华硕京东自营店昨日新上架了一款搭载 24GB 内存 +512GB 固态硬盘的无畏 14 酷睿版 2026 笔记本电脑，定价显示为 6499 元，9 月 10 日开售。 京东 华硕无畏 14 酷睿版 24G 512G 2.5K 144Hz 高刷亮彩 6499 元 直达链接 2026 年数码家",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/998/653.htm",
+    "time": "2026-09-05",
+    "_ts": 1788566992000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "运动相机鼻祖 GoPro 回应“与光电技术公司 Starman 合并”：将获得更强资金实力，实现持续创新",
+    "summary": "IT之家 9 月 5 日消息，运动相机鼻祖 GoPro 于 9 月 1 日宣布，与一家非上市的光电技术公司 Starman 达成最终合并协议。按照交易方案，GoPro 股东将获得总计 2.85 亿美元 （IT之家注：现汇率约合 19.2 亿元人民币） 现金，相当于每股 1.14 美元 （现汇率约合 7.7 元人民币） ",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/998/648.htm",
+    "time": "2026-09-04",
+    "_ts": 1788566050000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "消息称苹果计划明年上线全新“家庭安全监控服务”，将 AI 引入家庭安防",
+    "summary": "IT之家 9 月 5 日消息，据外媒 MacObserver 报道，苹果正计划在 2027 年（明年）推出一项全新的家庭安全监控服务，作为其进一步拓展智能家居业务的一部分。 与此同时，苹果正在研发一款注重隐私保护的家庭安防摄像头及自动化设备。该设备将利用 AI 分析周围环境，无需依赖传统摄像头持续录制视频，从而在提供家",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/998/642.htm",
+    "time": "2026-09-04",
+    "_ts": 1788564682000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "匿名 AI 模型再现：又一 Alpha 上线 OpenCode，线索指向智谱",
+    "summary": "IT之家 9 月 5 日消息， 在 Ox Alpha 确认为 GLM-5.3-Flash 原生多模态模型后 ，又一款名为 Omen Alpha 的模型昨日（9 月 4 日）上线 OpenCode Go 订阅计划 ，种种线索表明同样来自智谱公司。 费用方面，该模型目前仅对 OpenCode Go 订阅用户开放，月费 10",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/998/641.htm",
+    "time": "2026-09-04",
+    "_ts": 1788564648000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "10 年了还在更：Hello Games 预热《无人深空》游戏十周年纪念神秘更新“Cosmos”即将上线",
+    "summary": "IT之家 9 月 5 日消息，《无人深空》是一款著名的“知耻而后勇”的游戏，游戏在 2016 年推出时由于“前期营销过大”但“实际质量不足”而暴雷，不过游戏开发商 Hello Games 并没有跑路，而是默默更新游戏至今，从而挽回了在游戏玩家中的声誉。 据外媒 eurogamer 报道，Hello Games 创始人 ",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/998/640.htm",
+    "time": "2026-09-04",
+    "_ts": 1788564434000,
+    "_isFresh": true
+  },
+  {
+    "cat": "经济金融",
+    "title": "2026年柏林国际消费电子展开幕",
+    "summary": "中新社柏林9月4日电 (记者 马秀秀)2026年德国柏林国际消费电子展(IFA)4日在柏林会展中心开幕。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690565.shtml",
+    "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690751.shtml",
     "time": "2026-09-04",
-    "_ts": 1788522063000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国内要闻",
-    "title": "西藏自治区紧急援助尼泊尔贝雷桥等物资完成交接",
-    "summary": "中新社西藏日喀则9月4日电 (记者 江飞波)西藏自治区向尼泊尔紧急援助的贝雷桥等物资9月4日在日喀则市里孜口岸顺利完成交接。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690696.shtml",
-    "time": "2026-09-04",
-    "_ts": 1788530828000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国内要闻",
-    "title": "城市更新让百年洋楼焕新生",
-    "summary": "推开天津市和平区河北路267号的朱门，中国近代外交家顾维钧的旧居从树影间露出真容。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690564.shtml",
-    "time": "2026-09-04",
-    "_ts": 1788521786000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国内要闻",
-    "title": "广东防御台风“沙德尔” 组织水库预泄腾库2.8亿立方米",
-    "summary": "中新网广州9月4日电 (记者 王坚)广东省水利厅4日晚通报称，今年第18号台风“沙德尔”带来的强降雨给广东造成了严重影响，3日18时韩江发生2026年第1号洪水。为防御“沙德尔”，该厅下发45宗纳雨能力小于150毫米的水库清单，组织预泄腾库2.8亿立方米，提前做好拦洪运用准备。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690686.shtml",
-    "time": "2026-09-04",
-    "_ts": 1788530490000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "理想与芯联集成签署新一轮战略合作协议，8 英寸碳化硅晶圆下线",
-    "summary": "IT之家 9 月 4 日消息，9 月 3 日，芯联集成与理想签订新一轮战略合作协议，双方共同见证 8 英寸碳化硅晶圆成功下线，开启深化合作。 IT之家从公告获悉，芯联集成与理想合作产品应用场景 从整车电驱动进一步延伸至车载热管理系统 等领域。2024 年 3 月，双方首次签署战略合作协议，聚焦车规级碳化硅领域联合技术攻",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/998/624.htm",
-    "time": "2026-09-04",
-    "_ts": 1788535965000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "全新奔驰长轴距 GLE SUV 将于 9 月 16 日上市，首批搭载 Momenta R7",
-    "summary": "IT之家 9 月 4 日消息，据易车今日报道，全新奔驰长轴距 GLE SUV 将于 9 月 16 日上市。新车采用最新设计语言，加长后的轴距达到 3115mm。内饰采用三联屏设计，内置豆包 AI 大模型虚拟助手，并且后续还将搭载 Momenta R7 世界模型。 IT之家注意到，9 月 1 日，全新国产梅赛德斯-奔驰长",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/998/622.htm",
-    "time": "2026-09-04",
-    "_ts": 1788535097000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "电力安全事故应急处置条例修订发布，将于 2027 年施行",
-    "summary": "IT之家 9 月 4 日消息，据国家能源局，修订后的《电力安全事故应急处置和调查处理条例》今日正式对外公布，将于 2027 年 1 月 1 日 起正式施行。日前，司法部、国家发展改革委、国家能源局负责人就《条例》有关问题回答了记者提问。 现行条例自 2011 年施行以来，对提升电力安全事故应急处置能力、规范电力安全事故",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/998/618.htm",
-    "time": "2026-09-04",
-    "_ts": 1788533439000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "微软推出 Project Zenith，为 Win11 开发者提供开箱即用开发环境",
-    "summary": "IT之家 9 月 4 日消息，微软今天（4 日）宣布推出 Project Zenith，为 Windows 11 开发人员提供一套 面向开发级 PC 的开箱即用开发环境 。微软希望通过预先完成系统和工具配置，减少设置和其他干扰，让开发人员把更多时间用于实际的软件开发。 Project Zenith 面向配备 至少 64",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/998/611.htm",
-    "time": "2026-09-04",
-    "_ts": 1788532151000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "任天堂宣布 9 月 8-9 日举行两场直面会，含游戏《塞尔达传说》40 周年专场",
-    "summary": "IT之家 9 月 4 日消息，任天堂今晚宣布，将于 9 月 8-9 日连续举行两场直面会。 其中，9 月 8 日（IT之家注：北京时间 22:00）将举行 《塞尔达传说》40 周年直面会 ，带来有关《塞尔达传说》的最新游戏资讯，节目时长约为 30 分钟。 北京时间 9 月 9 日 22:00 还将举行另一场 任天堂直面",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/998/609.htm",
-    "time": "2026-09-04",
-    "_ts": 1788531654000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "戴森推出 W1 PencilWash 洗地机：支持 180° 真躺平，到手价 1997 元",
-    "summary": "IT之家 9 月 4 日消息，戴森现已推出 W1 PencilWash 洗地机，将于 9 月 8 日开售，售价 2499 元，领券立减 150 元叠加焕新补贴 85 折最终 到手价 1997 元 。 这款洗地机 手持重量 470g （整机 2.65kg），机身直径 38 毫米， 支持 180° 真躺平 ，最薄处 7.5",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/998/605.htm",
-    "time": "2026-09-04",
-    "_ts": 1788530641000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "微软与 TCL 达成合作，电视将变身 XBOX“云游戏机”",
-    "summary": "IT之家 9 月 4 日消息，微软今天（4 日）宣布将与 TCL 达成合作，把 XBOX 应用引入支持该功能的 TCL 智能电视。用户通过 XBOX 应用即可连接云游戏服务，串流 Game Pass 游戏库中的作品，或游玩部分自己拥有的游戏。 双方合作后，全球超过 25 个国家的数百万 TCL 电视用户将能够 直接通过",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/998/602.htm",
-    "time": "2026-09-04",
-    "_ts": 1788529580000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "比亚迪腾势 N8L 纯电版 9 月 14 日上市，搭载 208L 电动前备箱",
-    "summary": "IT之家 9 月 4 日消息，据易车今日报道，比亚迪腾势 N8L 纯电版将于 9 月 14 日正式上市，新车官方定位大六座安全豪华 SUV，搭载 208L 超大智能电动前备箱。 目前官方暂未公布更多新车信息，据IT之家此前报道， 比亚迪腾势 N8L 于 2025 年 10 月 28 日上市 ，官方指导价 29.98 万",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/998/601.htm",
-    "time": "2026-09-04",
-    "_ts": 1788528874000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "微信开源通用多模态嵌入模型 WeMM-Embedding，已大规模部署在微信推荐与搜索系统中",
-    "summary": "IT之家 9 月 4 日消息，微信 AI 官方今日宣布，将 微信线上每天调用十亿量级 的通用多模态嵌入模型 WeMM-Embedding 开源， 包含 2B、4B、9B 三个版本 ，支持文本、图像、视频、视觉文档以及任意交错的多模态输入。 官方表示，WeMM-Embedding 选择基于 Qwen3.5 多模态架构作为",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/998/599.htm",
-    "time": "2026-09-04",
-    "_ts": 1788528077000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "长安发布天枢领航辅助驾驶：支持交互式智驾指令，能识别交警手势",
-    "summary": "IT之家 9 月 4 日消息，今天（4 日）晚间，长安汽车在科技生态大会上正式发布自研智能辅助驾驶解决方案“天枢领航”。 据IT之家了解，该方案支持交互式智驾，可通过 “超过前方那辆车”等自然语言指令 完成驾驶控制，目前已覆盖高速 NCA、城市 NCA 和全场景泊车三大核心功能域。 数据显示，天枢领航目前已完成超过 4",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/998/597.htm",
-    "time": "2026-09-04",
-    "_ts": 1788526998000,
+    "_ts": 1788564441000,
     "_isFresh": true
   },
   {
@@ -251,6 +261,16 @@
   },
   {
     "cat": "经济金融",
+    "title": "【环球财经】纽约股市三大股指4日下跌",
+    "summary": "点击查看新闻详情",
+    "source": "sohu.com",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMW4zalk5U3Q2UEkwWGVqdzRwQ1FtVVpob0dtTENhTVNPNzZUMlpZbzJzTE00LWQ1V25UbmZWcUZIdTAxT0lqLWtNY2ZNMk8yNXZmcXcyOFZNcGxTbHlITF84YjhTaWE4TlQtRTdjRXYybk1rNnJSRy1PeWdfOFNKME11bjZHdnRzMkY2TA?oc=5",
+    "time": "2026-09-05",
+    "_ts": 1788569146000,
+    "_isFresh": true
+  },
+  {
+    "cat": "经济金融",
     "title": "多款“硬核”人形机器人亮相第二十一届中博会具身智能展",
     "summary": "中新网广州9月4日电 (记者 孙秋霞)第二十一届中国国际中小企业博览会正在广州举行，在具身智能展区，近70家企业携核心产品参展，覆盖核心零部件、人形机器人整机、AI算法和行业应用等产业链关键环节，呈现行业技术创新与应用落地成果。",
     "source": "中国新闻网",
@@ -277,26 +297,6 @@
     "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690726.shtml",
     "time": "2026-09-04",
     "_ts": 1788532630000,
-    "_isFresh": true
-  },
-  {
-    "cat": "经济金融",
-    "title": "第七届辽洽会深耕东北亚经贸合作 蒙古国担任主宾国",
-    "summary": "中新网沈阳9月4日电 (记者 韩宏)记者4日从辽宁省政府新闻办召开的发布会上获悉，第七届中国辽宁国际投资贸易洽谈会(以下简称“辽洽会”)持续深耕东北亚经贸合作圈，邀请蒙古国作为本届辽洽会主宾国。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690716.shtml",
-    "time": "2026-09-04",
-    "_ts": 1788532109000,
-    "_isFresh": true
-  },
-  {
-    "cat": "经济金融",
-    "title": "海外客商云集浙江绍兴宠博会 智能产品“吸睛”",
-    "summary": "中新社浙江绍兴9月4日电(蓝伊旎)2026绍兴国际宠物用品博览会9月4日至6日在浙江绍兴举办，汇聚100余家宠物行业展商，展品覆盖宠物食品、日用用品、医疗健康、智能设备等类目。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690707.shtml",
-    "time": "2026-09-04",
-    "_ts": 1788531471000,
     "_isFresh": true
   },
   {
@@ -361,6 +361,36 @@
   },
   {
     "cat": "国际局势",
+    "title": "美国8月非农就业增加16.2万 失业率4.1%",
+    "summary": "中新社华盛顿9月4日电(记者 陈孟统)美国劳工部4日发布数据显示，美国8月非农就业岗位增加16.2万个，失业率为4.1%，与7月持平。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690752.shtml",
+    "time": "2026-09-04",
+    "_ts": 1788564497000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "英国建筑业持续收缩拖累经济复苏",
+    "summary": "中新社伦敦9月4日电 (记者 欧阳开宇)4日公布的标普全球建筑业采购经理人指数(PMI)数据显示，英国建筑业景气度持续走弱，8月行业连续第20个月陷入收缩区间，住宅建造板块低迷，成为拖累基建地产领域的核心短板。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690753.shtml",
+    "time": "2026-09-04",
+    "_ts": 1788564475000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "美国务卿鲁比奥将访问哥伦比亚、厄瓜多尔、秘鲁",
+    "summary": "中新社华盛顿9月4日电 (记者 沙晗汀)美国国务院当地时间4日宣布，国务卿鲁比奥将于本月8日至10日访问哥伦比亚、厄瓜多尔和秘鲁。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690754.shtml",
+    "time": "2026-09-04",
+    "_ts": 1788564425000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
     "title": "澳大利亚纯电动汽车月销量首次超过汽油车",
     "summary": "中新社悉尼9月4日电 (记者 薄雯雯)澳大利亚气候变化与能源部长鲍恩4日发表声明称，今年8月澳大利亚纯电动汽车销量首次超过汽油车。",
     "source": "中国新闻网",
@@ -370,33 +400,33 @@
     "_isFresh": true
   },
   {
-    "cat": "国际局势",
-    "title": "「究竟是誰在批准什麼？」：光州雙年展台灣復名、中國退展，改名風波背後的角力",
-    "summary": "8月初，韓國舉行的光州雙年展因主辦單位改動「台灣館」名稱陷入爭議。事件曝光後，台灣參展藝術家提出抗議，當地許多藝術家、民眾也進行聲援。主辦單位最終同意恢復使用「台灣館」，但引起中方不滿。",
-    "source": "BBC中文",
-    "url": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&amp;at_campaign=rss",
+    "cat": "争议新闻",
+    "title": "教育部回应教师队伍建设热点问题",
+    "summary": "点击查看新闻详情",
+    "source": "手机网易网",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3SkdQY3JyTHY3eXdveTJBcUxCN2VVNlFORi1iMUUwLS01R19xN1BENEpDcV9FdXh1VlRienBxUlFpYjV2eUxNb3Z3WC1IX2t5RDBHZGdZMjJmbHlPaVJGc1NR?oc=5",
     "time": "2026-09-04",
-    "_ts": 1788532396000,
+    "_ts": 1788559461000,
     "_isFresh": true
   },
   {
-    "cat": "国际局势",
-    "title": "瑙鲁反对 太平洋岛国论坛峰会未对中国导弹试验达成一致谴责",
-    "summary": "太平洋岛国领导人在峰会上一致同意对中国向其水域发射弹道导弹表示集体“关切”，但他们周四表示，该声明获得并非一致通过，且未对北京的行为做出更为严厉的谴责。今年的峰会在帕劳举行。",
-    "source": "RFI中文",
-    "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260904-%E7%91%99%E9%B2%81%E5%8F%8D%E5%AF%B9-%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B2%9B%E5%9B%BD%E8%AE%BA%E5%9D%9B%E5%B3%B0%E4%BC%9A%E6%9C%AA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%AF%BC%E5%BC%B9%E8%AF%95%E9%AA%8C%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4%E8%B0%B4%E8%B4%A3",
-    "time": "2026-09-04",
-    "_ts": 1788514043000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "伊朗强烈谴责美方袭击平民 打击两处美军基地作为报复",
-    "summary": "中新网北京9月4日电 德黑兰消息：伊朗方面3日谴责美军袭击伊朗平民，并对位于科威特和阿联酋境内的美军基地实施报复性袭击。",
+    "cat": "争议新闻",
+    "title": "西藏自治区紧急援助尼泊尔贝雷桥等物资完成交接",
+    "summary": "中新社西藏日喀则9月4日电 (记者 江飞波)西藏自治区向尼泊尔紧急援助的贝雷桥等物资9月4日在日喀则市里孜口岸顺利完成交接。",
     "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/09-04/10690235.shtml",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690696.shtml",
     "time": "2026-09-04",
-    "_ts": 1788501205000,
+    "_ts": 1788530828000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "广东防御台风“沙德尔” 组织水库预泄腾库2.8亿立方米",
+    "summary": "中新网广州9月4日电 (记者 王坚)广东省水利厅4日晚通报称，今年第18号台风“沙德尔”带来的强降雨给广东造成了严重影响，3日18时韩江发生2026年第1号洪水。为防御“沙德尔”，该厅下发45宗纳雨能力小于150毫米的水库清单，组织预泄腾库2.8亿立方米，提前做好拦洪运用准备。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690686.shtml",
+    "time": "2026-09-04",
+    "_ts": 1788530490000,
     "_isFresh": true
   },
   {
@@ -431,22 +461,12 @@
   },
   {
     "cat": "争议新闻",
-    "title": "又到一年开学季 中国科技馆推出聚焦AI时代“我的大学”深度对谈",
-    "summary": "中新网北京9月4日电 (记者 孙自法)金秋九月，又到一年开学季，一批青年即将迈入大学校园。面对专业选择、人生规划和职业发展，年轻人既期待找到方向，也担心一次选择影响未来。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690622.shtml",
-    "time": "2026-09-04",
-    "_ts": 1788527829000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "联合国“海洋十年”2026青岛国际海洋素养大会举行",
-    "summary": "中新网青岛9月4日电 (张孝鹏)联合国“海洋十年”2026青岛国际海洋素养大会4日在青岛市崂山区开幕。大会吸引来自20余个国家和地区的教育界、科研界代表相聚，围绕课程建设、师资培育、场景构建等方向展开研讨。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690621.shtml",
-    "time": "2026-09-04",
-    "_ts": 1788527807000,
+    "title": "扩容后，金砖国家经贸合作重深耕（环球热点）",
+    "summary": "点击查看新闻详情",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Yd0M4Q2RCZ09GUFF4eEQ4Q1JFaEo0ZURLbDVXVmZzenVBRjV4b1E4R25RUFhGdGZISmItaFVGSTNBLU9Kc19vVzlmOFFvRExVNldzNnlzR000Zm9ocWxYTkRsajFXNzBUUlpIdndpWTlXdjFwQ0IwOA?oc=5",
+    "time": "2026-09-05",
+    "_ts": 1788567420000,
     "_isFresh": true
   },
   {
@@ -480,23 +500,13 @@
     "_isFresh": true
   },
   {
-    "cat": "争议新闻",
-    "title": "广西崇左市宁明县多措并举推进灾后农业复产工作",
-    "summary": "中新网崇左9月4日电(吕桂文)受台风“紫檀”影响，广西崇左市宁明县近期遭遇严重洪涝灾害，农业生产损失惨重。洪水退去后，该县及早谋划，迅速行动，多措并举推动灾后复产复种工作，以弥补台风造成的经济损失。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690723.shtml",
-    "time": "2026-09-04",
-    "_ts": 1788532356000,
-    "_isFresh": true
-  },
-  {
-    "cat": "争议新闻",
-    "title": "文博IP从展厅走向街头 上海旅游节经典活动季启幕",
-    "summary": "中新网上海9月4日电 (杨硕 李佳佳)第37届上海旅游节大巡游以“上海之约·美好相逢”为主题，近期将在外滩金牛广场启幕。本届大巡游在方队节目编排上首次实现与同期重磅文博展览的IP联动，让文博IP从“展厅”走向“街头”。这是记者4日从第37届上海旅游节经典活动季重点主题活动新闻通气会上获得的信息。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690722.shtml",
-    "time": "2026-09-04",
-    "_ts": 1788532335000,
+    "cat": "健康养生",
+    "title": "HLB有望推出首款FDA批准的K-生物抗癌药物，挑战胆管癌新药",
+    "summary": "点击查看新闻详情",
+    "source": "亚洲日报",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wMlphZmhvSzROWUI5Ti1CaXEycTVhR25YTHhsUUp1RWhZOUllVkpmMGJUWF9naS1pcTFZYUNKYUlkbHptV216QVNTb2NnZWpEcW9CY3g5ZUhzUGs?oc=5",
+    "time": "2026-09-05",
+    "_ts": 1788566640000,
     "_isFresh": true
   },
   {
@@ -514,7 +524,7 @@
     "title": "9月4日投资日历 | 医保高质量发展发布会今日举办",
     "summary": "点击查看新闻详情",
     "source": "东方财富",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93a1hJOWlaWUFPUnNSRlY4OWZ0cWdicGZ1aDlxMEpZTjlUY1pfaG5yRGpIWGNJU3NORDJYa2xnWS1YeWM0dTE2MFVtamlzVVpyZmNFTUpYWVBKMktqWmwzSVpUcHRUZw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wbG5mb1RiZk04dmhUbHQ4WHdmbFNhZTlUdko4V0FkY3JuekI0Vm10WUtFelVreERWYWRjN2lnOW5aSnNlZXcwOVM2cEFBVVVoX1l6WWlqZlByZ0FXSHhwaQ?oc=5",
     "time": "2026-09-04",
     "_ts": 1788516132000,
     "_isFresh": true
@@ -523,7 +533,7 @@
     "cat": "健康养生",
     "title": "今年珠海第三款！泰诺麦博1类新药芮特韦拜单抗注射液获批上市",
     "summary": "点击查看新闻详情",
-    "source": "Sohu",
+    "source": "sohu.com",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdm1KeWpVZ0N1WUNBQlFnWnhwQ05ZOTlTc2I4dGdRYjB6ZDk0b08yakFJZjFIc0doZDVoWnRyT0xFbTZNeThIQU0xMzRFaXRXYmtRVXB6ZFlYTmpDS0lWUnFfclBSZjlEZVdlVUxWdkJGNjZILUphMHpuWnlVLVBnM09uNUNuOGZxR3JJSw?oc=5",
     "time": "2026-09-04",
     "_ts": 1788504118000,
@@ -551,12 +561,22 @@
   },
   {
     "cat": "健康养生",
-    "title": "多方在广州签约共建烧伤跨境医疗服务枢纽",
-    "summary": "中新网广州9月4日电 (记者 蔡敏婕)南福烧伤国际论坛4日在广州开幕。广州市红十字会医院在会议上与多方签约共建烧伤跨境医疗服务枢纽，并且构建烧伤航空医疗救护网络体系。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690711.shtml",
+    "title": "医保部门将试行医疗服务价格项目预立项制度，实行“一省立项、全国跟进”，推进实现获批应用与价格立项无缝衔接",
+    "summary": "点击查看新闻详情",
+    "source": "川观新闻",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tc2U2TjdISFNyNmZyWWdsNnhSbFY3WEJfRXpiNEVIOTFzSER5UWpwaUlMckZNZlZWU2U2WU9zVkhpSlpTOTdOY0M4VWJNUQ?oc=5",
     "time": "2026-09-04",
-    "_ts": 1788531643000,
+    "_ts": 1788497760000,
+    "_isFresh": true
+  },
+  {
+    "cat": "健康养生",
+    "title": "刚刚！云顶新耀突破性新药获批上市",
+    "summary": "点击查看新闻详情",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBRXJyV0tyMXdyOElhZ0puU09pVlFaa3pTdjhyNlhkcFBYcUo0Vkc0U3B0bGxUTHVLS2syUFJYSzJaWjViTnhMa0ZrX0wxM3YxUHdCUS1xQ1Jzd2ZfY0RwenZ5bUtHYThpR1FYVlc0WXU2X192RWJ3Rg?oc=5",
+    "time": "2026-09-04",
+    "_ts": 1788494400000,
     "_isFresh": true
   },
   {
@@ -571,32 +591,12 @@
   },
   {
     "cat": "健康养生",
-    "title": "云顶新耀心血管疾病领域首款新药星必妥获批",
-    "summary": "点击查看新闻详情",
-    "source": "东方财富",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TX3VPeTZnT1hzR2MtdTZPLS1RbXBqVHpiVEJWMWQ3bloxSUhwLWFTYTFKTWpRZUVDZGhNSVl6NldkNWlBMnVQUGVycFRLVXlSWUs5dDZsb0pGR0JtZFVSUA?oc=5",
-    "time": "2026-09-04",
-    "_ts": 1788483698000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
     "title": "先声药业：英沐乐获药监局批准上市",
     "summary": "点击查看新闻详情",
     "source": "东方财富",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Ha1BpTUtiMmxfZEpZUHMxR2IwUkJNVjZLbzM5M1YtTHc1c20yb3g2YUVYWUtkV0FBeEd6NjZJNndnSDdJT0tnRTNYOWVVaFpTNExOQ0J5ZllkUG5TVzd6Yk5mdzZrUQ?oc=5",
     "time": "2026-09-04",
     "_ts": 1788483607000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "【8点见】保定卫健委通报“家长班级群自报干部身份求关照”",
-    "summary": "点击查看新闻详情",
-    "source": "央视网",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54UzZQZmVzbkFXZTRZVnZmdlpjbzBZQU0xeXZWTTVOc3BiTVBZeXg2TjNxdlg5QzNKbmxFYjk2dGdJTTA3TjdZejl0N0Z6eGdfOV9zY0k5dS1Pemd2RkZyR3ZVaTVLT2x4OF9YZDEyTDR4VjMxNkxkVg?oc=5",
-    "time": "2026-09-04",
-    "_ts": 1788480003000,
     "_isFresh": true
   }
 ]
