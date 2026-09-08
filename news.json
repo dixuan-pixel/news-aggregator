@@ -471,6 +471,16 @@
   },
   {
     "cat": "争议新闻",
+    "title": "早报漫画",
+    "summary": "点击查看新闻详情",
+    "source": "联合早报",
+    "url": "https://www.zaobao.com.sg/forum/comic/story20260909-9641455",
+    "time": "2026-09-08",
+    "_ts": 1788901200000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
     "title": "江西遂川高坪镇泥石流已致12人遇难 仍有1人失联",
     "summary": "中新网江西遂川9月8日电 (记者 李韵涵 吴鹏泉 刘力鑫)遂川前线救援指挥部8日通报，截至当日18时，遂川县高坪镇明坑村泥石流灾害累计搜寻发现11名遇难者遗体，其中当日搜寻发现7名。",
     "source": "中国新闻网",
@@ -481,42 +491,32 @@
   },
   {
     "cat": "争议新闻",
-    "title": "平陆运河通航后缩短内河航程560公里 节约运输费超50亿",
-    "summary": "记者今天(9月7日)从广西壮族自治区人民政府新闻办公室举行的新闻发布会上获悉，经过四年艰苦奋战，平陆运河主体工程已经顺利通过验收，广西水运江河海一体化智慧调度平台全面上线，应急保障、货源组织与运营筹备等工作落实到位，各项运行手续全部齐备。平陆运河将于9月16日建成通航。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692904.shtml",
+    "title": "微信回应“视频号崩了”：刚刚视频号服务器出现了抖动，导致部分功能出现异常，目前正在火速恢复中热点新闻事件社会新闻你怎么看",
+    "summary": "点击查看新闻详情",
+    "source": "潮新闻客户端",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlYnB0QnBuUlZTN040cEdqSVZMeXhOY1MzQXVHNnNLdXNlVnFVcEVJUjM5alhYc3lERkFTU2c5bjBBcWVrSkdxc2p2OE1mQ2t3YTM5ckFVRVhPWFBhTjdDaGhKc3ZxZUtMRlFhd0hBQW91WExNcVRB?oc=5",
     "time": "2026-09-08",
-    "_ts": 1788873928000,
+    "_ts": 1788863158000,
     "_isFresh": true
   },
   {
-    "cat": "争议新闻",
-    "title": "案板烟火暖银川：肉铺里长出的地摊火锅",
+    "cat": "健康养生",
+    "title": "武汉市卫健委通报“非法辅助生殖地下实验室”：场所已被查封，8名涉案人员被控制",
     "summary": "点击查看新闻详情",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692888.shtml",
+    "source": "finance.sina.com.cn",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43NW90VWxrSmwxZzhDRWk3dTBTdjlQaVFzYXRPRFRqTHhuSTBWWDN4NlFCY093dzFMTDgxWVgtWWRvNFN6bFBsYklqQnFfekdWQ0s0M3J2X1lLVVZMRDBia214S0MwY2dQbG9mN1NQRGdmdmJxSVE?oc=5",
     "time": "2026-09-08",
-    "_ts": 1788872717000,
+    "_ts": 1788864600000,
     "_isFresh": true
   },
   {
     "cat": "健康养生",
     "title": "武汉市卫健委通报",
     "summary": "点击查看新闻详情",
-    "source": "新浪财经",
+    "source": "finance.sina.com.cn",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LcndNSnNzMk81eHUwX1NRbHd0ZVo0V2s4SXF4cVAySTIzdHpYSTRkWldqNDVOWkRhNmxYMmtTUW5YVHRob0pxMEoxSU9XMEVmOTFpYUw2LWVVa3pIWF9LS1FMampUY2JtSTZoZ2xHM0VBM3Bubnc?oc=5",
     "time": "2026-09-08",
     "_ts": 1788864420000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "#媒体原创 武汉卫健委通报：非法辅助生殖地下实验室已查封，8名涉案人员被控制，正进一步调查取证",
-    "summary": "点击查看新闻详情",
-    "source": "Sohu",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWWdTVFZrV3lNOHl3T0hyLWpTWVQ3WUVsQnJYSkVXamRHbmpMN3Z1eWFrTzZwcHE0bDFiUE4yemtKLW5zbXlqSEVWeUc3eE1jSGVfR0xIVjRLU3ctRkUxcVEtX0RUSlpBS0I4WWFUUGxXSTBZV2ctQzdtdzA4LXB2dVVfMmdMYmhGWnNRUg?oc=5",
-    "time": "2026-09-08",
-    "_ts": 1788864214000,
     "_isFresh": true
   },
   {
@@ -583,7 +583,7 @@
     "cat": "健康养生",
     "title": "珍视明被药监局通报，“国民眼药水”神话不再？",
     "summary": "点击查看新闻详情",
-    "source": "观察者",
+    "source": "guancha.cn",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jTUhCVVZHZmVwenhLYktJU2FhckxsMk9LcGxsRnZ5WEI3ZFdhNW5ZQzlCdEoydl9kX242TmpNSFhNdWpiVGU4WHZIalZOR3d3ejlyaFg2SmtwVjIzU2dGempTYTJRb0pqOEhn?oc=5",
     "time": "2026-09-08",
     "_ts": 1788862140000,
@@ -591,12 +591,12 @@
   },
   {
     "cat": "健康养生",
-    "title": "阿斯利康重磅乳腺癌新药在美国上市",
+    "title": "首款AI辅助新药获批，三年内密集验证！AI制药的“黄金窗口”已至",
     "summary": "点击查看新闻详情",
-    "source": "新浪财经",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLS12OTU0VTJlcnZ0dFhibjg1bzJvZk1ORFdYalQwSk5GNzVSS25CMERWRHl3RjNDb1lBSzZkekxZTVZyTlZHNHhObUptcm9nV09URi1rMjlQdEJIYjNCY3IzSHZFajRUM3V4NlJRY1BNRWllWVJhaHpvMGRUbzdRa3FRREc3V2c?oc=5",
+    "source": "新浪网",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdHpudWdmN28wRU5VTmc1RVZTSG5TbkZ3dXFXbGplZnZ5YXF4eE1Kd0JHVFVSMVB6MnVhWC1PM1BtdWFFbDlfa2lhd0haeDZ4bTRqRmVsRmVLYUxyQTFubkVtdmZZYjN1c3pGdGF0Ukx4a2ZHai14eHJWV1NuSzhSWERBdw?oc=5",
     "time": "2026-09-08",
-    "_ts": 1788840240000,
+    "_ts": 1788837073000,
     "_isFresh": true
   }
 ]
