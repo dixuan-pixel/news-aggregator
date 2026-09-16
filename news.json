@@ -301,6 +301,56 @@
   },
   {
     "cat": "国际局势",
+    "title": "外媒：美联储三年多来首次加息，特朗普强烈反对",
+    "summary": "中新网9月17日电 据英国广播公司(BBC)报道，当地时间16日，美国利率三年多来首次上调，为了遏制物价上涨，美联储可能还会进一步提高利率。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697957.shtml",
+    "time": "2026-09-16",
+    "_ts": 1789598354000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "时隔三年多 美联储宣布加息25个基点",
+    "summary": "当地时间9月16日，美联储宣布将联邦基金利率目标区间上调25个基点，使基准基金利率从3.50%至3.75%上调到3.75%至4%。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697952.shtml",
+    "time": "2026-09-16",
+    "_ts": 1789595989000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "英国宣布采购方案 为陆军列装新型侦察无人机",
+    "summary": "中新社伦敦9月16日电 (记者 欧阳开宇)英国政府16日宣布全新军用无人机采购方案，投入4亿英镑资金，为陆军批量列装新型侦察无人机系统，升级前线战场感知与情报侦察能力。",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697950.shtml",
+    "time": "2026-09-16",
+    "_ts": 1789595701000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "被视为科索沃独立英雄的前总统涉战争罪获刑25年",
+    "summary": "九十年代为争取科索沃从塞尔维亚独立而发动武装斗争的科索沃前总统塔其，因犯下谋杀、酷刑、非法拘禁等战争罪而于周三被海牙国际法庭判处25年徒刑。",
+    "source": "via REUTERS - Pool",
+    "url": "http://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260916-%E8%A2%AB%E8%A7%86%E4%B8%BA%E7%A7%91%E7%B4%A2%E6%B2%83%E7%8B%AC%E7%AB%8B%E8%8B%B1%E9%9B%84%E7%9A%84%E5%89%8D%E6%80%BB%E7%BB%9F%E6%B6%89%E6%88%98%E4%BA%89%E7%BD%AA%E8%8E%B7%E5%88%9125%E5%B9%B4",
+    "time": "2026-09-16",
+    "_ts": 1789593148000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "美联储三年来首次加息 暗示将继续收紧政策 特朗普要求“迅速”下调利率",
+    "summary": "美国联邦储备委员会周三（9月16日）宣布加息，将联邦基金利率目标区间上调至3.75%至4.00%，并暗示未来数月可能继续提高借贷成本，以应对油价飙升、中东冲突升级以及通胀压力持续不退。美联储主席凯文·沃什同时强调，央行将恪守自身职责边界，其独立性是“双向的”，贸易和财政政策应由行政部门负责。美联储宣布加息后，特朗普要求",
+    "source": "REUTERS - Evelyn Hockstein",
+    "url": "http://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260916-%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%89%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%8A%A0%E6%81%AF-%E6%9A%97%E7%A4%BA%E5%B0%86%E7%BB%A7%E7%BB%AD%E6%94%B6%E7%B4%A7%E6%94%BF%E7%AD%96-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82-%E8%BF%85%E9%80%9F-%E4%B8%8B%E8%B0%83%E5%88%A9%E7%8E%87",
+    "time": "2026-09-16",
+    "_ts": 1789593056000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
     "title": "日本茨城县发生4.8级地震 东京有明显震感",
     "summary": "当地时间17日0时7分左右，日本关东地区发生地震。据日本气象厅消息，日本茨城县南部发生4.8级地震，最大震感为震度3，震源深度70公里。",
     "source": "中国新闻网",
@@ -350,56 +400,6 @@
     "_isFresh": true
   },
   {
-    "cat": "国际局势",
-    "title": "美媒曝：美国召集八国军方密会 为伊朗战事以来首次",
-    "summary": "中新网9月16日电 据美国阿克西奥斯新闻网站15日报道，两名以色列官员透露，上周，美国军方秘密召集了以色列和沙特阿拉伯、阿拉伯联合酋长国、巴林、科威特、卡塔尔、约旦、埃及的军方高级官员在德国开会，以讨论伊朗战事和中东地区紧张局势。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697716.shtml",
-    "time": "2026-09-16",
-    "_ts": 1789556929000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "视频 人工智能安全警告日益紧迫 美国领导人的回应",
-    "summary": "科技界针对人工智能潜在危害发出的警告日益紧迫，各国呼吁政府加强监管的呼声也不断上升，不过特朗普政府反对，请看视频报道。",
-    "source": "REUTERS - Evelyn Hockstein",
-    "url": "http://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260916-%E8%A7%86%E9%A2%91-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8%E8%AD%A6%E5%91%8A%E6%97%A5%E7%9B%8A%E7%B4%A7%E8%BF%AB-%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%9A%84%E5%9B%9E%E5%BA%94",
-    "time": "2026-09-16",
-    "_ts": 1789568964000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "北京收紧出境条件引发忧惧之际 报告又揭囚犯仍遭酷刑与剥夺医疗权利",
-    "summary": "大家好，周三9月16日的法国主流日报头版话题各有侧重，例如《费加罗报》关注法国政局：前文化部长拉希达·达蒂遭控“腐败”今将在巴黎法庭受审。《十字架报》聚焦人工智能的争论，指出这是一种”恐惧营销“。《解放报》封面则推出对朋克摇滚乐队Les的主唱之一、拥有永不满足的自由精神的Rita Mitsouko纪念专题，《解放报》的",
-    "source": "RFI中文",
-    "url": "http://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260916-%E5%8C%97%E4%BA%AC%E6%94%B6%E7%B4%A7%E5%87%BA%E5%A2%83%E6%9D%A1%E4%BB%B6%E5%BC%95%E5%8F%91%E5%BF%A7%E6%83%A7%E4%B9%8B%E9%99%85-%E6%8A%A5%E5%91%8A%E5%8F%88%E6%8F%AD%E5%9B%9A%E7%8A%AF%E4%BB%8D%E9%81%AD%E9%85%B7%E5%88%91%E8%99%90%E5%BE%85",
-    "time": "2026-09-16",
-    "_ts": 1789560628000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "2026年泰国高尔夫旅游交易会在曼谷举行",
-    "summary": "中新网曼谷9月16日电(李映民 赵婧楠)2026年泰国高尔夫旅游交易会15日在曼谷举行，吸引来自北美、欧洲、南亚、东南亚、大洋洲及东北亚的49家国际买方企业和63家泰国旅游业者参加。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697589.shtml",
-    "time": "2026-09-16",
-    "_ts": 1789546980000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "韩国法院宣判民间无人机“侵入朝鲜”案",
-    "summary": "据韩国方面消息，首尔中央地方法院16日针对民间无人机“侵入朝鲜”一案作出一审判决，三名嫌疑人涉一般利敌罪不成立，但因违反“航空安全法”被判处有期徒刑6个月至8个月不等，缓刑两年。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697548.shtml",
-    "time": "2026-09-16",
-    "_ts": 1789544902000,
-    "_isFresh": true
-  },
-  {
     "cat": "争议新闻",
     "title": "筑牢太行山黄河生态屏障 河南济源“十五五”拟完成3.36万亩营造林",
     "summary": "中新网郑州9月16日电 (记者 王宇)河南省“开局起步‘十五五’奋力谱写新篇章”系列新闻发布会济源专场16日在郑州举行。济源产城融合示范区管委会副主任、副市长王笑非介绍，为进一步筑牢太行山、黄河岸域双重生态屏障，济源“十五五”期间计划完成营造林3.36万亩。",
@@ -444,9 +444,19 @@
     "title": "紫牛热点｜“长春高空抛砖致死案”民事诉讼宣判：公寓物业、万达、夜市共担40%责任",
     "summary": "点击查看新闻详情",
     "source": "紫牛新闻",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zaW5hZ05WTThEeTI5MWloTEEwNHJXcmxjNjdxX18zcXJzLUJ5VUlZbm13aU5UUkRoRVRMREdmLTF3bnZCNmxoVUs5bzJ6Z3FmekF4RVphdThrS0dWc1FrdGhub3lsN2JG?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ld1A5Uk1Uc0VtbjdmVnBqWXJZRDVubExETmtVRHJrQUk1eDJnMlFTVEpCVFFwWUJ4MnZPaWlEb2VFc1puLWZzZ3VLLW5NVnBxVnVha0dYVVNESVJMNEN2ZjNhY2NFQXZLbFR1RQ?oc=5",
     "time": "2026-09-16",
     "_ts": 1789553220000,
+    "_isFresh": true
+  },
+  {
+    "cat": "争议新闻",
+    "title": "“熟练使用AI”，正成为简历中的“噪音”？",
+    "summary": "AI技能被高频写进招聘需求和简历，但企业与求职者对AI能力的认知尚未对齐",
+    "source": "中国新闻网",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-17/10697955.shtml",
+    "time": "2026-09-16",
+    "_ts": 1789597321000,
     "_isFresh": true
   },
   {
@@ -490,16 +500,6 @@
     "_isFresh": true
   },
   {
-    "cat": "争议新闻",
-    "title": "浙江洞头渔民“出征记”：万事俱备 盼丰收满载",
-    "summary": "中新网温州9月16日电(周健 沈灿辉 洪高岑)历经四个半月的伏季休渔养护，东海海域渔汛丰盈、生机焕发。9月16日12时，浙江温州洞头区也迎来全面开渔，沉寂许久的渔港再度沸腾，渔民们重整渔具、扬帆起航，奔赴蔚蓝大海，开启新一轮耕海牧渔的丰收征程。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-16/10697927.shtml",
-    "time": "2026-09-16",
-    "_ts": 1789567880000,
-    "_isFresh": true
-  },
-  {
     "cat": "健康养生",
     "title": "翰森制药：1类新药注射用HS‑20197获批开展晚期实体瘤临床试验",
     "summary": "点击查看新闻详情",
@@ -523,10 +523,20 @@
     "cat": "健康养生",
     "title": "全国首针，天津开打！新升级三组分百白破疫苗接种启动",
     "summary": "点击查看新闻详情",
-    "source": "tech.china.com",
+    "source": "中华网",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JUGE2bmNUMWZmeEpxS1pDMm9iVmJkVENRYWZjNE5fbWJ3V2ltNUQ1Wlp2UjcxakRXWlhsSTRPQWNYbi10MEEtYkZnV1ZfTVcxLWN5eFkzaWppYmtvUFd0dkRDTEdRV1RkbWZmLXln?oc=5",
     "time": "2026-09-16",
     "_ts": 1789547700000,
+    "_isFresh": true
+  },
+  {
+    "cat": "健康养生",
+    "title": "2026年第37周09.07-09.13国内创新药/改良型新药申请临床/获批临床/申请上市/获批上市数据分析",
+    "summary": "点击查看新闻详情",
+    "source": "摩熵医药",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LS2NWdUZ0VVBFemx0eGdyU3lGT2YzbTMxZkxaMmhsblYtcVkxbWFQNS00QWZ1c2EySlV0Y1pGWG5fSk55MzZaS1BURXM5QlNuczZwRnNrRQ?oc=5",
+    "time": "2026-09-16",
+    "_ts": 1789546101000,
     "_isFresh": true
   },
   {
@@ -587,16 +597,6 @@
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Qc3J6QTJqMVVIYW5wUG9mTllMOENkNl9nbEwxQk5LQ05PWndLbmNkdk9nc3RuY2xVYXlFMU9FNFRQUVRlcy1nWmZkd1lXUkNacHNlS0NBcHZBWUhnMnBvSmZYWEM2SkpWN08wZzhhMDJrUUtvbkZpZw?oc=5",
     "time": "2026-09-16",
     "_ts": 1789521960000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "宁夏多部门联合发布雷暴哮喘健康风险提示",
-    "summary": "中新网银川9月15日电 (记者 杨迪)9月15日，宁夏气象局、宁夏疾病预防控制局联合发布雷暴哮喘健康风险提示，请公众提前做好防护。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/jk/2026/09-15/10697063.shtml",
-    "time": "2026-09-15",
-    "_ts": 1789477036000,
     "_isFresh": true
   }
 ]
