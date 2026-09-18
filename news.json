@@ -101,6 +101,26 @@
   },
   {
     "cat": "科技前沿",
+    "title": "苹果发布 Xcode 27.1 首个测试版，为 iOS App 开发者带来 iPhone Duo 模拟器支持",
+    "summary": "IT之家 9 月 19 日消息，苹果今日发布 Xcode 27.1 首个测试版，为开发者带来对 iPhone Duo 的模拟器支持。 Xcode 27.1 的发布符合苹果此前承诺在 9 月底前推出相关开发工具的目标。对于大多数应用而言，要针对 iPhone Duo 做好适配和优化，预计需要数周甚至更长时间，因此开发者能",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/1/004/348.htm",
+    "time": "2026-09-18",
+    "_ts": 1789770776000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
+    "title": "因胎压监测系统存在软件问题，Jeep 宣布在美国市场召回超 20 万辆汽车",
+    "summary": "IT之家 9 月 19 日消息，Jeep 宣布在美国召回超过 20 万辆汽车，原因是部分车型的胎压监测系统（TPMS）存在软件问题，可能无法正常检测轮胎低压情况，也无法点亮低胎压警告灯。 Jeep 表示，如果受影响车辆的 TPMS 出现该软件故障，系统将无法准确识别轮胎压力过低的情况。Jeep 计划从 2026 年 9",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/1/004/347.htm",
+    "time": "2026-09-18",
+    "_ts": 1789770355000,
+    "_isFresh": true
+  },
+  {
+    "cat": "科技前沿",
     "title": "消息称特斯拉针对 Optimus 机器人业务启动量产审厂，多家供应链企业回应",
     "summary": "IT之家 9 月 18 日消息，日前，21 世纪经济报道援引产业链人士消息称，特斯拉相关团队已于 9 月 16 日落地宁波，并于 17 日开启新一轮针对旗下机器人业务的量产审厂。据称此轮审厂将 实质导向机器人 Optimus 的量产 ，已向供应链企业下达相关订单。 按计划，特斯拉今年将下线 约 5 万台 Optimus",
     "source": "IT之家",
@@ -177,26 +197,6 @@
     "url": "https://www.ithome.com/1/004/309.htm",
     "time": "2026-09-18",
     "_ts": 1789731620000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "冲刺“新形态”：消息称两款阔折叠新机明年 Q1 亮相，首台安卓阔直板争取 3 月发布",
-    "summary": "IT之家 9 月 18 日消息，@数码闲聊站 今天（18 日）下午爆料称，到了明年第一季度， 两款阔折叠新机 将会正式亮相，而首台安卓阔直板手机则争取同年 3 月。 该博主称，“新形态”的机型（IT之家注：结合语境，预计指阔折叠、阔直板手机）确实更受欢迎，而“其他厂家”则处于刚刚立项的状态，争取 明年下半年 上线。 至",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/1/004/271.htm",
-    "time": "2026-09-18",
-    "_ts": 1789725415000,
-    "_isFresh": true
-  },
-  {
-    "cat": "科技前沿",
-    "title": "小鹏 GX 上新 「新月银」车色，上市 4 个月累计交付破 2.5 万台",
-    "summary": "IT之家 9 月 18 日消息，小鹏汽车今日宣布，小鹏 GX 「新月银」正式上新。据介绍，新月银，是小鹏汽车探索未来的标志性色彩；科技感与未来感，让它成为最受欢迎的车色之一，也成为小鹏品牌精神的一抹底色。 IT之家注意到，小鹏 GX 旗舰 SUV 于 5 月 20 日正式上市，提供纯电、增程两种不同动力， 售价区间为 ",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/1/004/270.htm",
-    "time": "2026-09-18",
-    "_ts": 1789725412000,
     "_isFresh": true
   },
   {
@@ -301,6 +301,46 @@
   },
   {
     "cat": "国际局势",
+    "title": "特朗普宣布禁止 CNN、MSNOW 和 Politico 进入白宫采访",
+    "summary": "特朗普在针对媒体的战争中迈出了新的一步，他于周五宣布，他将“立即”禁止电视频道 CNN 和 MSNOW（前身为 MSNBC）以及网络媒体 Politico 进入白宫。 美国总统在他的真相社交网络上做出了这一史无前例的宣布，但其实施仍充满不确定性。",
+    "source": "REUTERS - Evelyn Hockstein",
+    "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260918-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E7%A6%81%E6%AD%A2-cnn-msnow-%E5%92%8C-politico-%E8%BF%9B%E5%85%A5%E7%99%BD%E5%AE%AB%E9%87%87%E8%AE%BF",
+    "time": "2026-09-18",
+    "_ts": 1789764990000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "法再度取消网红杜阿莱姆（Doualemn）强制离境令",
+    "summary": "据法新社18日报道，巴黎行政法院推翻了此前因在社交媒体上“煽动暴力”而被定罪的阿尔及利亚网红杜阿莱姆（Doualemn）的“紧急”驱逐令，并撤销了吊销其居留许可的决定。",
+    "source": "© lefigaro",
+    "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260918-%E6%B3%95%E5%86%8D%E5%BA%A6%E5%8F%96%E6%B6%88%E7%BD%91%E7%BA%A2%E6%9D%9C%E9%98%BF%E8%8E%B1%E5%A7%86-doualemn-%E5%BC%BA%E5%88%B6%E7%A6%BB%E5%A2%83%E4%BB%A4",
+    "time": "2026-09-18",
+    "_ts": 1789764174000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "德国政府宣布采取措施降低燃油价格",
+    "summary": "德国《图片报》称，德国政府计划将汽油能源税每升下调0.14欧元（约合0.16美元），另据悉正制定与油价挂钩的汽油价格上限。而两天后，两场至关重要的地区选举即将举行。",
+    "source": "RFI中文",
+    "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260918-%E5%BE%B7%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E9%87%87%E5%8F%96%E6%8E%AA%E6%96%BD%E9%99%8D%E4%BD%8E%E7%87%83%E6%B2%B9%E4%BB%B7%E6%A0%BC",
+    "time": "2026-09-18",
+    "_ts": 1789761661000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
+    "title": "美媒：国会对F-35零件被转运至香港一事展开调查",
+    "summary": "美国政治新闻网站《政客》（POLITICO）独家报导，一批原本从澳大利亚运往美国维修的F-35战机敏感零组件，今年夏季在横越太平洋途中被意外改道，最终运抵香港，引发美国国会及国防部门调查，也使外界担心中国可能取得F-35关键技术。",
+    "source": "AP - Michel Euler",
+    "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260918-%E7%BE%8E%E5%AA%92-%E5%9B%BD%E4%BC%9A%E5%AF%B9f-35%E9%9B%B6%E4%BB%B6%E8%A2%AB%E8%BD%AC%E8%BF%90%E8%87%B3%E9%A6%99%E6%B8%AF%E4%B8%80%E4%BA%8B%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5",
+    "time": "2026-09-18",
+    "_ts": 1789760872000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
     "title": "安理会完成联合国秘书长遴选第三轮意向性投票",
     "summary": "当地时间9月18日，安理会当月轮值主席、法国常驻联合国代表杰罗姆·博纳丰宣布，安理会当日已就下一任秘书长遴选完成第三轮意向性投票。意向性投票结果不对外公布，将通过候选人推举国通知各候选人。",
     "source": "中国新闻网",
@@ -331,6 +371,16 @@
   },
   {
     "cat": "国际局势",
+    "title": "世界各国领导人齐聚纽约，共同应对全球紧张局势、冲突、海上袭击和人口流离",
+    "summary": "点击查看新闻详情",
+    "source": "美国之音",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYzl3dGdrZWJ0QzVIQ1VPcF9BejlJOW1XWllDZEZWQ3c3cG1ZTzZmSk5GM2E4ZVNsRTNTaGVCMnpCUUNnN1R3dHFZbElvVncyMk1SRXg3Y1lhOWhvMXRudG5hRURjVWdyYW9sOERWeTdfTGpQeVZEMEZFcTNQMVZUbjV5cE1Gel9kRHVYTHdQTDFCTWRHcXBQUnpkTWdFYWZBcVRtdDRydkh6NG0wUDBPN0RWOVhtYzZNN0owTXdvV1VZd2NwMnlQZ2Y5LXlRamtQb3NicjVfQmo3UmgtVVZBY9IB4wFBVV95cUxPSENEdlN2WjltLV9McEYxQjRQX2RRY0xTTGhuRDh4TnE0b1RSc0VUUVBhYjU2Y2pRTVI1WXFjcWZSUlZ4cXBCbllvMDh0OGtrRGt2WHN5ZF94alpsTWJkdTF6UDY1SkR5MzFiZERQVHBScFg1cEJhWThOOS1zeWlXV0Rma0R0VS1GdFBpZXhUWDRsSnlaRU9jSG5XSXN0R0RnUjJaQmJXQjMydU83a3A3eGgta3ZzdHMtXzJWbzhFeGtoTlpkd0RRSWRmLTBJMDN3cTE2dmhZR0lzam9rZnllRDZIdw?oc=5",
+    "time": "2026-09-18",
+    "_ts": 1789768638000,
+    "_isFresh": true
+  },
+  {
+    "cat": "国际局势",
     "title": "2026年“新生万物——中国非遗与当代设计展”伦敦举行",
     "summary": "中新网伦敦9月18日电(记者 欧阳开宇)2026“新生万物——中国非遗与当代设计展”(以下简称“新生万物展”)日前在英国伦敦萨默塞特宫(Somerset House)拉开帷幕。",
     "source": "中国新闻网",
@@ -347,56 +397,6 @@
     "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260918-%E6%99%AE%E4%BA%AC%E6%94%BF%E6%9D%83%E5%90%AF%E5%8A%A8%E7%AB%8B%E6%B3%95%E9%80%89%E4%B8%BE-%E6%8E%92%E9%99%A4%E5%BC%82%E5%B7%B1%E5%A3%B0%E9%9F%B3%EF%BC%8C%E9%87%8D%E5%A1%91%E6%94%AF%E6%8C%81%E5%AF%B9%E4%B9%8C%E6%88%98%E4%BA%89%E8%88%86%E8%AE%BA",
     "time": "2026-09-18",
     "_ts": 1789743760000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "莫桑比克南部交通事故致至少17人死亡",
-    "summary": "莫桑比克南部伊尼扬巴内省当地时间17日晚发生一起交通事故，造成至少17人死亡、2人受伤，其中1人伤势严重。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699129.shtml",
-    "time": "2026-09-18",
-    "_ts": 1789730613000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "巴基斯坦西北部爆炸事故已致16人死亡",
-    "summary": "当地时间18日，巴基斯坦西北部开伯尔-普什图省一座清真寺附近发生爆炸。当地警方称，袭击已导致16人死亡。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699107.shtml",
-    "time": "2026-09-18",
-    "_ts": 1789725662000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "菲律宾校园枪击案死亡人数更正为3人",
-    "summary": "当地时间18日，菲律宾社会福利与发展部发文称，根据17时的最新报告，将当天发生在南哥打巴托省的校园枪击案的死亡人数更正为3人，另有8人受伤。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699106.shtml",
-    "time": "2026-09-18",
-    "_ts": 1789725601000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "2026中欧未来智造论坛举行",
-    "summary": "中新网柏林9月18日电 在2026德国企业家高峰论坛期间，中欧未来智造论坛近日在德国柏林举行。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699085.shtml",
-    "time": "2026-09-18",
-    "_ts": 1789724740000,
-    "_isFresh": true
-  },
-  {
-    "cat": "国际局势",
-    "title": "“2026中柬唇腭裂公益救助行动”在金边启动",
-    "summary": "中新网金边9月18日电(杨强 张堰林)“2026中柬唇腭裂公益救助行动”当地时间17日在金边柬苏友谊医院启动，微笑明天慈善基金会携手微笑柬埔寨、中国狮子联会浙江代表处、逸杰国际慈善基金会，集结中柬两国优质医疗志愿团队，以集中慈善手术的形式庆祝中柬微笑公益活动20周年。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699044.shtml",
-    "time": "2026-09-18",
-    "_ts": 1789723223000,
     "_isFresh": true
   },
   {
@@ -491,12 +491,22 @@
   },
   {
     "cat": "争议新闻",
-    "title": "九一八事变爆发95周年 哈尔滨开展抗联主题展览与红色展演",
-    "summary": "中新网哈尔滨9月18日电 (史轶夫 任芊憓)九一八事变爆发95周年，18日下午，在位于哈尔滨市的侵华日军第七三一部队罪证陈列馆举办《抗联之魂全景画专题展》，赓续红色血脉、弘扬东北抗联精神。",
-    "source": "中国新闻网",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699219.shtml",
+    "title": "王锦松漫画",
+    "summary": "点击查看新闻详情",
+    "source": "联合早报",
+    "url": "https://www.zaobao.com.sg/forum/comic/story20260919-9700437",
     "time": "2026-09-18",
-    "_ts": 1789739972000,
+    "_ts": 1789765200000,
+    "_isFresh": true
+  },
+  {
+    "cat": "健康养生",
+    "title": "2027年城乡居民医保缴费启动",
+    "summary": "点击查看新闻详情",
+    "source": "新浪财经_金融信息服务商",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44a1poV1dWVFBzbldhb0JOUVdmU0JCeWE3Y09NNXhPdGlfajZKX1NQdlV3TVVoUTZETTJ5Zl9HV0NnbW5id1BZT3l4c180NDdzek5TREVMNXh0b2FZaW43cVkyb01VN0cxdWFyZVJ5WG5YMUU0T05KZQ?oc=5",
+    "time": "2026-09-18",
+    "_ts": 1789767372000,
     "_isFresh": true
   },
   {
@@ -553,7 +563,7 @@
     "cat": "健康养生",
     "title": "十部门发布医药“十五五”规划：6项指标盯创新",
     "summary": "点击查看新闻详情",
-    "source": "同花顺",
+    "source": "同花顺财经",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45U05Iclk2NGNsRUFhN2lTZGhXSTZ6UGNDNlJJRFB2bWtKUDJZTVZDZlEyc3ZSZDEtRVVIVTVURjJPUGp2YktTdlpKSW9QaTJoT1J6LWQzYm5Ec3VCc2h5SXM5Z0pxS1lmYUVtaFhONEZEbzFOcEJlVVhmblRaUQ?oc=5",
     "time": "2026-09-18",
     "_ts": 1789704644000,
@@ -566,7 +576,7 @@
     "source": "摩熵医药",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UR2t4dzhsUi0tb01URzRPYkZjb1VzSW5qR3ZPVkNiNlN5dVJ0M0ZzRkdnNl9XUUNSY0xHbkdyMFFabUlESy00dzRtREUzQl81X20tbFd6VmVlQQ?oc=5",
     "time": "2026-09-18",
-    "_ts": 1789698743000,
+    "_ts": 1789701247000,
     "_isFresh": true
   },
   {
@@ -587,16 +597,6 @@
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aMVE1WE1vZTQ5NVN2a19pNWZRUjFfVlBFSElHYjhLVDNqRnpnNk9icC1KSVN6YmMtRzJ6MjlLcnJKbWtFQm9SVXh4ZF9lYk83ZWkwaUluVGpodVg5?oc=5",
     "time": "2026-09-18",
     "_ts": 1789696680000,
-    "_isFresh": true
-  },
-  {
-    "cat": "健康养生",
-    "title": "工信部、国家发改委、自然资源部、农业农村部、商务部、国家卫健委、应急管理部、国家医保局、国家中医药局、国家药监局，联合发布规划",
-    "summary": "点击查看新闻详情",
-    "source": "Sohu",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5Zll1ZnpBU3hFYkdjVGxhdXJQU2xjOEtQd0tubGhVM3Q5dXZnTWVfVTdmU3RwVG5QczBkRUpfc0J5TFpGS0dXemdpbnFfMEpsWXc?oc=5",
-    "time": "2026-09-18",
-    "_ts": 1789713670000,
     "_isFresh": true
   }
 ]
